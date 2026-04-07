@@ -1,0 +1,84 @@
+name: Update Daily Brief
+
+on:
+  schedule:
+    - cron: '30 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-brief:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate brief.json
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+
+          const date = new Date().toISOString().slice(0, 10);
+
+          const brief = {
+            date,
+            global: [
+              {
+                title: "Replace with automated global article generation",
+                summary: "This workflow is connected. Next we will upgrade it to pull and summarize real stories automatically.",
+                url: "https://example.com/global"
+              }
+            ],
+            canadian: [
+              {
+                title: "Replace with automated Canadian article generation",
+                summary: "This confirms the daily workflow can write a fresh brief.json file into the repo.",
+                url: "https://example.com/canada"
+              }
+            ],
+            local: [
+              {
+                title: "Replace with automated local article generation",
+                summary: "We can tailor this to Fraser Valley, Abbotsford, Chilliwack, or your preferred local coverage area.",
+                url: "https://example.com/local"
+              }
+            ],
+            persecutedChurch: [
+              {
+                title: "Replace with automated persecuted church update",
+                summary: "This section can later pull from trusted sources like Open Doors or Release International.",
+                url: "https://example.com/persecuted"
+              }
+            ],
+            leadership: {
+              title: "Leadership article placeholder",
+              summary: "This will later generate a daily leadership-strengthening piece shaped by Sustainable Leadership.",
+              url: "https://example.com/leadership"
+            },
+            goodNews: {
+              title: "Good news placeholder",
+              summary: "This will later highlight one encouraging story each day.",
+              url: "https://example.com/goodnews"
+            }
+          };
+
+          fs.writeFileSync('brief.json', JSON.stringify(brief, null, 2));
+          EOF
+
+      - name: Commit updated brief
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add brief.json
+          git diff --cached --quiet || git commit -m "Update daily brief"
+          git push
