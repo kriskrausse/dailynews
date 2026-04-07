@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pastoral Daily News</title>
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --card: #fffdf9;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --line: #e5ddd1;
+      --accent: #8b5e3c;
+      --accent-soft: #efe4d7;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 32px 20px 56px;
+    }
+    .hero {
+      margin-bottom: 28px;
+    }
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 10px;
+      font-weight: 700;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: clamp(32px, 5vw, 48px);
+      line-height: 1.05;
+      font-family: Georgia, serif;
+      color: #2f241c;
+    }
+    .sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    .grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 20px;
+      box-shadow: 0 8px 24px rgba(31, 41, 55, 0.05);
+    }
+    .card h2 {
+      margin: 0 0 14px;
+      font-size: 18px;
+      color: #2f241c;
+    }
+    .story {
+      padding: 12px 0;
+      border-top: 1px solid var(--line);
+    }
+    .story:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+    .story a {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .story a:hover { color: var(--accent); }
+    .summary {
+      margin: 6px 0 0;
+      color: #4b5563;
+      font-size: 14px;
+    }
+    .meta {
+      margin-top: 24px;
+      font-size: 13px;
+      color: var(--muted);
+      text-align: center;
+    }
+    .loading, .error {
+      padding: 40px 20px;
+      text-align: center;
+      color: var(--muted);
+    }
+    .feature {
+      background: linear-gradient(135deg, var(--accent-soft), #f8f3ec);
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <div class="eyebrow">Daily pastoral dashboard</div>
+      <h1>What matters today</h1>
+      <p class="sub" id="dateLine">Loading today’s brief...</p>
+    </div>
+
+    <div id="app" class="loading">Loading brief...</div>
+
+    <div class="meta">Updated daily at 5:30am PT, prepared for Kris Krausse</div>
+  </div>
+
+  <script>
+    const sections = [
+      ['global', '🌍 Global Events'],
+      ['canadian', '🍁 Canadian Events'],
+      ['local', '📍 Local Events'],
+      ['persecutedChurch', '✝️ Persecuted Church'],
+      ['leadership', '📚 Leadership Strengthener'],
+      ['goodNews', '✨ Good News']
+    ];
+
+    function escapeHtml(str = '') {
+      return str
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function renderStories(items) {
+      if (!items || !items.length) return '<div class="story"><p class="summary">No stories available today.</p></div>';
+      return items.map(item => `
+        <div class="story">
+          <a href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || 'Untitled')}</a>
+          <p class="summary">${escapeHtml(item.summary || '')}</p>
+        </div>
+      `).join('');
+    }
+
+    function renderFeature(item) {
+      if (!item || !item.title) return '<div class="story"><p class="summary">No article available today.</p></div>';
+      return `
+        <div class="story">
+          <a href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
+          <p class="summary">${escapeHtml(item.summary || '')}</p>
+        </div>
+      `;
+    }
+
+    async function loadBrief() {
+      const app = document.getElementById('app');
+      try {
+        const response = await fetch('./brief.json?t=' + Date.now());
+        if (!response.ok) throw new Error('Unable to load brief.json');
+        const data = await response.json();
+
+        const date = new Date((data.date || new Date().toISOString().slice(0, 10)) + 'T12:00:00');
+        document.getElementById('dateLine').textContent = date.toLocaleDateString('en-CA', {
+          weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+        });
+
+        app.className = 'grid';
+        app.innerHTML = sections.map(([key, label]) => {
+          const isFeature = key === 'leadership' || key === 'goodNews';
+          const content = isFeature ? renderFeature(data[key]) : renderStories(data[key]);
+          return `<section class="card ${isFeature ? 'feature' : ''}"><h2>${label}</h2>${content}</section>`;
+        }).join('');
+      } catch (error) {
+        app.className = 'error';
+        app.textContent = 'Could not load today’s brief.';
+        console.error(error);
+      }
+    }
+
+    loadBrief();
+  </script>
+</body>
+</html>
