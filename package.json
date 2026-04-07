@@ -1,15 +1,17 @@
 
 {
-"name": "pastor-dashboard",
-"version": "1.0.0",
-"description": "Dashboard that displays curated news for pastoral responsibilities.",
-"main": "server.js",
-"scripts": {
-"start": "node server.js"
-},
-"dependencies": {
-"axios": "^0.27.2",
-"express": "^4.18.2",
-"node-cron": "^3.0.2"
-}
+  "name": "pastor-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard that displays curated news for pastoral responsibilities.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate:brief": "node scripts/generate-brief.mjs"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2",
+    "rss-parser": "^3.13.0"
+  }
 }
