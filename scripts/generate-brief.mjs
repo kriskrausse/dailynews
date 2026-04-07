@@ -1,109 +1,53 @@
 import fs from 'fs';
-import Parser from 'rss-parser';
 
-const parser = new Parser();
 const date = new Date().toISOString().slice(0, 10);
 
-const FEEDS = {
-  global: [
-    'https://feeds.reuters.com/reuters/worldNews',
-    'https://feeds.bbci.co.uk/news/world/rss.xml'
-  ],
-  canadian: [
-    'https://www.cbc.ca/webfeed/rss/rss-canada',
-    'https://globalnews.ca/canada/feed/'
-  ],
-  local: [
-    'https://www.abbynews.com/feed/',
-    'https://www.theprogress.com/feed/'
-  ],
-  persecutedChurch: [
-    'https://www.opendoorsus.org/en-US/rss/news/',
-    'https://releaseinternational.org/feed/'
-  ],
-  goodNewsFeed: [
-    'https://www.goodnewsnetwork.org/feed/',
-    'https://www.positive.news/feed/'
-  ],
-  leadershipFeed: [
-    'https://hbr.org/feed',
-    'https://www.fastcompany.com/section/leadership/rss'
-  ]
-};
+async function tavilySearch(query, days = 7, maxResults = 5) {
+  const response = await fetch('https://api.tavily.com/search', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      api_key: process.env.TAVILY_API_KEY,
+      query,
+      search_depth: 'advanced',
+      topic: 'news',
+      days,
+      max_results: maxResults,
+      include_answer: false,
+      include_raw_content: false
+    })
+  });
 
-async function readFeeds(urls, limit = 8) {
-  const items = [];
-  for (const url of urls) {
-    try {
-      const feed = await parser.parseURL(url);
-      for (const item of (feed.items || []).slice(0, limit)) {
-        items.push({
-          title: item.title || '',
-          url: item.link || '',
-          summary: item.contentSnippet || item.content || item.summary || '',
-          source: feed.title || url,
-          pubDate: item.pubDate || ''
-        });
-      }
-    } catch (error) {
-      console.error(`Failed feed: ${url}`, error.message);
-    }
+  if (!response.ok) {
+    const text = await response.text();
+    throw new Error(`Tavily error: ${response.status} ${text}`);
   }
-  return items.slice(0, limit);
-}
 
-function compact(items) {
-  return items.map(item => ({
-    title: item.title,
-    url: item.url,
-    summary: (item.summary || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim().slice(0, 240),
-    source: item.source
+  const data = await response.json();
+  return (data.results || []).map(item => ({
+    title: item.title || '',
+    url: item.url || '',
+    summary: item.content || ''
   }));
 }
 
-async function buildPromptData() {
-  const [global, canadian, local, persecutedChurch, goodNewsFeed, leadershipFeed] = await Promise.all([
-    readFeeds(FEEDS.global),
-    readFeeds(FEEDS.canadian),
-    readFeeds(FEEDS.local),
-    readFeeds(FEEDS.persecutedChurch),
-    readFeeds(FEEDS.goodNewsFeed),
-    readFeeds(FEEDS.leadershipFeed)
-  ]);
-
-  return {
-    date,
-    candidates: {
-      global: compact(global),
-      canadian: compact(canadian),
-      local: compact(local),
-      persecutedChurch: compact(persecutedChurch),
-      leadershipFeed: compact(leadershipFeed),
-      goodNewsFeed: compact(goodNewsFeed)
-    }
-  };
-}
-
 async function generateBrief() {
-  const promptData = await buildPromptData();
+  const searches = {
+    global: await tavilySearch('most important global news today', 7, 6),
+    canadian: await tavilySearch('most important Canada news today', 7, 6),
+    local: await tavilySearch('Fraser Valley Abbotsford Chilliwack local news', 7, 6),
+    persecutedChurch: await tavilySearch('persecuted church Christian persecution news', 14, 6),
+    leadership: await tavilySearch('leadership article sustainable leadership healthy leadership organizational trust', 14, 4),
+    goodNews: await tavilySearch('uplifting good news story today', 14, 4)
+  };
 
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
-    },
-    body: JSON.stringify({
-      model: 'gpt-4.1-mini',
-      temperature: 0.4,
-      messages: [
-        {
-          role: 'system',
-          content: 'You create a pastoral daily dashboard from real source candidates. Return valid JSON only. Do not invent URLs. Choose from the provided candidates only.'
-        },
-        {
-          role: 'user',
-          content: `Using ONLY the candidate stories below, produce JSON in this shape:
+  const prompt = `
+You are preparing a daily pastoral dashboard for Kris Krausse, a lead pastor in British Columbia, Canada.
+
+Use ONLY the search results provided below. Return ONLY valid JSON in this exact shape:
+
 {
   "date": "YYYY-MM-DD",
   "global": [{ "title": "", "summary": "", "url": "" }],
@@ -115,35 +59,52 @@ async function generateBrief() {
 }
 
 Rules:
-- choose up to 3 items for global, canadian, and local
-- choose up to 2 items for persecutedChurch
-- choose 1 item for leadership from leadershipFeed if possible, otherwise create a short reflection based on Sustainable Leadership and use an empty url
-- choose 1 item for goodNews from goodNewsFeed if possible
-- summaries must be 1-2 sentences, warm, concise, and useful for a pastor
-- preserve exact urls from candidates
-- do not invent facts beyond what is reasonably inferable from the candidate story text
-- return JSON only
+- choose up to 3 stories each for global, canadian, and local
+- choose up to 2 stories for persecutedChurch
+- choose 1 story for leadership
+- choose 1 story for goodNews
+- preserve exact URLs from provided results
+- summaries should be concise, pastoral, and useful
+- do not invent URLs
+- do not use markdown
+- output JSON only
 
-Candidate data:
-${JSON.stringify(promptData, null, 2)}`
-        }
+Search results:
+${JSON.stringify(searches, null, 2)}
+`;
+
+  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
+    },
+    body: JSON.stringify({
+      model: 'gpt-4.1-mini',
+      temperature: 0.3,
+      messages: [
+        { role: 'system', content: 'You create structured pastoral news briefings from real search results. JSON only.' },
+        { role: 'user', content: prompt }
       ]
     })
   });
 
   if (!response.ok) {
     const text = await response.text();
-    throw new Error(`OpenAI API error: ${response.status} ${text}`);
+    throw new Error(`OpenAI error: ${response.status} ${text}`);
   }
 
   const data = await response.json();
   const content = data.choices?.[0]?.message?.content;
-  if (!content) throw new Error('No content returned from OpenAI');
+
+  if (!content) {
+    throw new Error('No content returned from OpenAI');
+  }
 
   let brief;
   try {
     brief = JSON.parse(content);
-  } catch (error) {
+  } catch (err) {
     throw new Error(`Invalid JSON returned: ${content}`);
   }
 
@@ -151,7 +112,7 @@ ${JSON.stringify(promptData, null, 2)}`
   fs.writeFileSync('brief.json', JSON.stringify(brief, null, 2));
 }
 
-generateBrief().catch(error => {
-  console.error(error);
+generateBrief().catch(err => {
+  console.error(err);
   process.exit(1);
 });
