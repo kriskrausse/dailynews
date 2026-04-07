@@ -1,41 +1,41 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "global": [
     {
-      "title": "Global diplomats weigh escalating trade and security tensions",
-      "summary": "A quick pulse check on major international pressures shaping public anxiety, migration, and economic uncertainty.",
+      "title": "Replace with automated global article generation",
+      "summary": "This workflow is connected. Next we will upgrade it to pull and summarize real stories automatically.",
       "url": "https://example.com/global"
     }
   ],
   "canadian": [
     {
-      "title": "Canadian leaders debate affordability and social cohesion",
-      "summary": "National conversations around housing, cost of living, and political trust continue to shape family stress and public discourse.",
+      "title": "Replace with automated Canadian article generation",
+      "summary": "This confirms the daily workflow can write a fresh brief.json file into the repo.",
       "url": "https://example.com/canada"
     }
   ],
   "local": [
     {
-      "title": "Fraser Valley communities prepare for another busy spring week",
-      "summary": "Regional rhythms, school schedules, and community pressures continue to affect the daily emotional texture of church life.",
+      "title": "Replace with automated local article generation",
+      "summary": "We can tailor this to Fraser Valley, Abbotsford, Chilliwack, or your preferred local coverage area.",
       "url": "https://example.com/local"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Believers in restricted regions ask for prayer and endurance",
-      "summary": "Reports from global ministry networks highlight pressure on pastors and congregations meeting under surveillance and social threat.",
+      "title": "Replace with automated persecuted church update",
+      "summary": "This section can later pull from trusted sources like Open Doors or Release International.",
       "url": "https://example.com/persecuted"
     }
   ],
   "leadership": {
-    "title": "Sustainable leadership means building rhythms you can actually keep",
-    "summary": "A leadership reflection shaped by Gayel Avery’s emphasis on endurance, health, long-term thinking, and organizational trust.",
+    "title": "Leadership article placeholder",
+    "summary": "This will later generate a daily leadership-strengthening piece shaped by Sustainable Leadership.",
     "url": "https://example.com/leadership"
   },
   "goodNews": {
-    "title": "One local church’s generosity becomes tangible hope for families",
-    "summary": "A reminder that quiet faithfulness still changes lives, often without headlines but never without fruit.",
+    "title": "Good news placeholder",
+    "summary": "This will later highlight one encouraging story each day.",
     "url": "https://example.com/goodnews"
   }
 }
