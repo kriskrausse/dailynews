@@ -2,40 +2,75 @@
   "date": "2026-04-07",
   "global": [
     {
-      "title": "Replace with automated global article generation",
-      "summary": "This workflow is connected. Next we will upgrade it to pull and summarize real stories automatically.",
-      "url": "https://example.com/global"
+      "title": "ABC World News Tonight with David Muir Full Broadcast - April 2, 2026 - Modern Ghana",
+      "summary": "Comprehensive global news including critical developments in the Artemis II moon mission, geopolitical tensions involving Iran, and significant world events impacting communities.",
+      "url": "https://www.modernghana.com/amp/videonews/632003"
+    },
+    {
+      "title": "Watch: Trump calls Artemis II crew, congratulates them on historic trip around moon - CBS News",
+      "summary": "President Trump congratulates the Artemis II crew on their historic mission around the moon, highlighting a milestone in space exploration.",
+      "url": "https://www.cbsnews.com/video/watch-trump-calls-artemis-ii-crew-congratulates-them-on-historic-trip-around-moon/"
+    },
+    {
+      "title": "Artemis II crew regains contact with Earth after planned blackout | Special Report - CBS News",
+      "summary": "The Artemis II crew successfully reestablishes communication with Earth after a planned blackout, marking progress in their lunar mission.",
+      "url": "https://www.cbsnews.com/video/artemis-ii-crew-regains-contact-earth-special-report/"
     }
   ],
   "canadian": [
     {
-      "title": "Replace with automated Canadian article generation",
-      "summary": "This confirms the daily workflow can write a fresh brief.json file into the repo.",
-      "url": "https://example.com/canada"
+      "title": "No turning back: After critical engine burn, Jeremy Hansen is moonbound - CTV News",
+      "summary": "Canadian astronaut Jeremy Hansen advances on his lunar journey following a critical engine burn, exemplifying courage and dedication in space exploration.",
+      "url": "https://www.ctvnews.ca/sci-tech/article/no-turning-back-after-critical-engine-burn-jeremy-hansen-is-moon-bound/"
+    },
+    {
+      "title": "LaGuardia controller staffing may have violated procedures on night of collision, document shows - CTV News",
+      "summary": "Investigation reveals possible procedural violations by LaGuardia air traffic controllers during a night collision, underscoring the importance of safety and vigilance.",
+      "url": "https://www.ctvnews.ca/canada/article/laguardia-controller-staffing-may-have-violated-procedures-on-night-of-collision-document-shows/"
+    },
+    {
+      "title": "Watch: Trump calls Artemis II crew, congratulates them on historic trip around moon - CBS News",
+      "summary": "Coverage of President Trump's call to the Artemis II crew, celebrating their historic lunar mission, reflecting pride in Canadian and international space efforts.",
+      "url": "https://www.cbsnews.com/video/watch-trump-calls-artemis-ii-crew-congratulates-them-on-historic-trip-around-moon/"
     }
   ],
   "local": [
     {
-      "title": "Replace with automated local article generation",
-      "summary": "We can tailor this to Fraser Valley, Abbotsford, Chilliwack, or your preferred local coverage area.",
-      "url": "https://example.com/local"
+      "title": "Barge Catches Fire in Vancouver's Fraser River Port District - The Maritime Executive",
+      "summary": "A significant fire broke out on a barge in Vancouver's Fraser River port, reminding us to pray for safety and protection for first responders and the community.",
+      "url": "https://maritime-executive.com/article/barge-catches-fire-in-vancouver-s-fraser-river-port-district"
+    },
+    {
+      "title": "Nitrate pollution, agriculture’s persistent problem, expected to worsen with warming winters - applevalleynewsnow.com",
+      "summary": "Environmental concerns rise as warming winters increase nitrate pollution risks, calling for stewardship of God's creation and care for our land.",
+      "url": "https://www.applevalleynewsnow.com/news/shareable-stories/nitrate-pollution-agriculture-s-persistent-problem-expected-to-worsen-with-warming-winters/video_648996f5-8e7a-550d-a15a-1714947b2815.html"
+    },
+    {
+      "title": "First Alert Weather Sunday morning forecast 4-5-26 - CBS News",
+      "summary": "Weather forecast for local areas includes partly cloudy skies with showers, encouraging preparedness and care for neighbors during changing conditions.",
+      "url": "https://www.cbsnews.com/sanfrancisco/video/first-alert-weather-sunday-morning-forecast-4-5-26/"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Replace with automated persecuted church update",
-      "summary": "This section can later pull from trusted sources like Open Doors or Release International.",
-      "url": "https://example.com/persecuted"
+      "title": "Nigeria's Christians on edge for Easter after Palm Sunday massacre - foxnews.com",
+      "summary": "Christians in Nigeria face grave persecution and violence, especially during holy seasons, reminding us to uphold them in prayer and solidarity.",
+      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre"
+    },
+    {
+      "title": "Christian outrage erupts after Israel blocks Latin patriarch from Holy Sepulcher on Palm Sunday - ynetnews.com",
+      "summary": "For the first time in centuries, Catholic leaders were prevented from celebrating Palm Sunday Mass in Jerusalem, a call to pray for religious freedom and peace.",
+      "url": "https://www.ynetnews.com/article/b1kg13uj11e"
     }
   ],
   "leadership": {
-    "title": "Leadership article placeholder",
-    "summary": "This will later generate a daily leadership-strengthening piece shaped by Sustainable Leadership.",
-    "url": "https://example.com/leadership"
+    "title": "Trust brokering: The leadership capability no one is developing - HR Magazine",
+    "summary": "Leaders are called to build and broker trust within their communities, showing visible commitment to individuals and organizations, especially in challenging times.",
+    "url": "https://www.hrmagazine.co.uk/content/comment/trust-brokering-the-leadership-capability-no-one-is-developing"
   },
   "goodNews": {
-    "title": "Good news placeholder",
-    "summary": "This will later highlight one encouraging story each day.",
-    "url": "https://example.com/goodnews"
+    "title": "Good News: Students celebrate retirement of longtime cafeteria worker - modernghana.com",
+    "summary": "Students joyfully celebrate the retirement of a beloved cafeteria worker who served with love and joy for decades, inspiring community and gratitude.",
+    "url": "https://www.modernghana.com/amp/videonews/632850"
   }
 }
