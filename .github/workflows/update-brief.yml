@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '22'
 
-      -       - name: Generate brief.json
+      - name: Generate brief.json
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
@@ -48,12 +48,12 @@ Return ONLY valid JSON with this exact shape:
 Requirements:
 - 3 global stories
 - 3 Canadian stories
-- 3 local stories relevant to Fraser Valley / Abbotsford / Chilliwack / lower mainland if possible
+- 3 local stories relevant to Fraser Valley, Abbotsford, Chilliwack, or the Lower Mainland if possible
 - 2 persecuted church stories
 - 1 leadership article shaped by the principles of Sustainable Leadership by Gayel Avery
 - 1 genuinely encouraging good news story
 - summaries should be 1 to 2 sentences, clear and pastoral
-- include real-looking urls
+- include plausible source urls
 - date must be today's date
 - no markdown
 - no commentary outside JSON
@@ -104,11 +104,8 @@ Requirements:
           });
           EOF
 
-
       - name: Commit updated brief
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add brief.json
-          git diff --cached --quiet || git commit -m "Update daily brief"
-          git push
+          git config user.email
+
