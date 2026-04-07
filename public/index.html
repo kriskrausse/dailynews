@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pastoral News Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
+    h1 { color: #2c3e50; }
+    .news-section { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    .news-section h2 { color: #34495e; border-bottom: 2px solid #3498db; padding-bottom: 8px; }
+    .news-item { margin-bottom: 10px; padding: 8px 0; border-bottom: 1px solid #eee; }
+    .news-item a { color: #3498db; text-decoration: none; font-weight: bold; }
+    .news-item a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>📋 Pastoral News Dashboard</h1>
+  <div id="dashboard">
+    <div class="news-section">
+      <h2>🌍 Global News</h2>
+      <div id="global-content">Loading...</div>
+    </div>
+    <div class="news-section">
+      <h2>🍁 Canadian News</h2>
+      <div id="canadian-content">Loading...</div>
+    </div>
+    <div class="news-section">
+      <h2>📍 Local News</h2>
+      <div id="local-content">Loading...</div>
+    </div>
+    <div class="news-section">
+      <h2>✝️ Persecuted Church</h2>
+      <div id="persecuted-content">Loading...</div>
+    </div>
+    <div class="news-section">
+      <h2>📚 Leadership Boost</h2>
+      <div id="leadership-content">Loading...</div>
+    </div>
+    <div class="news-section">
+      <h2>🙏 God News</h2>
+      <div id="god-content">Loading...</div>
+    </div>
+  </div>
+
+  <script>
+    async function loadNews() {
+      try {
+        const response = await fetch('/api/news');
+        const data = await response.json();
+        document.getElementById('global-content').innerHTML = data.global.map(item => 
+          `<div class="news-item"><a href="${item.url}" target="_blank">${item.title}</a></div>`
+        ).join('');
+        document.getElementById('canadian-content').innerHTML = data.canadian.map(item => 
+          `<div class="news-item"><a href="${item.url}" target="_blank">${item.title}</a></div>`
+        ).join('');
+        document.getElementById('local-content').innerHTML = data.local.map(item => 
+          `<div class="news-item"><a href="${item.url}" target="_blank">${item.title}</a></div>`
+        ).join('');
+        document.getElementById('persecuted-content').innerHTML = data.persecutedChurch.map(item => 
+          `<div class="news-item"><a href="${item.url}" target="_blank">${item.title}</a></div>`
+        ).join('');
+        document.getElementById('leadership-content').innerHTML = `<div class="news-item"><a href="${data.leadership.url}" target="_blank">${data.leadership.title}</a></div>`;
+        document.getElementById('god-content').innerHTML = `<div class="news-item"><a href="${data.godNews.url}" target="_blank">${data.godNews.title}</a></div>`;
+      } catch (error) {
+        console.error('Error loading news:', error);
+      }
+    }
+
+    loadNews();
+    setInterval(loadNews, 60 * 60 * 1000);
+  </script>
+</body>
+</html>
