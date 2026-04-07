@@ -24,9 +24,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Generate brief.json from real feeds
+      - name: Generate brief.json from live search
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: npm run generate:brief
 
       - name: Commit updated brief
