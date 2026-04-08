@@ -1,8 +1,10 @@
 import fs from 'fs';
 
-const date = new Date().toISOString().slice(0, 10);
+const now = new Date();
+const date = now.toISOString().slice(0, 10);
+const updatedAt = now.toISOString();
 
-async function tavilySearch(query, days = 7, maxResults = 5) {
+async function tavilySearch(query, days = 7, maxResults = 6) {
   const response = await fetch('https://api.tavily.com/search', {
     method: 'POST',
     headers: {
@@ -50,12 +52,13 @@ Use ONLY the search results provided below. Return ONLY valid JSON in this exact
 
 {
   "date": "YYYY-MM-DD",
-  "global": [{ "title": "", "summary": "", "url": "" }],
-  "canadian": [{ "title": "", "summary": "", "url": "" }],
-  "local": [{ "title": "", "summary": "", "url": "" }],
-  "persecutedChurch": [{ "title": "", "summary": "", "url": "" }],
-  "leadership": { "title": "", "summary": "", "url": "" },
-  "goodNews": { "title": "", "summary": "", "url": "" }
+  "updatedAt": "ISO_TIMESTAMP",
+  "global": [{ "title": "", "summary": "", "whyItMatters": "", "url": "" }],
+  "canadian": [{ "title": "", "summary": "", "whyItMatters": "", "url": "" }],
+  "local": [{ "title": "", "summary": "", "whyItMatters": "", "url": "" }],
+  "persecutedChurch": [{ "title": "", "summary": "", "whyItMatters": "", "url": "" }],
+  "leadership": { "title": "", "summary": "", "whyItMatters": "", "url": "" },
+  "goodNews": { "title": "", "summary": "", "whyItMatters": "", "url": "" }
 }
 
 Rules:
@@ -65,6 +68,7 @@ Rules:
 - choose 1 story for goodNews
 - preserve exact URLs from provided results
 - summaries should be concise, pastoral, and useful
+- whyItMatters should be a short explanation of why this is worth your attention as a pastor, leader, or preacher
 - do not invent URLs
 - do not use markdown
 - output JSON only
@@ -109,10 +113,8 @@ ${JSON.stringify(searches, null, 2)}
   }
 
   brief.date = date;
+  brief.updatedAt = updatedAt;
   fs.writeFileSync('brief.json', JSON.stringify(brief, null, 2));
 }
 
-generateBrief().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+generateBrief().catch
