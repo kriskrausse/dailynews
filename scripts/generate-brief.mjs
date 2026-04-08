@@ -117,4 +117,7 @@ ${JSON.stringify(searches, null, 2)}
   fs.writeFileSync('brief.json', JSON.stringify(brief, null, 2));
 }
 
-generateBrief().catch
+generateBrief().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
