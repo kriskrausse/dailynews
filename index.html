@@ -86,6 +86,16 @@
       color: #4b5563;
       font-size: 14px;
     }
+    .why {
+      margin: 8px 0 0;
+      color: #5b4636;
+      font-size: 13px;
+      line-height: 1.45;
+      background: rgba(139, 94, 60, 0.08);
+      border-left: 3px solid rgba(139, 94, 60, 0.4);
+      padding: 10px 12px;
+      border-radius: 8px;
+    }
     .meta {
       margin-top: 24px;
       font-size: 13px;
@@ -108,6 +118,7 @@
       <div class="eyebrow">Daily pastoral dashboard</div>
       <h1>What matters today</h1>
       <p class="sub" id="dateLine">Loading today’s brief...</p>
+      <p class="sub" id="updatedLine" style="margin-top:6px;font-size:14px;">Checking latest update...</p>
     </div>
 
     <div id="app" class="loading">Loading brief...</div>
@@ -134,12 +145,18 @@
         .replace(/'/g, '&#39;');
     }
 
+    function renderWhyItMatters(text) {
+      if (!text) return '';
+      return `<p class="why"><strong>Why this matters for you:</strong> ${escapeHtml(text)}</p>`;
+    }
+
     function renderStories(items) {
       if (!items || !items.length) return '<div class="story"><p class="summary">No stories available today.</p></div>';
       return items.map(item => `
         <div class="story">
           <a href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title || 'Untitled')}</a>
           <p class="summary">${escapeHtml(item.summary || '')}</p>
+          ${renderWhyItMatters(item.whyItMatters)}
         </div>
       `).join('');
     }
@@ -150,6 +167,7 @@
         <div class="story">
           <a href="${escapeHtml(item.url || '#')}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a>
           <p class="summary">${escapeHtml(item.summary || '')}</p>
+          ${renderWhyItMatters(item.whyItMatters)}
         </div>
       `;
     }
@@ -165,6 +183,16 @@
         document.getElementById('dateLine').textContent = date.toLocaleDateString('en-CA', {
           weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
         });
+
+        const updatedLine = document.getElementById('updatedLine');
+        if (data.updatedAt) {
+          const updated = new Date(data.updatedAt);
+          updatedLine.textContent = 'Last updated: ' + updated.toLocaleString('en-CA', {
+            weekday: 'short', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+          });
+        } else {
+          updatedLine.textContent = 'Last updated time not available yet.';
+        }
 
         app.className = 'grid';
         app.innerHTML = sections.map(([key, label]) => {
