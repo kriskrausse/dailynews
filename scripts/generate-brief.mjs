@@ -4,7 +4,33 @@ const now = new Date();
 const date = now.toISOString().slice(0, 10);
 const updatedAt = now.toISOString();
 
-async function tavilySearch(query, days = 7, maxResults = 6) {
+function readPreviousTitles() {
+  try {
+    const existing = JSON.parse(fs.readFileSync('brief.json', 'utf8'));
+    const titles = [];
+
+    const collect = items => {
+      if (Array.isArray(items)) {
+        items.forEach(item => item?.title && titles.push(item.title));
+      } else if (items?.title) {
+        titles.push(items.title);
+      }
+    };
+
+    collect(existing.global);
+    collect(existing.canadian);
+    collect(existing.local);
+    collect(existing.persecutedChurch);
+    collect(existing.leadership);
+    collect(existing.goodNews);
+
+    return titles;
+  } catch {
+    return [];
+  }
+}
+
+async function tavilySearch(query, days = 2, maxResults = 8) {
   const response = await fetch('https://api.tavily.com/search', {
     method: 'POST',
     headers: {
@@ -36,13 +62,15 @@ async function tavilySearch(query, days = 7, maxResults = 6) {
 }
 
 async function generateBrief() {
+  const previousTitles = readPreviousTitles();
+
   const searches = {
-    global: await tavilySearch('most important global news today', 7, 6),
-    canadian: await tavilySearch('most important Canada news today', 7, 6),
-    local: await tavilySearch('Fraser Valley Abbotsford Chilliwack local news', 7, 6),
-    persecutedChurch: await tavilySearch('persecuted church Christian persecution news', 14, 6),
-    leadership: await tavilySearch('leadership article sustainable leadership healthy leadership organizational trust', 14, 4),
-    goodNews: await tavilySearch('uplifting good news story today', 14, 4)
+    global: await tavilySearch('major global developments in the last 24 hours', 2, 8),
+    canadian: await tavilySearch('major Canada news in the last 24 hours', 2, 8),
+    local: await tavilySearch('Fraser Valley Abbotsford Chilliwack news in the last 24 hours', 2, 8),
+    persecutedChurch: await tavilySearch('persecuted church Christian persecution news in the last 7 days', 7, 8),
+    leadership: await tavilySearch('leadership article sustainable leadership organizational health trust endurance', 7, 6),
+    goodNews: await tavilySearch('uplifting encouraging good news story in the last 3 days', 3, 6)
   };
 
   const prompt = `
@@ -68,15 +96,20 @@ Rules:
 - choose 1 story for goodNews
 - preserve exact URLs from provided results
 - summaries should be concise, pastoral, and useful
-- whyItMatters should be a short explanation of why this is worth your attention as a pastor, leader, or preacher
+- whyItMatters should be a short explanation of why this is worth Kris's attention as a pastor, leader, or preacher
+- strongly prefer fresh developments and new angles
+- avoid repeating yesterday's stories unless there is a genuinely significant new development
+- if you must repeat a story, make sure the summary clearly reflects what is newly important
 - do not invent URLs
 - do not use markdown
 - output JSON only
 
+Yesterday's titles to avoid repeating unless there is a major new development:
+${JSON.stringify(previousTitles, null, 2)}
+
 Search results:
 ${JSON.stringify(searches, null, 2)}
 `;
-
   const response = await fetch('https://api.openai.com/v1/chat/completions', {
     method: 'POST',
     headers: {
@@ -85,10 +118,16 @@ ${JSON.stringify(searches, null, 2)}
     },
     body: JSON.stringify({
       model: 'gpt-4.1-mini',
-      temperature: 0.3,
+      temperature: 0.35,
       messages: [
-        { role: 'system', content: 'You create structured pastoral news briefings from real search results. JSON only.' },
-        { role: 'user', content: prompt }
+        {
+          role: 'system',
+          content: 'You create structured pastoral news briefings from real search results. JSON only.'
+        },
+        {
+          role: 'user',
+          content: prompt
+        }
       ]
     })
   });
