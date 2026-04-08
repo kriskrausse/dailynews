@@ -179,10 +179,16 @@
         if (!response.ok) throw new Error('Unable to load brief.json');
         const data = await response.json();
 
-        const date = new Date((data.date || new Date().toISOString().slice(0, 10)) + 'T12:00:00');
-        document.getElementById('dateLine').textContent = date.toLocaleDateString('en-CA', {
-          weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
-        });
+       const rawDate = data.date || new Date().toISOString().slice(0, 10);
+const [year, month, day] = rawDate.split('-').map(Number);
+const safeDate = new Date(year, month - 1, day);
+document.getElementById('dateLine').textContent = safeDate.toLocaleDateString('en-CA', {
+  weekday: 'long',
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric'
+});
+
 
         const updatedLine = document.getElementById('updatedLine');
         if (data.updatedAt) {
