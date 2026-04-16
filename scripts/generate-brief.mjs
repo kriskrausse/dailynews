@@ -117,7 +117,7 @@ ${JSON.stringify(searches, null, 2)}
       'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`
     },
     body: JSON.stringify({
-      model: 'gpt-4.1-mini',
+      model: 'gpt-5.4',
       temperature: 0.35,
       messages: [
         {
