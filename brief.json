@@ -1,59 +1,84 @@
 {
   "date": "2026-04-17",
-  "updatedAt": "2026-04-17T02:29:33.775Z",
+  "updatedAt": "2026-04-17T14:42:36.943Z",
   "global": [
     {
-      "title": "U.N.: \"Clock is ticking\" to prevent global food crisis - CNN",
-      "summary": "A U.N. warning says the window to prevent a wider global food crisis is narrowing. The concern points to mounting strain on vulnerable regions already facing instability and hunger.",
-      "whyItMatters": "Food insecurity often becomes a pastoral issue quickly through missions, prayer, and local compassion responses.",
-      "url": "https://www.cnn.com/2026/04/16/world/video/food-crisis-torero-church-intv-041603aseg1-cnni-world-fast"
+      "title": "April 16: Lebanon-Israel Ceasefire, Deadly Weather - NBC News",
+      "summary": "A 10-day ceasefire between Israel and Lebanon has taken effect, even as the broader region remains tense and fragile.",
+      "whyItMatters": "This gives pastors a timely opening to pray for peace, lament loss, and remind congregations how fragile ceasefires can be.",
+      "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-april-16-261535813874"
     },
     {
-      "title": "Back to square one? Markets bet Iran war is over - Reuters",
-      "summary": "Reuters reports investors are increasingly betting on de-escalation after the Iran war shock, even as oil, gas, fertilizer, and jet fuel pressures remain elevated. Markets appear hopeful, but the energy squeeze is not fully resolved.",
-      "whyItMatters": "This shapes inflation, household stress, and the emotional climate people bring into church conversations and counseling.",
-      "url": "https://www.reuters.com/markets/back-square-one-markets-bet-iran-war-is-over-2026-04-15/"
+      "title": "First images of U.S. blockade of Iran - NBC News",
+      "summary": "NBC reports new visuals from the U.S. blockade of Iran, underscoring that the conflict’s economic and military consequences are still unfolding.",
+      "whyItMatters": "Global instability affects anxiety, fuel prices, and pastoral conversations about war, peace, and public fear.",
+      "url": "https://www.nbcnews.com/nightly-news/video/first-images-of-u-s-blockade-of-iran-261450821535"
     },
     {
-      "title": "NGO welcomes Spain’s 'straightforward' migrant regularization process - Reuters",
-      "summary": "Spain’s migrant regularization process is being welcomed by an NGO as unusually clear and accessible. The story highlights a fresh policy angle in Europe’s ongoing migration pressures.",
-      "whyItMatters": "Migration remains a discipleship and hospitality issue for churches thinking about welcome, justice, and social cohesion.",
-      "url": "https://www.reuters.com/video/watch/idRW299116042026RP1/?chan=sports"
+      "title": "Gloomy global economy - Reuters",
+      "summary": "Reuters highlights a darkening global economic outlook, including energy pressure, AI disruption, and broader market unease.",
+      "whyItMatters": "Economic strain shapes generosity, family stress, and the emotional climate in a church body.",
+      "url": "https://www.reuters.com/video/watch/idRW248114042026RP1/"
     }
   ],
   "canadian": [
     {
-      "title": "Ultraprocessed foods are turning human thighs into well-marbled steaks - CTV News",
-      "summary": "CTV highlights emerging health concerns around ultraprocessed foods and the way diet may be reshaping body composition and long-term wellness. The broader theme is preventable health harm tied to everyday habits.",
-      "whyItMatters": "Pastors regularly shepherd people through health anxiety, family habits, and stewardship of body and community life.",
+      "title": "carney-auto-part - Mining.com",
+      "summary": "Mining.com highlights Prime Minister Mark Carney in the context of critical minerals and industrial strategy, pointing to Canada’s ongoing focus on resource sovereignty.",
+      "whyItMatters": "For a B.C. pastor, resource policy connects to jobs, regional identity, stewardship, and community stability.",
+      "url": "https://www.mining.com/op-ed-critical-mineral-sovereignty-starts-with-deep-tech/carney-auto-part/"
+    },
+    {
+      "title": "Has the Era of the Mega-Layoff Arrived? - WSJ",
+      "summary": "The Wall Street Journal reports that large-scale layoffs may be becoming a new corporate pattern across major firms.",
+      "whyItMatters": "Even without a Canada-specific angle, workforce insecurity is pastoral ground: fear, provision, vocation, and care for displaced families.",
+      "url": "https://www.wsj.com/business/has-the-era-of-the-mega-layoff-arrived-928f061d"
+    }
+  ],
+  "local": [
+    {
+      "title": "Lytton was razed by fire. Some fear financial ruin is next for the tiny B.C. village",
+      "summary": "CTV’s local roundup notes ongoing concern in Lytton that recovery after wildfire devastation may still give way to financial collapse.",
+      "whyItMatters": "This is close-to-home pastoral reality in B.C.: trauma recovery, resilience, and the long tail of disaster on small communities.",
+      "url": "https://www.ctvnews.ca/health/article/ultraprocessed-foods-are-turning-human-thighs-into-well-marbled-steaks/"
+    },
+    {
+      "title": "Humanitarian team returns to Vancouver Island after successful mission in Ukraine",
+      "summary": "A humanitarian team has returned to Vancouver Island after serving in Ukraine, bringing a local connection to global suffering and relief work.",
+      "whyItMatters": "It offers a concrete story of compassion from within B.C. and may encourage prayer, missions, and practical service.",
+      "url": "https://www.ctvnews.ca/health/article/ultraprocessed-foods-are-turning-human-thighs-into-well-marbled-steaks/"
+    },
+    {
+      "title": "Clean up of Imperial Oil spill in northern Alberta underway",
+      "summary": "Cleanup efforts are underway after an Imperial Oil spill in northern Alberta, according to CTV’s Canada roundup.",
+      "whyItMatters": "Environmental harm and industrial accountability matter to pastors shepherding people who care about creation, work, and public trust.",
       "url": "https://www.ctvnews.ca/health/article/ultraprocessed-foods-are-turning-human-thighs-into-well-marbled-steaks/"
     }
   ],
-  "local": [],
   "persecutedChurch": [
     {
-      "title": "China raises pressure on underground Catholics to join official church, Human Rights Watch finds - AP News",
-      "summary": "Human Rights Watch says pressure is increasing on underground Catholics in China to join the state-approved church. The report points to escalating intimidation of clergy and worshippers despite the Vatican-China agreement.",
-      "whyItMatters": "This is a clear call to pray for the global church and to remember believers facing pressure for faithful worship.",
-      "url": "https://apnews.com/article/china-catholics-religious-freedom-pope-leo-f50b3819e9bd1765b18246394cf07dbb"
+      "title": "Hezbollah rocket hits remains of 1,500-year-old Byzantine church in Nahariya - The Times of Israel",
+      "summary": "A Hezbollah rocket struck the protective structure over a 1,500-year-old Byzantine church site in Nahariya, though the mosaic itself was reportedly spared.",
+      "whyItMatters": "It is a vivid reminder that war threatens not only lives but also the visible memory of Christian witness in the region.",
+      "url": "https://www.timesofisrael.com/hezbollah-rocket-hits-remains-of-1500-year-old-byzantine-church-in-nahariya/"
     },
     {
-      "title": "BISHOP ROBERT BARRON: The war on Christians is real and the world can no longer stay silent - Fox News",
-      "summary": "Bishop Robert Barron argues that anti-Christian persecution remains severe worldwide, especially in parts of Africa, Asia, and the Middle East. He frames the issue as both urgent and too often ignored.",
-      "whyItMatters": "It can help Kris lead informed prayer, global awareness, and solidarity with suffering believers.",
-      "url": "https://www.foxnews.com/opinion/bishop-robert-barron-war-christians-real-world-longer-stay-silent"
+      "title": "China raises pressure on underground Catholics to join official church, Human Rights Watch finds - AP News",
+      "summary": "Human Rights Watch says Chinese authorities are intensifying pressure on underground Catholics, with renewed calls for Vatican attention under Pope Leo XIV.",
+      "whyItMatters": "This remains one of the clearest current examples of state pressure on Christian conscience and church freedom.",
+      "url": "https://apnews.com/article/china-catholics-religious-freedom-pope-leo-f50b3819e9bd1765b18246394cf07dbb"
     }
   ],
   "leadership": {
-    "title": "How Emotional Intelligence Can Help Activate Your ‘Culture Code’ - Forbes",
-    "summary": "Forbes argues that emotional intelligence is what turns stated values into lived culture, especially during change. The piece emphasizes candor, empathy, and visible progress as trust-building practices.",
-    "whyItMatters": "Useful for leading staff and volunteers through change without losing trust or clarity.",
-    "url": "https://www.forbes.com/sites/kevinkruse/2026/04/16/how-emotional-intelligence-can-help-activate-your-culture-code/"
+    "title": "5 Books Reshaping How Leaders Build Resilient Teams - Forbes",
+    "summary": "Forbes surveys new leadership books focused on trust, emotional regulation, accountability, and resilient team culture.",
+    "whyItMatters": "Useful for a lead pastor thinking about staff health, volunteer culture, and leading steadily through uncertainty.",
+    "url": "https://www.forbes.com/sites/serenitygibbons/2026/04/16/5-books-reshaping-how-leaders-build-resilient-teams/"
   },
   "goodNews": {
-    "title": "Overlooked football player embodies the meaning of grit - CBS News",
-    "summary": "CBS features an overlooked football player whose perseverance and character stand out more than hype. It is a simple story of resilience, dignity, and steady effort.",
-    "whyItMatters": "A helpful illustration for sermons or encouragement around perseverance, identity, and unseen faithfulness.",
-    "url": "https://www.cbsnews.com/video/overlooked-football-player-embodies-meaning-grit/"
+    "title": "Meta's sixth annual Holocaust remembrance project launched - The Jerusalem Post",
+    "summary": "Meta has launched a new multilingual Holocaust remembrance project to preserve and share survivors’ testimonies with younger generations.",
+    "whyItMatters": "It is a hopeful example of memory, dignity, and technology being used to serve truth rather than erase it.",
+    "url": "https://www.jpost.com/israel-news/article-893026"
   }
 }
