@@ -1,90 +1,59 @@
 {
-  "date": "2026-04-13",
-  "updatedAt": "2026-04-13T15:06:09.086Z",
+  "date": "2026-04-17",
+  "updatedAt": "2026-04-17T02:29:33.775Z",
   "global": [
     {
-      "title": "US-Iran Talks Pause for Now, Disagreements Remain - Global Banking & Finance Review®",
-      "summary": "The first direct U.S.-Iran talks in over a decade ended after 14 hours with no deal, though negotiations will continue despite remaining differences. The outcome affects the fragile ceasefire and Strait of Hormuz reopening.",
-      "whyItMatters": "As a pastor, understanding the fragile peace efforts and their global impact helps in praying for peace and guiding the congregation through uncertain times.",
-      "url": "https://www.globalbankingandfinance.com/us-iran-talks-pause-disagreements-remain/"
+      "title": "U.N.: \"Clock is ticking\" to prevent global food crisis - CNN",
+      "summary": "A U.N. warning says the window to prevent a wider global food crisis is narrowing. The concern points to mounting strain on vulnerable regions already facing instability and hunger.",
+      "whyItMatters": "Food insecurity often becomes a pastoral issue quickly through missions, prayer, and local compassion responses.",
+      "url": "https://www.cnn.com/2026/04/16/world/video/food-crisis-torero-church-intv-041603aseg1-cnni-world-fast"
     },
     {
-      "title": "Nationwide boom in AI data centers stirs resistance - CBS News",
-      "summary": "The rapid growth of AI data centers across the U.S. is causing local resistance due to concerns about environmental and community impacts.",
-      "whyItMatters": "This highlights the tension between technological progress and community wellbeing, a topic relevant for pastoral care and ethical leadership.",
-      "url": "https://www.cbsnews.com/video/nationwide-boom-in-ai-data-centers-stirs-resistance/"
+      "title": "Back to square one? Markets bet Iran war is over - Reuters",
+      "summary": "Reuters reports investors are increasingly betting on de-escalation after the Iran war shock, even as oil, gas, fertilizer, and jet fuel pressures remain elevated. Markets appear hopeful, but the energy squeeze is not fully resolved.",
+      "whyItMatters": "This shapes inflation, household stress, and the emotional climate people bring into church conversations and counseling.",
+      "url": "https://www.reuters.com/markets/back-square-one-markets-bet-iran-war-is-over-2026-04-15/"
     },
     {
-      "title": "UK's Heathrow airport says outlook uncertain as Mideast conflict weighs - Reuters",
-      "summary": "Heathrow Airport faces uncertainty as ongoing Middle East conflicts impact travel and economic outlook.",
-      "whyItMatters": "Global conflicts affect international travel and economies, influencing diaspora communities and mission opportunities.",
-      "url": "https://www.reuters.com/video/watch/idRW204913042026RP1/?chan=business"
+      "title": "NGO welcomes Spain’s 'straightforward' migrant regularization process - Reuters",
+      "summary": "Spain’s migrant regularization process is being welcomed by an NGO as unusually clear and accessible. The story highlights a fresh policy angle in Europe’s ongoing migration pressures.",
+      "whyItMatters": "Migration remains a discipleship and hospitality issue for churches thinking about welcome, justice, and social cohesion.",
+      "url": "https://www.reuters.com/video/watch/idRW299116042026RP1/?chan=sports"
     }
   ],
   "canadian": [
     {
-      "title": "Canadian astronaut and Artemis II crew returns to Houston - CityNews Halifax",
-      "summary": "The Canadian astronaut who participated in the Artemis II mission has returned safely to Houston, marking a milestone in Canadian space involvement.",
-      "whyItMatters": "This achievement inspires hope and highlights human potential, encouraging faith in God’s creation and human endeavor.",
-      "url": "https://halifax.citynews.ca/2026/04/11/canadian-astronaut-and-artemis-ii-crew-returns-to-houston/"
-    },
-    {
-      "title": "Liberal party adopts motion to ban kids under 16 from social media - CityNews Edmonton",
-      "summary": "The Liberal party has passed a non-binding resolution to set 16 as the minimum age for social media use in Canada, aiming to protect youth.",
-      "whyItMatters": "This reflects growing concern for youth wellbeing in a digital age, an important pastoral issue for families and youth ministries.",
-      "url": "https://halifax.citynews.ca/2026/04/11/canadian-astronaut-and-artemis-ii-crew-returns-to-houston/"
-    },
-    {
-      "title": "Extended interview: Sen. Dave McCormick on AI - CBS News",
-      "summary": "Senator Dave McCormick discusses the future and challenges of artificial intelligence in an extended interview.",
-      "whyItMatters": "AI's impact on society raises ethical and spiritual questions relevant to church leadership and community guidance.",
-      "url": "https://www.cbsnews.com/video/extended-interview-senator-dave-mccormick-on-ai/"
+      "title": "Ultraprocessed foods are turning human thighs into well-marbled steaks - CTV News",
+      "summary": "CTV highlights emerging health concerns around ultraprocessed foods and the way diet may be reshaping body composition and long-term wellness. The broader theme is preventable health harm tied to everyday habits.",
+      "whyItMatters": "Pastors regularly shepherd people through health anxiety, family habits, and stewardship of body and community life.",
+      "url": "https://www.ctvnews.ca/health/article/ultraprocessed-foods-are-turning-human-thighs-into-well-marbled-steaks/"
     }
   ],
-  "local": [
-    {
-      "title": "Industrial property on Kelowna's Tilley Road sells for more than $5M - Castanet",
-      "summary": "An industrial property on Tilley Road in Kelowna has sold for over $5 million, reflecting local economic activity.",
-      "whyItMatters": "Economic developments affect community stability and opportunities for ministry engagement in local neighborhoods.",
-      "url": "https://www.castanet.net/news/Kelowna/608325/Industrial-property-on-Kelowna-s-Tilley-Road-sells-for-more-than-5M"
-    },
-    {
-      "title": "First Alert Weather Saturday morning forecast 4-11-26 - CBS News",
-      "summary": "The local weather forecast predicts rain and windy conditions with a high of 71°F, important for planning community events.",
-      "whyItMatters": "Weather impacts community life and church activities; pastors can use this to plan outreach and care efforts.",
-      "url": "https://www.cbsnews.com/sanfrancisco/video/first-alert-weather-saturday-morning-forecast-4-11-26/"
-    },
-    {
-      "title": "The Plant Lady, 7am (4/12) - CBS News",
-      "summary": "The Plant Lady returns to answer plant care questions, offering a moment of joy and learning for viewers.",
-      "whyItMatters": "Simple joys and nurturing life reflect spiritual care and stewardship themes valuable in pastoral teaching.",
-      "url": "https://www.cbsnews.com/gooddaysacramento/video/the-plant-lady-7am-412/"
-    }
-  ],
+  "local": [],
   "persecutedChurch": [
     {
-      "title": "‘Feels like a blessing’: On Orthodox Easter, Christians flock back to the Holy Sepulchre - The Times of Israel",
-      "summary": "During a fragile ceasefire, Christians from various denominations returned to the Church of the Holy Sepulchre for Orthodox Easter services with cautious joy.",
-      "whyItMatters": "This story highlights the resilience of faith amid conflict and the unity of the body of Christ in difficult times.",
-      "url": "https://www.timesofisrael.com/feels-like-a-blessing-on-orthodox-easter-christians-flock-back-to-the-holy-sepulchre/"
+      "title": "China raises pressure on underground Catholics to join official church, Human Rights Watch finds - AP News",
+      "summary": "Human Rights Watch says pressure is increasing on underground Catholics in China to join the state-approved church. The report points to escalating intimidation of clergy and worshippers despite the Vatican-China agreement.",
+      "whyItMatters": "This is a clear call to pray for the global church and to remember believers facing pressure for faithful worship.",
+      "url": "https://apnews.com/article/china-catholics-religious-freedom-pope-leo-f50b3819e9bd1765b18246394cf07dbb"
     },
     {
-      "title": "Israel lifts restrictions at holy sites in Jerusalem after fragile ceasefire announced - Los Angeles Times",
-      "summary": "Following a fragile ceasefire, Israel has lifted restrictions at Jerusalem’s holy sites, allowing worshipers greater access.",
-      "whyItMatters": "Access to holy sites is vital for spiritual life and pilgrimage; this development encourages hope for peace and religious freedom.",
-      "url": "https://www.latimes.com/world-nation/story/2026-04-09/israel-lifts-restrictions-at-holy-sites-in-jerusalem-after-fragile-ceasefire-announced"
+      "title": "BISHOP ROBERT BARRON: The war on Christians is real and the world can no longer stay silent - Fox News",
+      "summary": "Bishop Robert Barron argues that anti-Christian persecution remains severe worldwide, especially in parts of Africa, Asia, and the Middle East. He frames the issue as both urgent and too often ignored.",
+      "whyItMatters": "It can help Kris lead informed prayer, global awareness, and solidarity with suffering believers.",
+      "url": "https://www.foxnews.com/opinion/bishop-robert-barron-war-christians-real-world-longer-stay-silent"
     }
   ],
   "leadership": {
-    "title": "Love, Leadership, & Organizational Trust: Mending The Social Contract",
-    "summary": "An insightful article on how leaders can build trust and meaningful connections within organizations to create supportive environments.",
-    "whyItMatters": "Trust and love are foundational for effective pastoral leadership and fostering healthy church communities.",
-    "url": "https://www.forbes.com/sites/michaelhudson/2025/10/30/love-leadership--organizational-trust-mending-the-social-contract/"
+    "title": "How Emotional Intelligence Can Help Activate Your ‘Culture Code’ - Forbes",
+    "summary": "Forbes argues that emotional intelligence is what turns stated values into lived culture, especially during change. The piece emphasizes candor, empathy, and visible progress as trust-building practices.",
+    "whyItMatters": "Useful for leading staff and volunteers through change without losing trust or clarity.",
+    "url": "https://www.forbes.com/sites/kevinkruse/2026/04/16/how-emotional-intelligence-can-help-activate-your-culture-code/"
   },
   "goodNews": {
-    "title": "Good News: High school students achieve their dreams with college acceptances - NBC News",
-    "summary": "High school students celebrate their hard work paying off as they receive acceptances to their dream colleges, inspiring hope and joy.",
-    "whyItMatters": "This uplifting story encourages faith in the future and the power of perseverance, valuable for preaching and community encouragement.",
-    "url": "https://www.nbcnews.com/video/good-news-high-school-students-achieve-their-dreams-with-college-acceptances-261176389969"
+    "title": "Overlooked football player embodies the meaning of grit - CBS News",
+    "summary": "CBS features an overlooked football player whose perseverance and character stand out more than hype. It is a simple story of resilience, dignity, and steady effort.",
+    "whyItMatters": "A helpful illustration for sermons or encouragement around perseverance, identity, and unseen faithfulness.",
+    "url": "https://www.cbsnews.com/video/overlooked-football-player-embodies-meaning-grit/"
   }
 }
