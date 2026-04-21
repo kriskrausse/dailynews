@@ -1,59 +1,72 @@
 {
-  "date": "2026-04-20",
-  "updatedAt": "2026-04-20T15:07:01.626Z",
+  "date": "2026-04-21",
+  "updatedAt": "2026-04-21T11:38:13.035Z",
   "global": [
     {
-      "title": "Open: This is \"Face the Nation with Margaret Brennan,\" April 19, 2026 - CBS News",
-      "summary": "CBS highlights that the Strait of Hormuz remains closed, while related coverage points to fresh violence in Kyiv and continued volatility around energy and security.",
-      "whyItMatters": "This helps frame prayer and preaching around fear, instability, and the need for peacemaking in a fragile world.",
-      "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-april-19-2026/"
+      "title": "Ceasefire deadline nears as uncertainty grows around U.S.-Iran talks - NBC News",
+      "summary": "NBC reports President Trump is unlikely to extend the ceasefire as the deadline for a deal approaches, raising fresh concern about renewed conflict in the region.",
+      "whyItMatters": "This shapes prayer, preaching, and pastoral care as many congregants feel anxious about war, peace, and global stability.",
+      "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-april-20-261754437777"
     },
     {
-      "title": "Humanoid robots outrun humans in Beijing half-marathon - Reuters",
-      "summary": "Reuters features a striking technology milestone from Beijing, where humanoid robots outpaced human runners in a half-marathon setting.",
-      "whyItMatters": "It offers a timely conversation starter on technology, human dignity, vocation, and how churches disciple people in an AI-shaped culture.",
-      "url": "https://www.reuters.com/video/watch/idRW372219042026RP1/?chan=science&location=channel-item"
+      "title": "At least 6 killed in Kyiv mass shooting - CBS News",
+      "summary": "CBS highlights a deadly mass shooting in Kyiv, adding another layer of grief and instability amid the ongoing strain of war in Ukraine.",
+      "whyItMatters": "Pastors can help people respond to distant tragedy with informed prayer, compassion, and renewed attention to peacemaking.",
+      "url": "https://www.cbsnews.com/video/seeking-accountability-in-trucking-accidents/"
     },
     {
-      "title": "Skydiver rescued after crashing into scoreboard during Virginia Tech football game - CBS News",
-      "summary": "A dramatic stadium accident ended in rescue rather than tragedy, with a skydiver surviving after crashing into a scoreboard during a football game.",
-      "whyItMatters": "Stories like this remind pastors how quickly ordinary moments can turn urgent, and how communities respond in crisis.",
-      "url": "https://www.cbsnews.com/video/skydiver-rescued-after-crashing-into-scoreboard-during-virginia-tech-football-game/"
+      "title": "Strait of Hormuz remains a major flashpoint in global energy and security - CBS News",
+      "summary": "CBS says the situation in the Strait of Hormuz remains tense, with implications for shipping, fuel prices, and wider regional escalation.",
+      "whyItMatters": "Economic pressure often lands in local households first; this helps frame pastoral conversations about fear, stewardship, and care for struggling families.",
+      "url": "https://www.cbsnews.com/video/trucking-companies-sidestep-safety-rules-with-name-changes/"
     }
   ],
   "canadian": [
     {
-      "title": "Carney says Canada's economic ties with US are a weakness that must be corrected - The Sun Chronicle",
-      "summary": "Prime Minister Mark Carney says Canada's deep dependence on the U.S. economy has become a vulnerability and is calling for new investment, trade diversification, more clean energy, and lower internal trade barriers.",
-      "whyItMatters": "Economic uncertainty affects household stress, generosity, employment, and congregational care across Canada, including BC.",
-      "url": "https://www.thesunchronicle.com/news/nation_world/carney-says-canadas-economic-ties-with-us-are-a-weakness-that-must-be-corrected/article_639f8dad-2066-56be-901c-a20a26b54da2.html"
-    }
-  ],
-  "local": [],
-  "persecutedChurch": [
-    {
-      "title": "IDF says image of soldier destroying Jesus statue in Lebanon is real, vows action - The Times of Israel",
-      "summary": "The IDF says a viral image of a soldier smashing a statue of Jesus in southern Lebanon is authentic, has opened an investigation, and says it will help restore the statue.",
-      "whyItMatters": "This is a fresh development affecting Christian witness and interfaith tensions in the region, and it invites prayer for protection, repentance, and peace.",
-      "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-image-of-soldier-destroying-jesus-statue-in-lebanon-is-real-vows-action/"
+      "title": "Stellantis proposal raises fresh questions about Canadian auto production - Automotive News",
+      "summary": "A new analysis says Stellantis' pitch to build Leapmotor vehicles in Canada is not viable as presented, though it may still point to future industrial possibilities.",
+      "whyItMatters": "Manufacturing uncertainty affects jobs, family stability, and community confidence—important realities for pastors serving working households.",
+      "url": "https://www.autonews.com/opinion/columns/anc-column-stellantis-leapmotor-brampton-0413/"
     },
     {
-      "title": "Attempted arson at London synagogue is 3rd attack on Jewish site in past week: \"Sustained campaign of violence\" - CBS News",
-      "summary": "An attempted arson at a North London synagogue marks the third attack on a Jewish site in a week, amid rising concern over a broader campaign of intimidation.",
-      "whyItMatters": "Pastors should note escalating religious hatred beyond Christian communities and lead congregations in solidarity, vigilance, and prayer for neighbors under threat.",
-      "url": "https://www.cbsnews.com/news/arson-attack-london-kenton-united-synagogue-antisemitism/"
+      "title": "Using the ocean to power data centers - CBS News",
+      "summary": "CBS reports on efforts to use ocean resources to power data centers, reflecting the growing intersection of technology, energy demand, and environmental stewardship.",
+      "whyItMatters": "Canadian churches are increasingly navigating AI, creation care, and public trust in technology; this offers a useful conversation starter.",
+      "url": "https://www.cbsnews.com/video/using-the-ocean-to-power-data-centers/"
+    }
+  ],
+  "local": [
+    {
+      "title": "Column: Stellantis pitch for Canadian Leapmotor production is a nonstarter, but might not be a dead end - Automotive News",
+      "summary": "The piece examines how a proposed Canadian production plan may not work now, but could still signal future opportunities or restructuring in the auto sector.",
+      "whyItMatters": "Even from B.C., pastors should watch national job-market shifts that affect congregants' finances, mobility, and outlook.",
+      "url": "https://www.autonews.com/opinion/columns/anc-column-stellantis-leapmotor-brampton-0413/"
+    }
+  ],
+  "persecutedChurch": [
+    {
+      "title": "China raises pressure on underground Catholics to join official church, Human Rights Watch finds - AP News",
+      "summary": "AP reports that pressure is increasing on underground Catholics in China to align with the state-approved church, with advocates warning of escalating repression.",
+      "whyItMatters": "This is a clear call to pray for faithful believers under pressure and to remind the church in Canada not to take religious freedom for granted.",
+      "url": "https://apnews.com/article/china-catholics-religious-freedom-pope-leo-f50b3819e9bd1765b18246394cf07dbb"
+    },
+    {
+      "title": "BISHOP ROBERT BARRON: The war on Christians is real and the world can no longer stay silent - Fox News",
+      "summary": "Bishop Robert Barron argues that anti-Christian persecution remains severe worldwide, especially in parts of Africa, Asia, and the Middle East.",
+      "whyItMatters": "It can help Kris keep global suffering before the congregation in prayer, missions emphasis, and discipleship around costly faithfulness.",
+      "url": "https://www.foxnews.com/opinion/bishop-robert-barron-war-christians-real-world-longer-stay-silent"
     }
   ],
   "leadership": {
-    "title": "Why The Leadership Traits That Win Promotions Fail Employees - Forbes",
-    "summary": "Forbes argues that charisma and visibility often get leaders promoted, while teams actually need trust, accountability, sound judgment, and emotional steadiness.",
-    "whyItMatters": "A useful lens for church staffing, elder development, and evaluating leaders by fruit and trustworthiness rather than platform presence.",
-    "url": "https://www.forbes.com/sites/carolinecastrillon/2026/04/19/why-the-leadership-traits-that-win-promotions-fail-employees/"
+    "title": "How Idenfity And Lead with Your Authentic Values At Work - Yahoo Life UK",
+    "summary": "This piece argues that sustainable leadership begins with clearly named values, visible behaviors, and humble accountability when mistakes are made.",
+    "whyItMatters": "For a lead pastor, this is a timely reminder that trust grows when values are embodied consistently, not merely stated publicly.",
+    "url": "https://uk.style.yahoo.com/idenfity-lead-authentic-values-120000478.html"
   },
   "goodNews": {
-    "title": "Good News: Teen Completes Own “Boston Marathon” in Hospital - NBC News",
-    "summary": "A Massachusetts teenager fighting leukemia turned his daily hospital walks into his own version of the Boston Marathon.",
-    "whyItMatters": "This is a strong pastoral illustration of courage, perseverance, and hope in suffering.",
-    "url": "https://www.nbcnews.com/video/good-news-teen-completes-own-boston-marathon-in-hospital-261681221709"
+    "title": "Good News: NBA players get surprise visits from their childhood heroes - NBC News",
+    "summary": "NBC shares a story of NBA players being reunited with formative mentors from their childhood, celebrating gratitude and the lasting power of encouragement.",
+    "whyItMatters": "It is a warm reminder for preaching and pastoral ministry that faithful encouragement can shape a life long after the moment has passed.",
+    "url": "https://www.nbcnews.com/video/good-news-nba-players-get-surprise-visits-from-their-childhood-heroes-261650501642"
   }
 }
