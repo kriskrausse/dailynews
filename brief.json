@@ -1,72 +1,84 @@
 {
-  "date": "2026-04-21",
-  "updatedAt": "2026-04-21T11:38:13.035Z",
+  "date": "2026-04-22",
+  "updatedAt": "2026-04-22T11:37:05.849Z",
   "global": [
     {
-      "title": "Ceasefire deadline nears as uncertainty grows around U.S.-Iran talks - NBC News",
-      "summary": "NBC reports President Trump is unlikely to extend the ceasefire as the deadline for a deal approaches, raising fresh concern about renewed conflict in the region.",
-      "whyItMatters": "This shapes prayer, preaching, and pastoral care as many congregants feel anxious about war, peace, and global stability.",
-      "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-april-20-261754437777"
+      "title": "Close call at JFK Airport as two regional jets come dangerously close - NBC News",
+      "summary": "Two regional jets came dangerously close at JFK after one aircraft missed its approach path; the report notes the other plane was an Air Canada regional jet.",
+      "whyItMatters": "Travel safety affects many families in the congregation and offers a timely reminder of human vulnerability and the need for wise oversight.",
+      "url": "https://www.nbcnews.com/nightly-news/video/close-call-at-jfk-airport-as-two-regional-jets-come-dangerously-close-261839941913"
     },
     {
-      "title": "At least 6 killed in Kyiv mass shooting - CBS News",
-      "summary": "CBS highlights a deadly mass shooting in Kyiv, adding another layer of grief and instability amid the ongoing strain of war in Ukraine.",
-      "whyItMatters": "Pastors can help people respond to distant tragedy with informed prayer, compassion, and renewed attention to peacemaking.",
-      "url": "https://www.cbsnews.com/video/seeking-accountability-in-trucking-accidents/"
+      "title": "200 stranded on Amtrak train for nearly 24 hours due to Florida wildfire - CBS News",
+      "summary": "A Florida wildfire left about 200 passengers stranded on an Amtrak train for nearly a full day, highlighting the disruptive reach of extreme fire conditions.",
+      "whyItMatters": "This is a useful pastoral window into disaster fatigue, resilience, and the practical needs people face when emergencies interrupt ordinary life.",
+      "url": "https://www.cbsnews.com/video/200-stranded-on-amtrak-train-for-nearly-24-hours-due-to-florida-wildfire/"
     },
     {
-      "title": "Strait of Hormuz remains a major flashpoint in global energy and security - CBS News",
-      "summary": "CBS says the situation in the Strait of Hormuz remains tense, with implications for shipping, fuel prices, and wider regional escalation.",
-      "whyItMatters": "Economic pressure often lands in local households first; this helps frame pastoral conversations about fear, stewardship, and care for struggling families.",
-      "url": "https://www.cbsnews.com/video/trucking-companies-sidestep-safety-rules-with-name-changes/"
+      "title": "2026 expected to be another bad year for ticks - CBS News",
+      "summary": "CBS reports that 2026 is expected to be another severe tick season, raising concerns about Lyme disease and other tick-borne illnesses.",
+      "whyItMatters": "Pastors often care for families planning camps, hikes, and retreats; this is a practical health note worth sharing in community life.",
+      "url": "https://www.cbsnews.com/video/2026-expected-to-be-another-bad-year-for-ticks/"
     }
   ],
   "canadian": [
     {
-      "title": "Stellantis proposal raises fresh questions about Canadian auto production - Automotive News",
-      "summary": "A new analysis says Stellantis' pitch to build Leapmotor vehicles in Canada is not viable as presented, though it may still point to future industrial possibilities.",
-      "whyItMatters": "Manufacturing uncertainty affects jobs, family stability, and community confidence—important realities for pastors serving working households.",
-      "url": "https://www.autonews.com/opinion/columns/anc-column-stellantis-leapmotor-brampton-0413/"
+      "title": "Canadian military sees higher recruiting numbers, bolstered by foreign nationals - PressReader",
+      "summary": "A PressReader roundup highlights new reporting that the Canadian military is seeing stronger recruiting numbers, with foreign nationals helping boost enlistment.",
+      "whyItMatters": "This signals changing national priorities around service, identity, and immigration—issues pastors may hear about from military and newcomer families alike.",
+      "url": "https://www.pressreader.com/fiji/fiji-sun/20260422/281706916268275"
     },
     {
-      "title": "Using the ocean to power data centers - CBS News",
-      "summary": "CBS reports on efforts to use ocean resources to power data centers, reflecting the growing intersection of technology, energy demand, and environmental stewardship.",
-      "whyItMatters": "Canadian churches are increasingly navigating AI, creation care, and public trust in technology; this offers a useful conversation starter.",
-      "url": "https://www.cbsnews.com/video/using-the-ocean-to-power-data-centers/"
+      "title": "Canadian tourist dies amid shooting at Mexico pyramids - CBS News",
+      "summary": "A CBS local roundup notes that a Canadian tourist died in the shooting at Mexico’s pyramids, adding a direct Canadian dimension to the tragedy.",
+      "whyItMatters": "When international violence touches Canadians, it often lands closer to home in prayer, grief, and conversations about safety and suffering.",
+      "url": "https://www.cbsnews.com/detroit/video/tick-season-starts-in-michigan/"
+    },
+    {
+      "title": "Eby says Declaration Act his 'most challenging' file - PressReader",
+      "summary": "A PressReader roundup points to reporting that B.C. Premier David Eby called the Declaration Act his most challenging file, underscoring ongoing tensions around Indigenous relations and governance.",
+      "whyItMatters": "For a pastor in British Columbia, this remains central to public life, reconciliation, and how churches engage Indigenous neighbors with humility and care.",
+      "url": "https://www.pressreader.com/fiji/fiji-sun/20260422/281706916268275"
     }
   ],
   "local": [
     {
-      "title": "Column: Stellantis pitch for Canadian Leapmotor production is a nonstarter, but might not be a dead end - Automotive News",
-      "summary": "The piece examines how a proposed Canadian production plan may not work now, but could still signal future opportunities or restructuring in the auto sector.",
-      "whyItMatters": "Even from B.C., pastors should watch national job-market shifts that affect congregants' finances, mobility, and outlook.",
-      "url": "https://www.autonews.com/opinion/columns/anc-column-stellantis-leapmotor-brampton-0413/"
+      "title": "Man, 20, shot Saturday in east Vancouver parking lot dies Updated 10 hours ago - The Columbian",
+      "summary": "A 20-year-old man who was shot in an east Vancouver parking lot has died, and police are asking the public for information.",
+      "whyItMatters": "This is close to home for Kris’s region and calls for prayer, pastoral sensitivity, and attention to fear and grief in the wider community.",
+      "url": "https://www.columbian.com/news/2026/apr/21/man-20-shot-saturday-in-east-vancouver-parking-lot-dies/"
+    },
+    {
+      "title": "Tractor, farming equipment stolen from Portland BIPOC nonprofit’s new headquarters - KOIN.com",
+      "summary": "A Portland BIPOC nonprofit says a tractor and other farming equipment were stolen from its new headquarters, disrupting community-focused work.",
+      "whyItMatters": "This touches regional ministry themes of justice, neighborhood trust, and supporting organizations serving marginalized communities.",
+      "url": "https://www.koin.com/video/tractor-farming-equipment-stolen-from-portland-bipoc-nonprofit%E2%80%99s-new-headquarters/11722489/"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "China raises pressure on underground Catholics to join official church, Human Rights Watch finds - AP News",
-      "summary": "AP reports that pressure is increasing on underground Catholics in China to align with the state-approved church, with advocates warning of escalating repression.",
-      "whyItMatters": "This is a clear call to pray for faithful believers under pressure and to remind the church in Canada not to take religious freedom for granted.",
-      "url": "https://apnews.com/article/china-catholics-religious-freedom-pope-leo-f50b3819e9bd1765b18246394cf07dbb"
+      "title": "Israeli army jails soldiers for vandalising Jesus statue in Lebanon - Euronews.com",
+      "summary": "The Israeli army jailed soldiers after the vandalizing of a Jesus statue in southern Lebanon, following broad Christian outrage over the incident.",
+      "whyItMatters": "This matters for prayerful awareness of Christian communities in the Middle East and for preaching about reverence, witness, and protection of the vulnerable.",
+      "url": "https://www.euronews.com/2026/04/21/israeli-army-jails-two-soldiers-for-smashing-head-of-jesus-statue-in-southern-lebanon"
     },
     {
-      "title": "BISHOP ROBERT BARRON: The war on Christians is real and the world can no longer stay silent - Fox News",
-      "summary": "Bishop Robert Barron argues that anti-Christian persecution remains severe worldwide, especially in parts of Africa, Asia, and the Middle East.",
-      "whyItMatters": "It can help Kris keep global suffering before the congregation in prayer, missions emphasis, and discipleship around costly faithfulness.",
-      "url": "https://www.foxnews.com/opinion/bishop-robert-barron-war-christians-real-world-longer-stay-silent"
+      "title": "China raises pressure on underground Catholics to join official church, Human Rights Watch finds - AP News",
+      "summary": "Human Rights Watch says pressure is increasing on underground Catholics in China to join the state-approved church, despite the Vatican-China agreement.",
+      "whyItMatters": "This remains a key reminder to pray for believers facing coercion and to keep religious freedom visible in the church’s global imagination.",
+      "url": "https://apnews.com/article/china-catholics-religious-freedom-pope-leo-f50b3819e9bd1765b18246394cf07dbb"
     }
   ],
   "leadership": {
-    "title": "How Idenfity And Lead with Your Authentic Values At Work - Yahoo Life UK",
-    "summary": "This piece argues that sustainable leadership begins with clearly named values, visible behaviors, and humble accountability when mistakes are made.",
-    "whyItMatters": "For a lead pastor, this is a timely reminder that trust grows when values are embodied consistently, not merely stated publicly.",
-    "url": "https://uk.style.yahoo.com/idenfity-lead-authentic-values-120000478.html"
+    "title": "3 Reasons Why Better Leadership Always Starts With Better Biology - Forbes",
+    "summary": "Forbes argues that leadership capacity is tied to physical and mental health, linking clarity, agency, and resilience to the leader’s underlying wellbeing.",
+    "whyItMatters": "For a pastor, this is a timely reminder that sustainable ministry requires rest, health, and self-awareness—not just vision and effort.",
+    "url": "https://www.forbes.com/sites/julianhayesii/2026/04/19/3-reasons-why-better-leadership-always-starts-with-better-biology/"
   },
   "goodNews": {
-    "title": "Good News: NBA players get surprise visits from their childhood heroes - NBC News",
-    "summary": "NBC shares a story of NBA players being reunited with formative mentors from their childhood, celebrating gratitude and the lasting power of encouragement.",
-    "whyItMatters": "It is a warm reminder for preaching and pastoral ministry that faithful encouragement can shape a life long after the moment has passed.",
-    "url": "https://www.nbcnews.com/video/good-news-nba-players-get-surprise-visits-from-their-childhood-heroes-261650501642"
+    "title": "Good News: Teen Completes Own “Boston Marathon” in Hospital - NBC News",
+    "summary": "A Massachusetts teenager battling leukemia turned his daily hospital walks into his own version of the Boston Marathon.",
+    "whyItMatters": "This is a strong illustration of courage, hope, and perseverance that could serve well in pastoral encouragement or a sermon moment.",
+    "url": "https://www.nbcnews.com/video/good-news-teen-completes-own-boston-marathon-in-hospital-261681221709"
   }
 }
