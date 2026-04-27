@@ -1,52 +1,66 @@
 {
-  "date": "2026-04-26",
-  "updatedAt": "2026-04-26T11:10:39.292Z",
+  "date": "2026-04-27",
+  "updatedAt": "2026-04-27T12:06:45.469Z",
   "global": [
     {
-      "title": "Trump speaks with reporters after canceling Witkoff, Kushner's trip to Pakistan for talks with Iran - CBS News",
-      "summary": "A planned trip by U.S. envoys for talks with Iran was canceled, signaling a fresh complication in already fragile diplomacy.",
-      "whyItMatters": "This is a meaningful new development in a major conflict story that affects prayer, preaching, and pastoral awareness around fear, peace, and global instability.",
-      "url": "https://www.cbsnews.com/video/trump-canceling-witkoff-kushner-pakistan-iran-talks-trip/"
+      "title": "Iran president calls on US to end blockade. Follow live updates. - The Boston Globe",
+      "summary": "The Middle East crisis continues to widen, with heavy casualties reported in Iran, Lebanon, Israel and the Gulf, renewed strikes in southern Lebanon, and U.S.-Iran talks appearing to stall in Pakistan.",
+      "whyItMatters": "This remains the clearest live development shaping prayer, preaching, and pastoral care around fear, war, and peace.",
+      "url": "https://www.bostonglobe.com/2026/04/26/nation/us-iran-war-updates/"
     },
     {
-      "title": "IEA Chief Warns Of 'Biggest Energy Security Threat In History' As Hormuz Crisis Deepens: 'Getting Worse Every Day' - Yahoo Finance",
-      "summary": "The head of the IEA warns the Hormuz crisis is worsening daily, raising concerns about energy supply, prices, and wider economic strain.",
-      "whyItMatters": "Energy shocks often become household stress, which pastors will feel through congregational anxiety, financial pressure, and community need.",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/iea-chief-warns-biggest-energy-133112427.html"
-    },
-    {
-      "title": "D.C. officials announce charges against correspondents' dinner shooting suspect - CBS News",
-      "summary": "Authorities announced charges after the shooting tied to the White House Correspondents' Dinner, adding clarity after a shocking act of public violence.",
-      "whyItMatters": "Public violence continues to shape how people process safety, fear, and civic trust—important themes for pastoral care and public prayer.",
-      "url": "https://www.cbsnews.com/video/dc-officials-announce-charges-against-correspondents-dinner-shooting-suspect/"
+      "title": "California seeing higher jet fuel prices, experts predict troubled skies for summer travelers - CBS News",
+      "summary": "Rising jet fuel prices tied to the Middle East conflict are beginning to affect travel expectations, with experts warning of a difficult summer for airlines and passengers.",
+      "whyItMatters": "Global conflict is now touching ordinary family budgets and travel plans, offering a concrete way to pastor people through anxiety and uncertainty.",
+      "url": "https://www.cbsnews.com/video/california-seeing-higher-jet-fuel-prices-experts-predict-troubled-skies-summer-travelers/"
     }
   ],
-  "canadian": [],
-  "local": [],
-  "persecutedChurch": [
+  "canadian": [
     {
-      "title": "Israeli soldier's desecration of crucifix in south Lebanon draws condemnation - Reuters",
-      "summary": "A soldier's desecration of a crucifix in a Christian village in south Lebanon drew condemnation from Israeli leaders, U.S. officials, and church leaders, with an investigation underway.",
-      "whyItMatters": "This concerns the dignity and protection of Christian communities and sacred symbols, and invites informed prayer for justice, repentance, and peace.",
-      "url": "https://www.reuters.com/world/middle-east/israel-condemns-soldiers-desecration-crucifix-south-lebanon-2026-04-20/"
+      "title": "The Uplift: Peanut the puppy - CBS News",
+      "summary": "CBS’s latest uplifting feature highlights small acts of care and encouragement, including a story centered on Peanut the puppy.",
+      "whyItMatters": "A lighter national-interest story can help balance a heavy news cycle and provide a simple illustration of compassion in community life.",
+      "url": "https://www.cbsnews.com/video/042526-the-uplift/"
     },
     {
-      "title": "Israel appoints special envoy to Christian world amid growing backlash - Haaretz",
-      "summary": "Following several incidents that angered Christians globally, Israel appointed a special envoy to the Christian world as a diplomatic response.",
-      "whyItMatters": "This is a fresh development that may shape Christian-Jewish relations and offers a new angle for pastoral reflection on witness, reconciliation, and advocacy.",
-      "url": "https://www.haaretz.com/world-news/2026-04-23/ty-article/.premium/israel-appoints-special-envoy-to-christian-world-amid-growing-backlash/0000019d-ba97-db3c-a1ff-ffb72b420000"
+      "title": "Saturday Sessions: The Milk Carton Kids perform \"I'll Go Home From Here\" - CBS News",
+      "summary": "A fresh music feature offers a reflective cultural moment through a live performance by The Milk Carton Kids.",
+      "whyItMatters": "Useful as a gentler conversation point for pastoral connection, especially when many people are weary from conflict-heavy headlines.",
+      "url": "https://www.cbsnews.com/video/saturday-sessions-the-milk-carton-kids-perform-ill-go-home-from-here/"
+    }
+  ],
+  "local": [
+    {
+      "title": "White scores twice, Sabaly adds a goal and Whitecaps beat Rapids 3-1 - ABC News - Breaking News, Latest News and Videos",
+      "summary": "The Vancouver Whitecaps won 3-1 over Colorado, with Brian White scoring twice as the club stretched its strong early-season form and won a fourth straight match.",
+      "whyItMatters": "A positive local sports result gives Kris a simple point of connection with people in the congregation and wider community.",
+      "url": "https://abcnews.com/Sports/wireStory/white-scores-sabaly-adds-goal-whitecaps-beat-rapids-132393276"
+    }
+  ],
+  "persecutedChurch": [
+    {
+      "title": "David Rosen: Israel doesn’t adequately understand Christian relations - The Times of Israel",
+      "summary": "After outrage over the desecration of a Jesus statue in Lebanon, David Rosen argues Israel lacks a serious long-term strategy for relations with churches and the wider Christian world.",
+      "whyItMatters": "This helps frame the deeper issue behind recent incidents affecting Christians in the region and can inform wiser prayer and teaching.",
+      "url": "https://www.timesofisrael.com/david-rosen-israel-doesnt-adequately-understand-christian-relations/"
+    },
+    {
+      "title": "Settlers reportedly attack Palestinian village in northern West Bank - The Times of Israel",
+      "summary": "Palestinian reports say settlers hurled stones and set property on fire in the West Bank village of Qusra, adding to tensions and insecurity for vulnerable communities.",
+      "whyItMatters": "Pastors should watch for violence that further destabilizes Christian and other minority communities in the Holy Land.",
+      "url": "https://www.timesofisrael.com/liveblog_entry/settlers-reportedly-attack-palestinian-village-in-northern-west-bank/"
     }
   ],
   "leadership": {
-    "title": "Why The Leadership Traits That Win Promotions Fail Employees - Forbes",
-    "summary": "This piece argues that the traits rewarded in rising leaders are often different from the traits employees most need, especially trustworthiness, steadiness, and self-awareness.",
-    "whyItMatters": "Helpful for pastoral leadership: churches need leaders who build trust, not just visibility or momentum.",
-    "url": "https://www.forbes.com/sites/carolinecastrillon/2026/04/19/why-the-leadership-traits-that-win-promotions-fail-employees/"
+    "title": "Skarbek’s Ruth Corcoran-Henry on how businesses flexibility can shape success - Consultancy.uk",
+    "summary": "Ruth Corcoran-Henry argues that change succeeds when ambition, capability, and the human experience stay aligned, with clear communication and honest questions asked early.",
+    "whyItMatters": "A timely leadership reminder for church teams: people handle change better when communication is transparent and participation is real.",
+    "url": "https://www.consultancy.uk/news/amp/43808/skarbeks-ruth-corcoran-henry-on-how-businesses-flexibility-can-shape-success"
   },
   "goodNews": {
-    "title": "Watch: How one orangutan braved new bridge to unite his split community - BBC",
-    "summary": "New footage shows an orangutan using a long-awaited bridge, a hopeful conservation moment that could reconnect a divided primate community.",
-    "whyItMatters": "A small but vivid picture of restoration and reconnection—useful as a hopeful image in a weary news cycle.",
-    "url": "https://www.bbc.com/news/videos/ckgerdnvm2xo"
+    "title": "World Press Photo Contest winners cast a lens on resilience, pain and bliss - NPR",
+    "summary": "The World Press Photo winners include images of hardship, but also striking scenes of resilience, rebuilding, beauty, and joy from communities across the Global South.",
+    "whyItMatters": "This offers a hopeful, honest reminder that grace, dignity, and beauty still emerge in troubled places—useful for sermon imagination and pastoral encouragement.",
+    "url": "https://www.npr.org/2026/04/26/g-s1-118511/world-press-photo-contest-winners"
   }
 }
