@@ -1,59 +1,72 @@
 {
-  "date": "2026-05-02",
-  "updatedAt": "2026-05-02T11:13:48.916Z",
+  "date": "2026-05-03",
+  "updatedAt": "2026-05-03T11:11:06.073Z",
   "global": [
     {
-      "title": "Iran activates air defences as Trump faces congressional deadline - Yahoo",
-      "summary": "Middle East tensions continue to escalate as Iran activates air defences and global oil prices surge, with UN leaders warning of severe economic fallout and urging urgent dialogue.",
-      "whyItMatters": "This shapes prayer, preaching, and pastoral care as families face anxiety over war, instability, and rising living costs.",
-      "url": "https://www.yahoo.com/news/articles/iran-defies-trumps-blockade-oil-082406494.html"
+      "title": "Reuters sees firsthand how reclusive Turkmenistan shows signs of opening up - Reuters",
+      "summary": "Reuters reports rare on-the-ground access inside Turkmenistan, suggesting the highly isolated country may be easing internal controls under new leadership.",
+      "whyItMatters": "A small opening in a closed society can create new space for prayer, mission awareness, and wise attention to religious freedom.",
+      "url": "https://www.reuters.com/video/watch/idRW092508042026RP1/"
     },
     {
-      "title": "April 30: High school stabbing, House explosion - NBC News",
-      "summary": "NBC’s roundup highlights multiple fresh tragedies, including a high school stabbing in Washington state, officers injured in a house explosion, and a camp closure after fatal floods.",
-      "whyItMatters": "Pastors are often helping people process fear, grief, and the sense that violence and disaster are always near.",
-      "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-april-30-262495813930"
+      "title": "Thousands of Venezuelans protest cost of living, low wages - NBC News",
+      "summary": "Workers in Venezuela are protesting soaring inflation and low wages, even after the government announced a pay increase that many doubt is sustainable.",
+      "whyItMatters": "Economic desperation often deepens family strain, migration pressure, and pastoral need among vulnerable communities.",
+      "url": "https://www.nbcnews.com/video/thousands-of-venezuelans-protest-cost-of-living-low-wages-262572101913"
     },
     {
-      "title": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Middle East Tensions Continue - WSJ",
-      "summary": "Markets are entering a tense week with jobs data, central bank decisions, and ongoing Middle East instability all likely to affect currencies, bonds, and broader economic confidence.",
-      "whyItMatters": "Economic uncertainty affects household stress, generosity, and the practical burdens people bring into church life.",
-      "url": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-as-middle-east-tensions-continue-a68aa7bf"
+      "title": "Fierce winds, pounding rain sweep through Texas - CBS News",
+      "summary": "Severe weather and flooding are hitting parts of Texas, adding to loss, disruption, and safety concerns for affected communities.",
+      "whyItMatters": "Disasters create openings for compassionate prayer, practical care, and preaching on presence, fragility, and hope.",
+      "url": "https://www.cbsnews.com/video/fierce-winds-pounding-rain-sweep-through-texas/"
     }
   ],
   "canadian": [
     {
-      "title": "Canada announces sovereign wealth fund, more major projects expected to move ahead within a year, and public input open for Webequie Supply Road project - Canadian Institute of Mining, Metallurgy and Petroleum (CIM)",
-      "summary": "Canada is accelerating major resource and infrastructure projects, while B.C. has added 17 more developments to its priority list under its approval-fast-tracking plan.",
-      "whyItMatters": "This affects stewardship, creation care, Indigenous relationships, and the economic hopes and tensions many congregants feel.",
-      "url": "https://magazine.cim.org/en/news/2026/weekly-mining-news-recap-may-1/"
-    }
-  ],
-  "local": [],
-  "persecutedChurch": [
-    {
-      "title": "Nun is attacked in streets of Jerusalem, sparking outcry - NBC News",
-      "summary": "A nun was violently shoved and kicked in Jerusalem in an attack police say was motivated by racism, renewing concern over repeated harassment of Christians in the city.",
-      "whyItMatters": "This is a clear call to pray for vulnerable believers and to remember the cost of public Christian witness in some places.",
-      "url": "https://www.nbcnews.com/world/israel/nun-attacked-streets-jerusalem-sparking-outcry-rcna343052"
+      "title": "Astronaut Jeremy Hansen says \"it's not that we never fail\" but \"we never stop there\" - CBS News",
+      "summary": "Canadian astronaut Jeremy Hansen reflects on resilience, saying failure is not the end if people keep learning and moving forward.",
+      "whyItMatters": "This offers a timely leadership and sermon illustration about perseverance, humility, and hope after setbacks.",
+      "url": "https://www.cbsnews.com/video/jeremy-hansen-says-its-not-that-we-never-fail-but-we-never-stop-there/"
     },
     {
-      "title": "Nearly Half of Germany's Jewish Communities Report Anti-semitic Incidents - Haaretz",
-      "summary": "A new survey says nearly half of Germany’s Jewish communities reported antisemitic incidents over the past year, with leaders warning that hostility is becoming normalized in public life.",
-      "whyItMatters": "Pastoral leadership includes resisting hatred, teaching human dignity, and standing with communities facing religious hostility.",
-      "url": "https://www.haaretz.com/world-news/europe/2026-05-01/ty-article/nearly-half-of-germanys-jewish-communities-report-anti-semitic-incidents/0000019d-e200-d709-ad9f-e6138e210000"
+      "title": "Flash flooding kills at least one person in Texas - NBC News",
+      "summary": "NBC reports at least one death from flash flooding in Texas as dangerous conditions continue.",
+      "whyItMatters": "Even outside Canada, major weather events shape congregational prayer, compassion, and awareness of human vulnerability.",
+      "url": "https://www.nbcnews.com/video/shorts/flash-flooding-kills-at-least-one-person-in-texas-262578245927"
+    }
+  ],
+  "local": [
+    {
+      "title": "Hot weather incoming - Axios",
+      "summary": "Axios reports Portland could hit 90°F this weekend unusually early, with warnings that rivers and lakes remain dangerously cold and fast-moving.",
+      "whyItMatters": "A useful reminder for pastoral care and community communication around safety, especially for families and outdoor gatherings.",
+      "url": "https://www.axios.com/local/portland/2026/05/01/hot-weather-incoming"
+    }
+  ],
+  "persecutedChurch": [
+    {
+      "title": "Video of attack on French nun in Jerusalem causes widespread condemnation - The Guardian",
+      "summary": "A filmed attack on a French nun in Jerusalem has drawn broad condemnation, while advocates say harassment of Christians is more common than official figures show.",
+      "whyItMatters": "This is a concrete prompt to pray for Christian minorities, teach on dignity, and stay alert to rising hostility toward believers.",
+      "url": "https://www.theguardian.com/world/2026/may/01/video-attack-french-nun-jerusalem"
+    },
+    {
+      "title": "Trump Administration Casts Host of Policies Under Biden as Anti-Christian - The New York Times",
+      "summary": "The U.S. Justice Department released a report arguing prior federal policies were unfair to Christians, framing it as part of a broader religious-liberty push.",
+      "whyItMatters": "Religious freedom debates in North America can shape how pastors speak carefully about conscience, public witness, and polarization.",
+      "url": "https://www.nytimes.com/2026/04/30/us/politics/trump-report-christians-biden.html"
     }
   ],
   "leadership": {
-    "title": "Who Cares Wins: The Science Of Transformational Value Creation - Yahoo News Malaysia",
-    "summary": "This leadership piece argues that cultures of care, trust, and empathy outperform compliance-driven models, offering practical ways to build resilient and engaged teams.",
-    "whyItMatters": "It reinforces a deeply pastoral leadership instinct: people flourish where they are genuinely known, valued, and safe.",
-    "url": "https://malaysia.news.yahoo.com/cares-wins-science-transformational-value-212055121.html"
+    "title": "From Teamwork To Crew: What Artemis II Reveals About Character - Forbes",
+    "summary": "Forbes argues that high-performing teams become true crews not merely through competence, but through character, trust, accountability, and resilience under pressure.",
+    "whyItMatters": "Helpful for church leadership: ministry health depends not just on gifting, but on the kind of people we are becoming together.",
+    "url": "https://www.forbes.com/sites/marycrossan/2026/04/30/from-teamwork-to-crew-what-artemis-ii-reveals-about-character/"
   },
   "goodNews": {
-    "title": "King Charles III's charity celebrates 50 years of helping young people find work with a gala in NYC - WHEC.com",
-    "summary": "The King’s Trust marked 50 years of helping young people find work and direction, with testimonies showing how timely encouragement can change a life’s trajectory.",
-    "whyItMatters": "It is a hopeful reminder that patient investment in young people bears fruit and mirrors the church’s calling to mentor the next generation.",
-    "url": "https://www.whec.com/ap-top-news/king-charles-iiis-charity-celebrates-50-years-of-helping-young-people-find-work-with-a-gala-in-nyc/"
+    "title": "5-year-old aspiring astronaut Jack says \"it was fun\" to watch historic Artemis launch - CBS News",
+    "summary": "A young aspiring astronaut’s delight at watching the Artemis launch offers a simple, joyful picture of wonder, imagination, and hope.",
+    "whyItMatters": "Pastors can use stories like this to rekindle gratitude, childlike awe, and a sense of possibility in weary times.",
+    "url": "https://www.cbsnews.com/video/5-year-old-aspiring-astronaut-jack-says-it-was-fun-to-watch-historic-artemis-launch/"
   }
 }
