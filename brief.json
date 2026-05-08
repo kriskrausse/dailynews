@@ -1,59 +1,65 @@
 {
-  "date": "2026-05-07",
-  "updatedAt": "2026-05-07T12:16:27.776Z",
+  "date": "2026-05-08",
+  "updatedAt": "2026-05-08T11:53:01.542Z",
   "global": [
     {
-      "title": "5 things to know for May 7: Hantavirus outbreak, peace talks, market rebound, small businesses, White House ballroom - CNN",
-      "summary": "A cruise ship outbreak linked to hantavirus has left passengers still aboard as officials trace contacts, while Iran is expected to respond to a U.S. proposal to end the war.",
-      "whyItMatters": "This combines public-health concern and fragile peace efforts—two areas where pastors may need to pray, speak calmly, and care for anxious people.",
-      "url": "https://www.cnn.com/2026/05/07/us/5-things-to-know-for-may-7-hantavirus-outbreak-peace-talks-market-rebound-small-businesses-white-house-ballroom"
+      "title": "Trump on Tour - Reuters",
+      "summary": "Reuters says U.S.-Iran clashes in the Gulf are straining a fragile ceasefire, while Washington awaits Tehran’s response to a temporary peace proposal. The report also notes the Strait of Hormuz remains heavily disrupted, keeping pressure on oil prices and the global economy.",
+      "whyItMatters": "Conflict, inflation, and uncertainty shape the anxieties people bring to church; this is a key story for prayer and pastoral awareness.",
+      "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-05-08/"
     },
     {
-      "title": "Morning Bid: No stopping AI frenzy in Asia - Reuters",
-      "summary": "Reuters says markets are watching both the AI-driven rally in Asia and the possibility of a peace deal with Iran, even as oil remains elevated and the Strait of Hormuz crisis is unresolved.",
-      "whyItMatters": "Economic volatility shapes household stress, generosity, and congregational needs; this helps frame pastoral awareness of financial pressure.",
-      "url": "https://www.reuters.com/world/asia-pacific/global-markets-view-europe-2026-05-07/"
+      "title": "5 things to know for May 7: Job market, Pope Leo XIV, ceasefire, tariffs, volcano eruption - CNN",
+      "summary": "CNN highlights several fresh developments, including Pope Leo XIV marking one year since his election and meeting U.S. Secretary of State Marco Rubio at the Vatican, alongside a deadly volcanic eruption in Indonesia and a U.S. court ruling against broad tariffs.",
+      "whyItMatters": "This gives Kris a quick read on major global pressures while also noting a significant Vatican moment with wider Christian and diplomatic implications.",
+      "url": "https://www.cnn.com/2026/05/08/us/5-things-to-know-for-may-7-job-market-pope-leo-xiv-ceasefire-tariffs-volcano-eruption"
+    },
+    {
+      "title": "CNBC Daily Open: Leadership challenge swirls around Starmer - CNBC",
+      "summary": "CNBC reports that political instability in Britain is drawing investor concern, while tensions in the Middle East continue after U.S. and Iranian forces exchanged fire in the Strait of Hormuz. The piece also points to how these conflicts may complicate upcoming U.S.-China talks.",
+      "whyItMatters": "Political instability abroad can quickly affect markets, migration, and public mood at home, all of which influence congregational life.",
+      "url": "https://www.cnbc.com/2026/05/08/cnbc-daily-open-leadership-challenge-swirls-around-starmer.html"
     }
   ],
   "canadian": [
     {
-      "title": "Airbus wins $19bn order in Canada’s biggest ever aircraft deal - Financial Times",
-      "summary": "Airbus has secured what the FT describes as Canada’s biggest-ever aircraft deal, signaling a major development for the country’s aviation and industrial sectors.",
-      "whyItMatters": "Large economic moves can affect jobs, regional confidence, and family stability—useful context for pastoral leadership in uncertain times.",
-      "url": "https://www.ft.com/content/19c4dab7-0141-4c40-9d2f-180ff33cdd63?syn-25a6b1a6=1"
+      "title": "The wonkiest day of the year - Politico",
+      "summary": "Politico’s Canada Playbook says Ottawa is hosting a major policy gathering as Chrystia Freeland returns and premiers, policy leaders, and Indigenous voices engage current national issues. It also flags debate around child care deals and a proposed lawful access bill opposed by Apple over privacy concerns.",
+      "whyItMatters": "Federal policy on privacy, child care, and Indigenous affairs affects families and public trust—important context for pastoral care and public prayer.",
+      "url": "https://www.politico.com/newsletters/canada-playbook/2026/05/07/the-wonkiest-day-of-the-year-00909626"
     },
     {
-      "title": "U.S. Private Sector Added 109,000 Jobs In April—As Small Businesses Boost Growth - Forbes",
-      "summary": "Forbes reports April job growth was led by education, health services, and small businesses, with mid-sized firms showing more weakness.",
-      "whyItMatters": "Employment trends often show up first in prayer requests, benevolence needs, and the emotional tone of a church community.",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/05/06/private-employment-accelerated-in-april-as-small-businesses-fuel-job-growth/"
+      "title": "A Western Company Just Locked Up Greenland's Rarest Deposit—and Its Backers Have Washington Ties - thedeepdive.ca",
+      "summary": "The Deep Dive’s roundup notes a Canadian pension angle in global market turmoil, saying CPP savings are being pressured by shifting energy politics tied to U.S. policy and the wider conflict environment.",
+      "whyItMatters": "Economic volatility touches retirement security and household confidence, which often surfaces in pastoral conversations about fear and provision.",
+      "url": "https://thedeepdive.ca/a-western-company-just-locked-up-greenlands-rarest-deposit-and-its-backers-have-washington-ties/"
     }
   ],
   "local": [],
   "persecutedChurch": [
     {
-      "title": "Nun assaulted in Jerusalem as concern grows over attacks on Christians - The Catholic Herald",
-      "summary": "After the assault of a nun in Jerusalem, police arrested a suspect and said they are treating the case seriously, while Christian leaders warn the attack reflects a wider pattern of hostility.",
-      "whyItMatters": "This is a direct reminder to pray for vulnerable believers and to keep religious freedom and Christian witness before the congregation.",
-      "url": "https://thecatholicherald.com/article/nun-assaulted-in-jerusalem-as-concern-grows-over-attacks-on-christians"
+      "title": "Jerusalem Christians not surprised by attack on nun as abuse becomes routine - The Times of Israel",
+      "summary": "The Times of Israel reports that Christians in Jerusalem say harassment has become routine, with clergy describing daily spitting and abuse. The article says 61 physical attacks were recorded in 2025, reinforcing that the recent assault on a nun was not an isolated event.",
+      "whyItMatters": "This is a clear call to pray for the church in the Holy Land and to remember that everyday intimidation can deeply wound Christian witness.",
+      "url": "https://www.timesofisrael.com/jerusalem-christians-not-surprised-by-attack-on-nun-as-abuse-becomes-routine/"
     },
     {
-      "title": "For Christians in Israel and Jerusalem, intolerance is becoming normal - Al Jazeera",
-      "summary": "Christians in Israel and East Jerusalem say harassment, intimidation, and assaults are becoming more routine, with local monitors documenting repeated incidents against clergy and church property.",
-      "whyItMatters": "Pastors can help their people see persecution not as abstract news but as a present burden on fellow believers in the land of Jesus’ ministry.",
-      "url": "https://www.aljazeera.com/news/2026/5/4/for-christians-israel-jerusalem-intolerance-becoming-normal"
+      "title": "Visiting Berlin, Sa’ar says whoever harms Christians in Israel ‘will be dealt with severely’ - The Times of Israel",
+      "summary": "Following international outrage over recent attacks on Christians, Israel’s foreign minister said those who harm Christians will face severe consequences. The statement signals official recognition of the seriousness of the issue.",
+      "whyItMatters": "This may mark a meaningful response to anti-Christian violence and is worth watching for whether words lead to real protection.",
+      "url": "https://www.timesofisrael.com/liveblog_entry/visiting-berlin-saar-says-whoever-harms-christians-in-israel-will-be-dealt-with-severely/"
     }
   ],
   "leadership": {
-    "title": "Why workforce wellbeing can no longer sit on the sidelines in ECEC - The Sector",
-    "summary": "This piece argues that wellbeing should be built into leadership, systems, and organizational design rather than treated as a late response to burnout.",
-    "whyItMatters": "Healthy ministry culture is sustained by intentional systems, not just good intentions; this is a useful lens for staff care and volunteer leadership.",
-    "url": "https://thesector.com.au/article/workforce-wellbeing-ecec-reform-connect-2026"
+    "title": "Why This CHRO Says Caring Is the Key to Leadership - Forbes",
+    "summary": "Forbes argues that effective leadership begins with the heart: caring, trust, empathy, vulnerability, and psychological safety. The piece frames these not as soft extras but as practical drivers of retention, engagement, and healthy culture.",
+    "whyItMatters": "A pastor leads people, not just programs; this is a timely reminder that care and trust are central leadership disciplines.",
+    "url": "https://www.forbes.com/sites/kevinkruse/2026/05/03/chro-leadership-caring-emotional-intelligence-workplace/"
   },
   "goodNews": {
-    "title": "Children's Theatre Company performing \"Wizard of Oz\" this summer - CBS News",
-    "summary": "A children’s production of The Wizard of Oz is bringing a timeless story of friendship to families this summer.",
-    "whyItMatters": "Stories of beauty, friendship, and shared community life offer a welcome note of joy pastors can carry into conversations and gatherings.",
-    "url": "https://www.cbsnews.com/minnesota/video/childrens-theatre-company-performing-wizard-of-oz-this-summer/"
+    "title": "Emunah’s Quiet Heroes - The Jerusalem Post",
+    "summary": "The Jerusalem Post highlights children’s homes in Israel caring for vulnerable young people through trauma and war. Despite sirens, disrupted routines, and fear, staff and children are still honoring others, giving care packages, and planning joyful milestones like a Bar Mitzvah celebration.",
+    "whyItMatters": "It is a hopeful picture of steadfast love under pressure—useful for encouragement, prayer, and preaching about resilient service.",
+    "url": "https://www.jpost.com/israel-news/culture/article-895452"
   }
 }
