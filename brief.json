@@ -1,66 +1,59 @@
 {
-  "date": "2026-05-11",
-  "updatedAt": "2026-05-11T13:23:23.667Z",
+  "date": "2026-05-12",
+  "updatedAt": "2026-05-12T12:23:39.654Z",
   "global": [
     {
-      "title": "Wall St futures subdued as U.S.-Iran talks stall - KITCO",
-      "summary": "Markets opened cautiously as U.S.-Iran talks appeared to stall, with investors watching oil prices, inflation, and the wider fallout from Middle East tensions.",
-      "whyItMatters": "This helps frame prayer and preaching around anxiety, peacemaking, and how global conflict affects everyday households.",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-05-11/wall-st-futures-subdued-us-iran-talks-stall"
+      "title": "U.S. and China execute joint drug bust ahead of Trump-Xi summit - NBC News",
+      "summary": "U.S. and Chinese authorities carried out a joint drug bust just before the Trump-Xi summit, signaling a rare area of practical cooperation amid wider tensions.",
+      "whyItMatters": "This is a reminder that even strained rivals can still work together for the common good—useful for pastoral reflection on peacemaking and public trust.",
+      "url": "https://www.nbcnews.com/video/u-s-and-china-execute-joint-drug-bust-ahead-of-trump-xi-summit-263141445981"
     },
     {
-      "title": "Overnight News Digest May 10, 2026 - Daily Kos",
-      "summary": "A Reuters roundup reports Putin saying the Ukraine war may be nearing an end even as he again defended Russia’s narrative and floated new European security talks.",
-      "whyItMatters": "Pastors may want to pray with both hope and discernment as war rhetoric shifts but suffering and uncertainty remain.",
-      "url": "https://www.dailykos.com/stories/2026/5/10/800036779/community/overnight-news-digest-may-10-2026/"
+      "title": "China confirms Trump state visit May 13-15 - CNBC",
+      "summary": "China has confirmed a Trump state visit for May 13-15, putting major geopolitical issues like Iran, Taiwan, AI, and nuclear weapons back at the center of global diplomacy.",
+      "whyItMatters": "High-level diplomacy can quickly affect global stability, markets, and congregational anxiety; pastors may want to help people pray with steadiness rather than fear.",
+      "url": "https://www.cnbc.com/video/2026/05/11/china-confirms-trump-state-visit-may-13-15.html"
     },
     {
-      "title": "Netanyahu says there's still \"work to be done\" before Iran war ends | 60 Minutes - CBS News",
-      "summary": "In a fresh interview, Netanyahu said the Iran war is not yet over, signaling that ceasefire language has not resolved the deeper conflict.",
-      "whyItMatters": "This offers a current angle for intercession, pastoral sensitivity, and wise public prayer about war, peace, and civilian fear.",
-      "url": "https://www.cbsnews.com/video/netanyahu-iran-war-60-minutes/"
+      "title": "Stock Market Today: S&P 500, Nasdaq Set New Records; Oil Rises as Trump Rejects 'Unacceptable' Iran Peace Plan Response - Investopedia",
+      "summary": "Markets reached new highs even as oil rose on renewed Middle East uncertainty after Trump rejected Iran's latest peace-plan response.",
+      "whyItMatters": "Economic optimism and geopolitical instability are moving together right now; that tension shapes household stress, generosity, and how people hear sermons about security.",
+      "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-05112026-11971208"
     }
   ],
   "canadian": [
     {
-      "title": "Collision leaves motorcycle hanging from traffic light in Delta, B.C. - Global News",
-      "summary": "A dramatic crash in Delta left a motorcycle suspended from a traffic light, drawing attention to road safety and the fragility of ordinary life.",
-      "whyItMatters": "Local tragedies often open pastoral opportunities for prayer, presence, and reminding congregations to care for neighbors in crisis.",
-      "url": "https://globalnews.ca/news/11842433/bc-delta-motorcycle-crash-traffic-light/"
+      "title": "Martin Short: Facing tragedy with joy - CBS News",
+      "summary": "Canadian comedian Martin Short reflects on carrying grief and joy together, offering a moving public witness to resilience after personal loss.",
+      "whyItMatters": "This gives a culturally familiar entry point for preaching and pastoral care around sorrow, hope, and the grace of joy that does not deny pain.",
+      "url": "https://www.cbsnews.com/video/martin-short-facing-tragedy-with-joy/"
     }
   ],
-  "local": [
-    {
-      "title": "Collision leaves motorcycle hanging from traffic light in Delta, B.C. - Global News",
-      "summary": "A Delta collision on Sunday left a motorcycle hanging from a traffic light, a striking local incident that quickly drew public attention.",
-      "whyItMatters": "For a B.C. pastor, this is the kind of nearby event that shapes community concern and invites practical pastoral presence.",
-      "url": "https://globalnews.ca/news/11842433/bc-delta-motorcycle-crash-traffic-light/"
-    }
-  ],
+  "local": [],
   "persecutedChurch": [
     {
-      "title": "Open Doors: Number of Christians persecuted worldwide rises to 388 million",
-      "summary": "A Vatican News report on Open Doors says the number of Christians facing persecution worldwide has risen to 388 million.",
-      "whyItMatters": "This is a clear call to lead informed prayer, global awareness, and solidarity with suffering believers.",
-      "url": "https://www.vaticannews.va/en/church/news/2026-01/open-doors-world-watch-list-2026-report-christians-persecuted.html"
+      "title": "Israel indicts Jewish man accused of attacking Christian nun in Jerusalem - AP News",
+      "summary": "Israeli authorities have indicted a man accused of violently attacking a Catholic nun near Jerusalem's Old City, after the incident drew broad condemnation and renewed concern over anti-Christian harassment.",
+      "whyItMatters": "This is a concrete development pastors can pray over: both for protection of vulnerable believers and for justice that may deter further attacks.",
+      "url": "https://apnews.com/article/israel-man-indicted-nun-attack-jerusalem-a66879093ee8c6ea2f1a31471b32175d"
     },
     {
-      "title": "Over 30 Christians beheaded in Mozambique, churches burned",
-      "summary": "MNN reports that Islamic State-affiliated militants in northern Mozambique recently killed more than 30 Christians and burned churches.",
-      "whyItMatters": "This is urgent material for congregational prayer and a reminder that many believers still worship under severe threat.",
-      "url": "https://www.mnnonline.org/news/over-30-christians-beaheded-in-mozambique-churches-burned/"
+      "title": "Blessed Sacrament stolen from Nigerian adoration chapel - Catholic World Report",
+      "summary": "A Eucharistic theft in Nigeria comes amid continuing reports of severe violence against Christians, with new USCIRF attention on attacks by Fulani militants.",
+      "whyItMatters": "Nigeria remains one of the most urgent places for informed intercession, and this story helps keep persecution from becoming an abstract statistic.",
+      "url": "https://www.catholicworldreport.com/2026/05/09/blessed-sacrament-stolen-from-nigerian-adoration-chapel/"
     }
   ],
   "leadership": {
-    "title": "Two Case Studies Reveal 4 Lessons That Leadership Is About Conviction Not Survival - Forbes",
-    "summary": "This piece argues that leadership is not merely enduring pressure but knowing when conviction, clarity, and health must be guarded rather than sacrificed.",
-    "whyItMatters": "Helpful for a lead pastor navigating stress, courage, and the temptation to confuse faithfulness with exhaustion.",
-    "url": "https://www.forbes.com/sites/glennllopis/2026/05/11/two-case-studies-reveal-4-lessons-that-leadership-is-about-conviction-not-survival/"
+    "title": "Raising the resilience of your organization",
+    "summary": "McKinsey highlights resilience as the fruit of agility, psychological safety, adaptable leadership, and a cohesive culture rather than mere crisis reaction.",
+    "whyItMatters": "For a lead pastor, this is a helpful framework for building a church staff and volunteer culture that can endure pressure without losing health or mission.",
+    "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/raising-the-resilience-of-your-organization"
   },
   "goodNews": {
-    "title": "Stories to make you smile from across the West Midlands - BBC",
-    "summary": "The BBC gathered several uplifting stories, including a young BMX hopeful, thriving beavers, and a generous gift to support creative work.",
-    "whyItMatters": "A gentle reminder that joy, generosity, and small signs of renewal still deserve attention in a heavy news cycle.",
-    "url": "https://www.bbc.com/news/articles/cewpkpxglqzo?at_medium=RSS&at_campaign=rss"
+    "title": "Good News: Celebrations and smiles as children's hospital holds prom for patients - NBC News",
+    "summary": "A children's hospital hosted a prom for patients, creating a night of dignity, delight, and normal joy in the middle of serious medical hardship.",
+    "whyItMatters": "This is a beautiful picture of compassionate presence—an encouraging example for churches seeking to embody hope in practical ways.",
+    "url": "https://www.nbcnews.com/video/good-news-celebrations-and-smiles-as-children-s-hospital-holds-prom-for-patients-263055941575"
   }
 }
