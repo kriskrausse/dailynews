@@ -1,84 +1,65 @@
 {
-  "date": "2026-05-18",
-  "updatedAt": "2026-05-18T14:05:26.335Z",
+  "date": "2026-05-19",
+  "updatedAt": "2026-05-19T13:39:38.070Z",
   "global": [
     {
-      "title": "WHO declares global health emergency over new Ebola outbreak - NBC News",
-      "summary": "The WHO has now formally declared the Ebola outbreak in Congo and Uganda a global health emergency after more than 300 suspected cases and over 85 deaths.",
-      "whyItMatters": "This is a major humanitarian and prayer concern, and it may shape pastoral intercession, missions awareness, and public health sensitivity in the congregation.",
-      "url": "https://www.nbcnews.com/video/who-declares-global-health-emergency-over-new-ebola-outbreak-263482949974"
+      "title": "Deadly shooting at San Diego Islamic center - NBC News",
+      "summary": "Police say two teenage gunmen opened fire at a San Diego Islamic center, killing three people, including a security guard, before taking their own lives.",
+      "whyItMatters": "This is a sobering reminder of rising violence against faith communities and the need to pray, teach peace, and strengthen care for vulnerable congregations.",
+      "url": "https://www.nbcnews.com/nightly-news/video/deadly-shooting-at-san-diego-islamic-center-263548997741"
     },
     {
-      "title": "Millions on alert for severe weather with dangerous conditions expected - NBC News",
-      "summary": "Millions across the U.S. are under alert for large hail, strong winds, possible tornadoes, and wildfire risk in parts of the upper Midwest.",
-      "whyItMatters": "Severe weather stories help pastors frame prayers for protection, compassion, and practical care for displaced or anxious families.",
-      "url": "https://www.nbcnews.com/video/millions-on-alert-for-severe-weather-with-dangerous-conditions-expected-263482949997"
+      "title": "The Latest: World shares and oil prices react to Trump’s warning to Tehran over stalled negotiations - Greenwich Time",
+      "summary": "Markets fell and oil prices rose after renewed U.S.-Iran tensions, with a drone strike near the UAE’s nuclear plant underscoring fears of wider conflict in the region.",
+      "whyItMatters": "Escalation in the Middle East affects global stability, economic pressure, and prayerful attention to peace, especially for churches with ties to the region.",
+      "url": "https://www.greenwichtime.com/news/politics/article/the-latest-world-shares-and-oil-prices-react-to-22264243.php"
     },
     {
-      "title": "San Francisco school using AI to reimagine learning - CBS News",
-      "summary": "A San Francisco school is experimenting with AI as part of a new approach to teaching and learning, highlighting how quickly technology is reshaping education.",
-      "whyItMatters": "This offers a fresh preaching and leadership angle on discernment, formation, and how churches guide families through rapid cultural change.",
-      "url": "https://www.cbsnews.com/video/san-francisco-school-using-ai-to-reimagine-learning/"
+      "title": "A dust storm strikes Iraq's Najaf, reducing visibility - NBC News",
+      "summary": "A severe dust storm swept through Najaf, sharply reducing visibility and highlighting ongoing environmental strain in Iraq.",
+      "whyItMatters": "Climate and environmental disruptions increasingly shape human vulnerability, displacement, and ministry needs around the world.",
+      "url": "https://www.nbcnews.com/video/shorts/a-dust-storm-strikes-iraq-s-najaf-reducing-visibility-263563845675"
     }
   ],
-  "canadian": [
-    {
-      "title": "Multiple commencement speakers booed over AI comments - NBC News",
-      "summary": "Several commencement speakers drew boos after making comments about AI, reflecting growing public unease about technology, work, and the future facing graduates.",
-      "whyItMatters": "Canadian churches are discipling students and young adults in the same climate of uncertainty, making this a useful window into generational fears and hopes.",
-      "url": "https://www.nbcnews.com/video/shorts/multiple-commencement-speakers-booed-over-ai-comments-263501893619"
-    },
-    {
-      "title": "San Francisco school using AI to reimagine learning - CBS News",
-      "summary": "A school’s use of AI in the classroom points to broader educational shifts that will likely influence Canadian parents, teachers, and students as well.",
-      "whyItMatters": "Pastors in Canada are increasingly asked how faith communities should respond to AI in learning, formation, and child development.",
-      "url": "https://www.cbsnews.com/video/san-francisco-school-using-ai-to-reimagine-learning/"
-    },
-    {
-      "title": "Birding may hold key to keeping your brain sharp in old age, new study suggests - CBS News",
-      "summary": "A new study suggests birding may help older adults keep their minds active and sharp, linking outdoor attention and engagement with healthy aging.",
-      "whyItMatters": "This is a practical and encouraging angle for ministry with seniors, creation care, and whole-person discipleship.",
-      "url": "https://www.cbsnews.com/video/birding-may-hold-key-to-keeping-your-brain-sharp-in-old-age-new-study-suggests/"
-    }
-  ],
+  "canadian": [],
   "local": [
     {
-      "title": "ADUs: A solution to housing in your own backyard - CBS News",
-      "summary": "A report on accessory dwelling units highlights one possible response to housing pressure by creating smaller homes on existing properties.",
-      "whyItMatters": "Housing affordability remains a pressing issue in British Columbia, and this can inform pastoral care, community partnerships, and local advocacy.",
-      "url": "https://www.cbsnews.com/video/adus-a-solution-to-housing-in-your-own-backyard/"
+      "title": "Montana nonprofit releases interactive map of housing affordability in all 56 counties - Bozeman Daily Chronicle",
+      "summary": "A Montana nonprofit has released an interactive county-by-county housing affordability map aimed at helping residents and leaders better understand local housing pressures.",
+      "whyItMatters": "Housing strain is a pastoral issue too, affecting families, generosity, stability, and how churches think about mercy, advocacy, and community life.",
+      "url": "https://www.bozemandailychronicle.com/news/montana-nonprofit-releases-interactive-map-of-housing-affordability-in-all-56-counties/article_6c0c884d-0693-5ec7-88f0-1f9ff8e5219c.html"
     },
     {
-      "title": "Uncovering coded antisemitism online takes both human expertise and AI automation - Bozeman Daily Chronicle",
-      "summary": "The piece argues that identifying online antisemitism requires both skilled human judgment and AI tools, especially as hateful language becomes more coded.",
-      "whyItMatters": "Pastors need awareness of how antisemitism and online radicalization spread so they can teach discernment and protect community health.",
-      "url": "https://www.bozemandailychronicle.com/ap_news/conversation/uncovering-coded-antisemitism-online-takes-both-human-expertise-and-ai-automation/article_5dd3b8e8-7117-5f06-a6a2-843a93ae529c.html"
+      "title": "“The Nazi and The Rabbi” discussion breaks down barriers - Bozeman Daily Chronicle",
+      "summary": "A public conversation highlighted unlikely relationship-building and the hard work of breaking down hatred and social barriers.",
+      "whyItMatters": "This offers a timely picture of reconciliation, repentance, and bridge-building that can inform preaching and local peacemaking ministry.",
+      "url": "https://www.bozemandailychronicle.com/news/sense-of-brotherhood-the-neo-nazi-and-the-rabbi-talk-breaking-down-barriers/article_c4a8b75f-e047-4485-8465-b41229be6b39.html"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Who on Earth Feels Threatened by a Nun? - Haaretz",
-      "summary": "This new Haaretz opinion piece says attacks on Christians in Israel have become disturbingly common, describing a climate in which visible Christian presence can be treated with hostility.",
-      "whyItMatters": "It gives a fresh angle on the vulnerability of Christian minorities in the Holy Land and can guide informed prayer and solidarity.",
-      "url": "https://www.haaretz.com/opinion/2026-05-17/ty-article-opinion/.premium/who-on-earth-feels-threatened-by-a-nun-welcome-to-todays-israel/0000019e-21a0-d336-a9be-21e4b9a20000"
+      "title": "Open Doors: Number of Christians persecuted worldwide rises to 388 million",
+      "summary": "A new Open Doors report says the number of Christians facing persecution or serious risk worldwide has risen to 388 million.",
+      "whyItMatters": "This is a direct call for informed prayer, global awareness, and solidarity with suffering believers.",
+      "url": "https://www.vaticannews.va/en/church/news/2026-01/open-doors-world-watch-list-2026-report-christians-persecuted.html"
     },
     {
-      "title": "J'lem church leaders urge Knesset to address 'hate crimes' against Christians - Haaretz",
-      "summary": "Jerusalem church leaders are urging the Knesset to respond to hate crimes against Christians, keeping attention on a pattern of pressure and intimidation.",
-      "whyItMatters": "Though covered yesterday, it remains directly relevant to prayer for the persecuted church and awareness of mounting pressure on historic Christian communities.",
-      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-05-13/ty-article/.premium/jlem-church-leaders-urge-knesset-to-address-hate-crimes-against-christians/0000019e-2063-d907-ad9e-3eff1c420000"
+      "title": "ADF Kills 43 Christians on Maundy Thursday - International Christian Concern",
+      "summary": "International Christian Concern reports that 43 Christians were killed in an ADF attack in eastern Democratic Republic of Congo on Maundy Thursday.",
+      "whyItMatters": "It is a painful reminder that Holy Week violence against believers remains a present reality and deserves prayerful attention from the church.",
+      "url": "https://persecution.org/2026/04/08/adf-kills-43-christians-on-maundy-thursday/"
     }
   ],
   "leadership": {
-    "title": "Measuring presence instead of impact breaks leadership pipelines - HR Magazine",
-    "summary": "This piece argues that healthy leadership cultures should reward outcomes, trust, and sustainability rather than mere visibility or long hours.",
-    "whyItMatters": "It is a useful reminder for church leadership teams to build sustainable ministry expectations and avoid equating exhaustion with faithfulness.",
-    "url": "https://www.hrmagazine.co.uk/content/comment/measuring-presence-instead-of-impact-breaks-leadership-pipelines"
+    "title": "Why Today’s Best Leaders Ask, \"What Do You Need Right Now?\" - Forbes",
+    "summary": "A Forbes piece argues that attuned leadership begins with asking people what they need and then responding with consistent follow-through that builds trust and psychological safety.",
+    "whyItMatters": "For a pastor, this is a practical leadership cue for staff care, volunteer health, and shepherding people with presence rather than assumption.",
+    "url": "https://www.forbes.com/sites/rodgerdeanduncan/2026/05/19/why-todays-best-leaders-ask-what-do-you-need-right-now/"
   },
   "goodNews": {
-    "title": "Community fundraises $57K to enable a Howard University senior to graduate on time - NBC News",
-    "summary": "A community rallied to raise $57,000 so a Howard University senior could clear financial barriers and graduate on time.",
-    "whyItMatters": "It is a hopeful picture of practical generosity and shared burden-bearing that pastors can celebrate and emulate.",
-    "url": "https://www.nbcnews.com/video/community-fundraises-57k-to-enable-a-howard-university-senior-to-graduate-on-time-263432261841?playlist=mmlsnnd_bestofnbc-nnd"
+    "title": "Homeless Seattle man gets new lease on life after dumpster dive discovery - New York Post",
+    "summary": "After helping recover something meaningful for a grieving family, a Seattle man who had lived on the streets for seven years has now moved into his first apartment.",
+    "whyItMatters": "This is a hopeful picture of dignity, kindness, and how one act of compassion can open the door to restoration.",
+    "url": "https://nypost.com/2026/05/16/us-news/homeless-seattle-man-finds-new-start-in-life-after-dumpster-dive/"
   }
 }
