@@ -1,65 +1,78 @@
 {
-  "date": "2026-06-02",
-  "updatedAt": "2026-06-02T14:35:52.727Z",
+  "date": "2026-06-04",
+  "updatedAt": "2026-06-04T13:38:48.788Z",
   "global": [
     {
-      "title": "May rewired global energy markets - Oil & Gas 360",
-      "summary": "A month of instability around the Strait of Hormuz reshaped oil and LNG flows, tightened inventories, and pushed countries to rethink energy security. The report says markets are now treating geopolitical disruption as structural rather than temporary.",
-      "whyItMatters": "Energy volatility affects household stress, inflation, and public anxiety—important context for pastoral care and preaching about fear, provision, and peace.",
-      "url": "https://www.oilandgas360.com/may-rewired-global-energy-markets/"
+      "title": "New attacks by Iran and U.S. strain an already shaky ceasefire - NBC News",
+      "summary": "Fresh strikes by Iran and the U.S. are testing a fragile ceasefire, raising fears of wider conflict in the Middle East.",
+      "whyItMatters": "This shapes prayer, preaching, and pastoral care around anxiety, peace, and the human cost of war.",
+      "url": "https://www.nbcnews.com/nightly-news/video/new-attacks-by-iran-and-u-s-strain-an-already-shaky-ceasefire-264470085698"
     },
     {
-      "title": "Protests erupt over planned U.S. Ebola facility in Kenya - NBC News",
-      "summary": "Protests in Kenya have broken out over a planned U.S. Ebola facility, highlighting how public health efforts can quickly become flashpoints of distrust and fear.",
-      "whyItMatters": "Pastors often minister where fear, rumor, and mistrust spread quickly; this story is a reminder that truth-telling and community trust are vital in crisis.",
-      "url": "https://www.nbcnews.com/video/shorts/protests-erupt-over-planned-u-s-ebola-facility-in-kenya-264336453628"
+      "title": "New video shows apparent Ukrainian attacks on Russian targets in St. Petersburg - NBC News",
+      "summary": "New footage appears to show Ukrainian strikes reaching targets in St. Petersburg during a major Russian economic forum.",
+      "whyItMatters": "It signals another escalation in the war and offers context for praying for civilians, leaders, and a just peace.",
+      "url": "https://www.nbcnews.com/nightly-news/video/new-video-shows-apparent-ukrainian-attacks-on-russian-targets-in-st-petersburg-264469573625"
     },
     {
-      "title": "Breakthrough pancreatic cancer treatment could double survival time - NBC News",
-      "summary": "A new study reports that the drug daraxonrasib could potentially double survival rates for more than 90 percent of pancreatic cancer patients, with researchers also exploring use in other cancers.",
-      "whyItMatters": "This offers a hopeful development for congregants facing cancer and gives pastors a tangible story of perseverance, medical progress, and prayerful hope.",
-      "url": "https://www.nbcnews.com/nightly-news/video/breakthrough-pancreatic-cancer-treatment-could-double-survival-time-264246853781"
+      "title": "Several Asian economies have AI export boom to offset the hit from energy crisis: Economist - CNBC",
+      "summary": "An economist told CNBC that several Asian economies are seeing AI-driven export growth that is helping cushion energy-related economic strain.",
+      "whyItMatters": "Economic shifts affect families, jobs, and long-term ministry realities; it is useful background for wise, grounded leadership.",
+      "url": "https://www.cnbc.com/video/2026/06/04/several-asian-economies-have-ai-export-boom-to-offset-energy-crisis.html"
     }
   ],
   "canadian": [
     {
-      "title": "Canada Is Failing the Jewish Community and Jews Are Being Targeted, Carney Says - Haaretz",
-      "summary": "Prime Minister Mark Carney said Canada is failing Jewish Canadians as antisemitic targeting grows, and announced a new Ministerial Advisory Council on Rights, Equality and Inclusion to examine antisemitism’s drivers and scale.",
-      "whyItMatters": "This is a significant pastoral issue around public safety, social cohesion, and how churches respond to rising hate with clarity, solidarity, and prayer.",
-      "url": "https://www.haaretz.com/jewish/2026-06-02/ty-article/canada-is-failing-the-jewish-community-and-jews-are-being-targeted-carney-says/0000019e-862a-db6c-adff-befe54a10000"
+      "title": "Canadian government tells regulator to back off on charging streamers like Netflix more - AP News",
+      "summary": "Ottawa has told the regulator to reverse course on sharply higher payments from foreign streaming services and says it will invest public money in the sector instead.",
+      "whyItMatters": "It touches culture, public policy, and the stories shaping Canadian identity—important terrain for pastors engaging their communities thoughtfully.",
+      "url": "https://apnews.com/article/canada-streamers-netflix-canadian-content-5d364ef91fadf55dd29dad87a133f5bf"
     },
     {
-      "title": "Canada’s Maple revolutionaries in pensions feel the strain - Financial Times",
-      "summary": "Canada’s influential pension sector is reportedly under pressure, signaling strain in a part of the economy often seen as stable and globally respected.",
-      "whyItMatters": "Economic strain eventually reaches families, retirees, and giving patterns; pastors benefit from early awareness of financial pressures shaping congregational life.",
-      "url": "https://www.ft.com/content/18db06c3-c6b4-4033-ae20-e5a5daedcd05"
+      "title": "Girl, 3, Dies After Wind Lifts Bouncy Castle - Newser",
+      "summary": "A three-year-old girl died after strong winds lifted a bouncy castle at a church-hosted event in Montreal; several others were hospitalized and an investigation is underway.",
+      "whyItMatters": "A tragedy tied to a church event invites prayer, compassion, and reflection on safety, grief care, and ministry responsibility.",
+      "url": "https://www.newser.com/story/390303/girl-3-dies-after-wind-lifts-bouncy-castle.html"
+    },
+    {
+      "title": "B.C. securities regulator fines mining company over ‘false or misleading’ report - CTV News",
+      "summary": "B.C.'s securities regulator has fined a mining company over what it called a false or misleading report.",
+      "whyItMatters": "For a pastor in B.C., this is a reminder that truthfulness and public trust matter deeply in business, leadership, and witness.",
+      "url": "https://www.ctvnews.ca/vancouver/article/bc-securities-regulator-fines-mining-company-over-false-or-misleading-report/"
     }
   ],
-  "local": [],
+  "local": [
+    {
+      "title": "B.C. securities regulator fines mining company over ‘false or misleading’ report - CTV News",
+      "summary": "The B.C. securities regulator has penalized a mining company over a report it says misled the public.",
+      "whyItMatters": "This is directly relevant in British Columbia and reinforces the pastoral importance of integrity, accountability, and public trust.",
+      "url": "https://www.ctvnews.ca/vancouver/article/bc-securities-regulator-fines-mining-company-over-false-or-misleading-report/"
+    }
+  ],
   "persecutedChurch": [
     {
-      "title": "IDF releases footage of Hezbollah attacks on church in Christian village of Marj Ayoun in Lebanon - ynetnews",
-      "summary": "Footage released by the IDF shows Hezbollah attacks striking St. George's Church and nearby buildings in the Christian village of Marj Ayoun in southern Lebanon.",
-      "whyItMatters": "This is a direct reminder that Christian communities in conflict zones remain vulnerable and need informed prayer, advocacy, and compassionate attention.",
-      "url": "https://www.ynetnews.com/article/ptvya0wcd"
+      "title": "Nigeria sentences four to death over Owo Catholic church attack which killed 41 - BBC",
+      "summary": "A Nigerian court sentenced four men to death for the 2022 Pentecost attack on St. Francis Catholic Church in Owo that killed 41 worshippers.",
+      "whyItMatters": "This is a sobering reminder to pray for vulnerable believers and for justice, healing, and endurance in traumatized churches.",
+      "url": "https://www.bbc.com/news/articles/cj0p57q1m36o"
     },
     {
-      "title": "Winterthur - The Times of Israel",
-      "summary": "Authorities in Switzerland arrested a suspect after a stabbing attack near a train station in Winterthur that reportedly left three wounded, with investigators examining the motive.",
-      "whyItMatters": "Though details are still developing, violence with possible religious overtones is worth watching as pastors pray for peace and remain alert to rising hostility in public life.",
-      "url": "https://www.timesofisrael.com/topic/winterthur/"
+      "title": "Daily Briefing June 4 – Haredi-wrought ‘Kristallnacht’ smashes red lines at justice’s home - The Times of Israel",
+      "summary": "Violent rioters damaged the home of Israel’s deputy Supreme Court chief in a dramatic escalation of unrest over draft enforcement.",
+      "whyItMatters": "Though not classic persecution, it highlights how religious extremism can distort faith and destabilize public witness and peace.",
+      "url": "https://www.timesofisrael.com/daily-briefing-june-4-haredi-wrought-kristallnacht-smashes-red-lines-at-justices-home/"
     }
   ],
   "leadership": {
-    "title": "Leading Across Generations: Why Yesterday’s Leadership Alone No Longer Works - By Matthew Mascali - Hotel News Resource",
-    "summary": "This piece argues that strong leadership today requires both accountability and emotional intelligence. The best leaders still set standards, but also coach, listen, and adapt across generations.",
-    "whyItMatters": "Helpful for church staff and volunteer leadership: ministry leaders need to hold conviction and compassion together rather than choosing one over the other.",
-    "url": "https://www.hotelnewsresource.com/article141427.html"
+    "title": "Why Calm, Not Charisma, Builds Teams That Perform Under Pressure - Forbes",
+    "summary": "This piece argues that calm, transparent leadership builds trust, helps teams face bad news honestly, and shares authority in ways that strengthen people.",
+    "whyItMatters": "Pastoral leadership often happens under pressure; this is a timely reminder that steadiness and trust can serve a church better than force of personality.",
+    "url": "https://www.forbes.com/sites/rodgerdeanduncan/2026/06/04/calm-leadership-high-performing-teams-under-pressure/"
   },
   "goodNews": {
-    "title": "Dallas nonprofit plans tiny home village for veterans experiencing homelessness - NBC News",
-    "summary": "A Dallas nonprofit is planning a tiny home village to serve veterans experiencing homelessness, offering a practical and dignifying response to a deep need.",
-    "whyItMatters": "This is a strong example of community compassion in action and could inspire local ministry imagination around housing, dignity, and service.",
-    "url": "https://www.nbcnews.com/video/dallas-nonprofit-plans-tiny-home-village-for-veterans-experiencing-homelessness-264331845539?playlist=mmlsnnd_bestofnbc-nnd"
+    "title": "Graduating seniors speak about the ways they want to help the D.C. community - NBC News",
+    "summary": "Graduating seniors shared hopeful plans to serve and strengthen their community as they step into the next season of life.",
+    "whyItMatters": "It is an encouraging picture of young adults oriented toward service—helpful for preaching hope and investing in the next generation.",
+    "url": "https://www.nbcnews.com/video/graduating-seniors-speak-about-ways-they-want-to-help-the-d-c-community-264361029793"
   }
 }
