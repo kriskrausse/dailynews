@@ -1,65 +1,78 @@
 {
-  "date": "2026-06-20",
-  "updatedAt": "2026-06-20T12:14:14.481Z",
+  "date": "2026-06-21",
+  "updatedAt": "2026-06-21T12:24:26.680Z",
   "global": [
     {
-      "title": "White House defends Iran deal amid criticism - NBC News",
-      "summary": "The White House is publicly defending its preliminary agreement with Iran as criticism grows from some of President Trump’s allies. The deal appears to be moving from announcement to political testing.",
-      "whyItMatters": "This is a major peace-and-stability story with implications for prayer, preaching on peacemaking, and how congregations process fragile global hope.",
-      "url": "https://www.nbcnews.com/nightly-news/video/white-house-defends-iran-deal-amid-criticism-265345605719"
+      "title": "Iran has closed Strait of Hormuz, state media reports - NBC News",
+      "summary": "Iran’s state media says the Strait of Hormuz has been closed, a sharp escalation after recent talk of a peace deal and renewed uncertainty in the region.",
+      "whyItMatters": "This affects global stability, fuel prices, and prayerful attention to a volatile conflict that shapes many lives.",
+      "url": "https://www.nbcnews.com/video/shorts/iran-has-closed-strait-of-hormuz-state-media-reports-265417797982"
     },
     {
-      "title": "The Bulletin: June 18’s News in 60 seconds - Newsweek",
-      "summary": "Newsweek reports a draft U.S.-Iran agreement to halt the war and restart nuclear talks, alongside one of Ukraine’s largest drone attacks on Moscow since the war began.",
-      "whyItMatters": "Kris may want to watch how quickly hopes for peace can coexist with ongoing violence elsewhere, a useful frame for pastoral prayer and public theology.",
-      "url": "https://www.newsweek.com/videos/the-bulletin-june-18s-news-in-60-seconds"
+      "title": "Iran Delays Nuclear Talks With US as Lebanon Clashes Worsen - Yahoo Finance",
+      "summary": "Planned U.S.-Iran nuclear talks have been delayed while fighting in Lebanon intensifies, suggesting the diplomatic opening remains fragile.",
+      "whyItMatters": "It is a reminder to lead congregations in prayer for peacemaking, restraint, and civilians caught between regional powers.",
+      "url": "https://finance.yahoo.com/energy/articles/us-iran-delay-start-nuclear-062123489.html"
     },
     {
-      "title": "Shark circles surfer off California coast - NBC News",
-      "summary": "Drone footage captured a shark circling a surfer off Northern California before swimming away. No injury was reported, but the moment highlights the unpredictability of the natural world.",
-      "whyItMatters": "A lighter but vivid reminder of human vulnerability and wonder can serve as a gentle illustration in preaching or conversation.",
-      "url": "https://www.nbcnews.com/nightly-news/video/shark-circles-surfer-off-california-coast-265368133916"
+      "title": "Congo says 933 Ebola cases confirmed, including 245 deaths - TradingView",
+      "summary": "Congo reports 933 confirmed Ebola cases and 245 deaths, underscoring a serious public health emergency with growing human cost.",
+      "whyItMatters": "Pastors may want to pray for suffering communities, health workers, and wise global compassion in the face of disease and fear.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N42R0XF:0-congo-says-933-ebola-cases-confirmed-including-245-deaths/"
     }
   ],
   "canadian": [
     {
-      "title": "Why you should wash that new outfit before you wear it: Consumer Reports - CTV News",
-      "summary": "CTV highlights practical consumer-health advice about washing new clothing before wearing it, surfacing an everyday wellness issue that many families may overlook.",
-      "whyItMatters": "Pastors often serve households, not just individuals; simple, trustworthy guidance can help connect faith, care, and daily life.",
-      "url": "https://www.ctvnews.ca/toronto/article/why-you-should-wash-that-new-outfit-before-you-wear-it-consumer-reports/"
+      "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again - CTV News",
+      "summary": "CTV reports the U.S. and Iran are set to talk Sunday in Switzerland even as Tehran says it has again closed the Strait of Hormuz.",
+      "whyItMatters": "Canadian pastors should watch this because it may affect economic anxiety, public conversation, and how people process world instability.",
+      "url": "https://www.ctvnews.ca/world/mideast-conflict/article/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/"
     },
     {
-      "title": "The Week in Canadian Press Releases: 10 Stories You Need to See - Mining.com",
-      "summary": "Among the featured items is a fresh look at the gap between enthusiasm for small modular reactors and the slower reality of adoption in mining and energy planning.",
-      "whyItMatters": "In Canada, energy, resource development, and economic expectations shape public conversation; this helps frame wise engagement with stewardship and work.",
-      "url": "https://www.mining.com/press-release?id=6a35183354606ffc2192632a"
+      "title": "MDA Space buying U.S. company Blue Canyon Technologies - Castanet",
+      "summary": "Canadian company MDA Space is buying Blue Canyon Technologies in a deal valued at $874 million, expanding its role in spacecraft and satellite manufacturing.",
+      "whyItMatters": "It is a constructive Canadian business story that speaks to innovation, vocation, and the stewardship of national talent and industry.",
+      "url": "https://www.castanet.net/news/Business/620693/MDA-Space-buying-U-S-company-Blue-Canyon-Technologies"
+    },
+    {
+      "title": "Blue Jays erase 5-run deficit in 8-6 win - ESPN",
+      "summary": "Toronto rallied from five runs down to beat its opponent 8-6 in a comeback win.",
+      "whyItMatters": "A light national story can offer a simple illustration of perseverance, hope, and not giving up when behind.",
+      "url": "https://www.espn.com/video/clip/_/id/49129356/blue-jays-erase-5-run-deficit-8-6-win"
     }
   ],
-  "local": [],
+  "local": [
+    {
+      "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again - CTV News",
+      "summary": "Among the regional items attached to this CTV page are Kelowna drug-trafficking arrests, a Nanaimo stolen credit card investigation, and a Royal Roads National Indigenous Peoples Day gathering.",
+      "whyItMatters": "These B.C. angles touch public safety, reconciliation, and community life close to home for a pastor serving in British Columbia.",
+      "url": "https://www.ctvnews.ca/world/mideast-conflict/article/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/"
+    }
+  ],
   "persecutedChurch": [
     {
       "title": "China detains two leaders of influential underground church - BBC",
-      "summary": "BBC reports that two leaders of an influential underground church remain detained after a raid in which more than 30 members and leaders were taken away and questioned. Congregants reportedly sang hymns and prayed during the crackdown.",
-      "whyItMatters": "This is a direct call to pray for imprisoned believers, courage under pressure, and the global church’s solidarity with those facing state hostility.",
+      "summary": "Chinese authorities detained two leaders of a major underground church after a raid in which dozens were taken for questioning and congregants reportedly kept singing and praying.",
+      "whyItMatters": "This is a direct call to pray for courage, endurance, and protection for believers facing state pressure.",
       "url": "https://www.bbc.com/news/articles/ce9582vlm83o"
     },
     {
-      "title": "Map Shows Countries With Most Limits on Religion - Newsweek",
-      "summary": "Using Pew data, Newsweek highlights countries with the strongest government restrictions on religion, naming China, Afghanistan, and Iran among the most severe contexts.",
-      "whyItMatters": "This gives broader context for intercession, missions awareness, and teaching on religious freedom beyond one headline event.",
-      "url": "https://www.newsweek.com/map-shows-countries-with-most-limits-on-religion-12080891"
+      "title": "Chinese police swarm church, detain dozens in Sunday morning raid - Newsweek",
+      "summary": "Newsweek reports another major crackdown on an unregistered Chinese church, with officials defending the action as normal religious regulation.",
+      "whyItMatters": "It helps frame the broader pattern of tightening control over Christian worship and can guide informed intercession.",
+      "url": "https://www.newsweek.com/china-arrests-christian-leaders-in-underground-church-raid-12073477"
     }
   ],
   "leadership": {
-    "title": "Every Organization Should Consider Becoming A Learning System - Forbes",
-    "summary": "Forbes argues that in an era of AI and continual disruption, healthy organizations must become learning systems that build trust, engage employees, and adapt together rather than relying on command-and-control leadership.",
-    "whyItMatters": "Church leadership also faces constant change; this is a useful prompt to build a culture of learning, trust, and shared discernment.",
-    "url": "https://www.forbes.com/sites/michaeledmondson/2026/06/18/every-organization-should-consider-becoming-a-learning-system/"
+    "title": "Continuous Disruption Is Reshaping Workforce Psychology - Forbes",
+    "summary": "Forbes argues that in an age of ongoing disruption, leaders must build trust, reduce anxiety, and strengthen people’s capacity to navigate change.",
+    "whyItMatters": "Useful for pastoral leadership: people in the church are carrying exhaustion and uncertainty, and steady presence matters.",
+    "url": "https://www.forbes.com/sites/michaeledmondson/2026/06/16/continuous-disruption-is-reshaping-workforce-psychology/"
   },
   "goodNews": {
-    "title": "Stunning Video of the Southern Lights Dancing Across the Earth Captured by a NASA Astronaut–WATCH - Good News Network",
-    "summary": "NASA astronaut Jessica Meir shared striking footage of the southern aurora from space, describing the display as something that inspired awe amid a demanding mission.",
-    "whyItMatters": "This is a beautiful, creation-centered story that can refresh the spirit and point a congregation toward wonder, gratitude, and worship.",
-    "url": "https://www.goodnewsnetwork.org/stunning-video-of-the-southern-lights-dancing-across-the-earth-captured-by-a-nasa-astronaut-watch/"
+    "title": "Yanks take on a different kind of yard work in HOPE Week outing - MLB.com",
+    "summary": "The Yankees joined a nonprofit that provides free lawn care for older adults, veterans, and neighbors in hardship, then gave the ministry a $20,000 gift.",
+    "whyItMatters": "It is a tangible picture of loving your neighbor through practical service, with easy application for local church ministry.",
+    "url": "https://www.mlb.com/news/yankees-volunteer-with-i-want-to-mow-your-lawn-during-hope-week"
   }
 }
