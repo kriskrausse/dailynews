@@ -1,72 +1,84 @@
 {
-  "date": "2026-06-23",
-  "updatedAt": "2026-06-23T13:20:43.170Z",
+  "date": "2026-06-24",
+  "updatedAt": "2026-06-24T12:33:04.578Z",
   "global": [
     {
-      "title": "U.S.-Iran talks show encouraging progress as oil prices ease",
-      "summary": "Markets are watching a second day of U.S.-Iran talks in Switzerland, where mediators say there has been encouraging progress. Oil has fallen as signs point to some resumed flow through the Strait of Hormuz, though tensions in Lebanon and questions around Iran’s nuclear program remain unresolved.",
-      "whyItMatters": "This affects global stability, economic anxiety, and prayer needs around peace, peacemaking, and the cost of living for families.",
-      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-june-22-2026-12003658"
+      "title": "Alan Greenspan dies at 100 as markets reassess the economic moment",
+      "summary": "Former U.S. Federal Reserve chair Alan Greenspan has died at 100, with the news landing as investors weigh higher-rate expectations and renewed market volatility.",
+      "whyItMatters": "A major public figure’s death invites reflection on stewardship, economic influence, and the anxieties many families feel around money.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-mixed-112800825.html"
     },
     {
-      "title": "Global markets wobble as tech sell-off deepens and rate fears rise",
-      "summary": "Reuters reports a broad tech-led market pullback, with SpaceX shares falling sharply and Nasdaq futures dropping as investors price in a more hawkish U.S. rate outlook. Oil’s retreat has offered some relief, but uncertainty remains high across currencies, equities, and global growth expectations.",
-      "whyItMatters": "Financial unease shapes household stress, generosity, and pastoral care conversations about fear, security, and stewardship.",
+      "title": "More than 11,000 seafarers begin exiting the Persian Gulf under backed transit plan",
+      "summary": "The International Maritime Organization says stranded seafarers will begin leaving through the Strait of Hormuz under a plan supported by both the U.S. and Iran, a sign of practical de-escalation in the region.",
+      "whyItMatters": "This is a concrete answer to prayer for peace and protection of vulnerable workers caught in geopolitical tension.",
+      "url": "https://www.cnbc.com/amp/2026/06/24/-cnbc-daily-open-tech-rout-msci-moves-on-indonesia-and-south-korea-in-focus-.html"
+    },
+    {
+      "title": "UK markets steady after Keir Starmer resignation shifts political focus",
+      "summary": "Reuters reports British markets remained relatively calm after Prime Minister Keir Starmer’s resignation, with attention now turning to succession and fiscal leadership.",
+      "whyItMatters": "Leadership transitions in major allies affect public confidence and offer a timely lens on character, stability, and service under pressure.",
       "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-06-23/"
-    },
-    {
-      "title": "Trump signs new orders to accelerate quantum computing push",
-      "summary": "New U.S. executive orders aim to help deliver a commercially relevant quantum computer by 2028, sparking a rally in quantum-related stocks. The move signals continued government backing for frontier technologies even as broader tech markets remain unsettled.",
-      "whyItMatters": "It offers a fresh angle for thinking about technology, vocation, and how rapid innovation may reshape work, ethics, and discipleship.",
-      "url": "https://finance.yahoo.com/technology/articles/quantum-computing-stocks-rally-trump-113149388.html"
     }
   ],
   "canadian": [
     {
-      "title": "Deadly shooting spree in Montreal draws national attention",
-      "summary": "NBC’s nightly roundup reports a deadly shooting spree in Montreal, with at least two people killed. The story stands out as a significant public-safety development in Canada’s largest French-speaking city.",
-      "whyItMatters": "Violence in a major Canadian city invites prayer for grieving families, wisdom for leaders, and reflection on fear, peace, and community healing.",
-      "url": "https://www.nbcnews.com/nightly-news-netcast/video/nbc-nightly-news-full-episode-june-22-265513029981"
+      "title": "Regina mosque faces threats after launching weekly amplified call to prayer",
+      "summary": "Google News highlights threats against a Regina mosque and increased police patrols around Muslim gathering places following the launch of a weekly amplified call to prayer.",
+      "whyItMatters": "Pastors should notice rising religious hostility in Canada and be ready to speak clearly for neighbor-love and religious freedom for all.",
+      "url": "https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA%3Aen"
     },
     {
-      "title": "Historic U.S.-Canada border library gets new Quebec-only entrance",
-      "summary": "The BBC highlights a new entrance arrangement for the famous border-straddling library after Canadians were barred from using the U.S.-side door. The change reflects how border policy is reshaping a long-standing symbol of shared community.",
-      "whyItMatters": "It is a vivid story about borders, belonging, and neighbourliness that could resonate in preaching and pastoral conversation.",
-      "url": "https://www.bbc.com/news/videos/c5yz2dmjdxyo"
+      "title": "New N.W.T. highway expected to become Carney government’s first national-interest project",
+      "summary": "Google News reports a new Northwest Territories highway is expected to be the federal government’s first designated national-interest project.",
+      "whyItMatters": "Infrastructure decisions shape regional access, Indigenous relationships, and the economic pressures facing northern communities.",
+      "url": "https://news.google.com/home?hl=en-CA&gl=CA&ceid=CA%3Aen"
     }
   ],
   "local": [
     {
-      "title": "Fertilizer company takes over former Growers Supply site in Oliver",
-      "summary": "Castanet reports that a fertilizer company is taking over the former Growers Supply location in Oliver. The development points to ongoing change in the South Okanagan’s agricultural and business landscape.",
-      "whyItMatters": "Agriculture and local employment matter deeply in the region, making this relevant for community awareness and prayer for workers and families.",
-      "url": "https://www.castanet.net/news/Oliver-Osoyoos/621044/Fertilizer-company-takes-over-former-Growers-Supply-location-in-Oliver"
+      "title": "Man charged with manslaughter after Abbotsford homeless encampment shooting",
+      "summary": "CBC’s B.C. roundup reports a manslaughter charge has been laid in connection with a shooting at a homeless encampment in Abbotsford.",
+      "whyItMatters": "This touches local vulnerability, public safety, and the church’s calling to care for people living on the margins.",
+      "url": "https://www.cbc.ca/news/canada/british-columbia"
+    },
+    {
+      "title": "Canucks bringing development camp to Abbotsford",
+      "summary": "The Chilliwack Progress reports the Vancouver Canucks are bringing a development camp to Abbotsford, creating a notable community sports moment in the Fraser Valley.",
+      "whyItMatters": "Shared local events can become bridges for community connection, outreach, and conversations with families.",
+      "url": "https://theprogress.com"
+    },
+    {
+      "title": "Pilot program in Abbotsford, Chilliwack, and Mission exceeds original target",
+      "summary": "Fraser Valley Current reports a pilot program serving Abbotsford, Chilliwack, and Mission has already surpassed its initial goal.",
+      "whyItMatters": "It is worth watching signs of local momentum and practical problem-solving that may open doors for partnership and encouragement.",
+      "url": "https://fvcurrent.com"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Turkey reopens talks on long-closed Orthodox seminary",
-      "summary": "Reuters reports that President Erdogan has ordered officials to resume talks on reopening the Halki seminary near Istanbul, closed since 1971. Church leaders say the issue has entered a new phase after years of pressure and stalled efforts.",
-      "whyItMatters": "This is a meaningful religious-freedom development and a reminder to pray for Christian minorities seeking space to train leaders and worship openly.",
-      "url": "https://www.reuters.com/world/middle-east/erdogan-orders-talks-reopen-orthodox-christian-seminary-turkey-focus-trump-2026-06-21/"
+      "title": "Jerusalem’s Latin and Greek patriarchs visit Gaza and vow not to abandon its Christians",
+      "summary": "The Times of Israel reports that Jerusalem’s Latin and Greek patriarchs visited Gaza and publicly pledged continued presence and support for the Christian community there.",
+      "whyItMatters": "This is a meaningful sign of pastoral solidarity with a fragile church under extreme pressure and a prompt for prayerful remembrance.",
+      "url": "https://www.timesofisrael.com/liveblog_entry/smotrich-claims-yair-golan-would-reverse-all-his-moves-to-advance-settlements-golan-pans-lebanon-security-zone/"
     },
     {
-      "title": "New map highlights countries with the heaviest restrictions on religion",
-      "summary": "A Newsweek report drawing on Pew data highlights severe government restrictions on religion in places such as China, Afghanistan, and Iran. The piece points to surveillance, repression, arrests, and pressure on minorities and converts.",
-      "whyItMatters": "It helps keep global religious persecution visible before the church and can guide informed intercession and missions awareness.",
-      "url": "https://www.newsweek.com/map-shows-countries-with-most-limits-on-religion-12080891"
+      "title": "Germany records highest-ever number of antisemitic incidents in 2025",
+      "summary": "The New York Post, citing a German monitoring report, says antisemitic incidents reached a record 8,725 in 2025, including assaults, threats, and extreme violence.",
+      "whyItMatters": "Hatred toward religious minorities is intensifying in the West, and pastors should be alert to how fear and scapegoating spread through societies.",
+      "url": "https://nypost.com/2026/06/17/world-news/germany-records-highest-ever-number-of-antisemitic-incidents/"
     }
   ],
   "leadership": {
-    "title": "Trust and connection remain central to healthy workplace culture",
-    "summary": "An opinion piece in The Leaf Chronicle argues that amid economic uncertainty and technological change, healthy workplaces are built on trust, respect, connection, and purpose. It emphasizes that people do their best work when they feel seen, heard, and valued.",
-    "whyItMatters": "This translates well to church staff and volunteer culture, reminding pastors that durable leadership is relational before it is procedural.",
-    "url": "https://www.theleafchronicle.com/story/opinion/contributors/2026/06/20/healthy-workplace-culture-key-business-success/90626280007/"
+    "title": "Fitness and durability are becoming part of the leadership conversation",
+    "summary": "Forbes argues that modern leadership is shifting away from glorifying exhaustion and toward habits of sleep, exercise, nutrition, and resilience that sustain long-term service.",
+    "whyItMatters": "For a pastor, this is a useful reminder that faithful leadership requires stewardship of body, mind, and endurance.",
+    "url": "https://www.forbes.com/sites/julianhayesii/2026/06/21/why-fitness-is-becoming-a-status-symbol-in-modern-leadership/"
   },
   "goodNews": {
-    "title": "Teen once given months to live graduates cancer-free after doctor kept her promise",
-    "summary": "Good News Network tells the story of a teen who was once given just eight months to live but is now cancer-free four years later. A doctor’s steady presence and promise to attend his graduation became part of the hope that helped him keep fighting.",
-    "whyItMatters": "It is a strong picture of faithful presence, encouragement, and how hope-filled relationships can become part of God’s healing work.",
-    "url": "https://www.goodnewsnetwork.org/given-just-8-months-to-live-teen-is-cancer-free-4-years-on-thanks-to-doctors-promise/"
+    "title": "Story hour helps war-affected children simply be children again",
+    "summary": "Ynetnews tells how a Miami speech therapist created a free Hebrew-English Zoom storytime after Oct. 7, giving children in Israel routine, comfort, and connection across borders.",
+    "whyItMatters": "This is a hopeful picture of small, faithful care meeting deep need—an encouraging model for ministry in anxious times.",
+    "url": "https://www.ynetnews.com/jewish-world/article/hyerkmrgme"
   }
 }
