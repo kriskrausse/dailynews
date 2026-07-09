@@ -1,65 +1,78 @@
 {
-  "date": "2026-07-08",
-  "updatedAt": "2026-07-08T12:03:42.224Z",
+  "date": "2026-07-09",
+  "updatedAt": "2026-07-09T13:27:37.410Z",
   "global": [
     {
-      "title": "Trump threatens Iran strikes, says too soon for new direct talks after reporting \"great progress\"",
-      "summary": "U.S.-Iran tensions remain volatile as President Trump spoke of progress toward a deal while also threatening further strikes if Iran refuses terms.",
-      "whyItMatters": "This shapes prayer, preaching, and pastoral care around fear, peace, and the human cost of conflict.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-progress-peace-deal-strait-of-hormuz/"
+      "title": "CNBC Daily Open: Strait of Hormuz, Ukraine's attacks in Russia, Greenland - CNBC",
+      "summary": "Fresh attacks on tankers near the Strait of Hormuz prompted U.S. retaliation against Iran, raising fears of wider conflict and disruption to global energy shipping. The same roundup notes Ukraine has intensified strikes on Russian oil facilities.",
+      "whyItMatters": "This shapes prayer, preaching, and pastoral care as people process fear, instability, and the human cost of war.",
+      "url": "https://www.cnbc.com/2026/07/08/cnbc-daily-open-strait-of-hormuz-ukraine-moves-in-russia-greenland.html"
     },
     {
-      "title": "Oil expert warns of ‘nightmare scenario’ Iran war could spark",
-      "summary": "A PBS analysis warns that conflict involving Iran could disrupt energy markets and drive wider economic pain for ordinary households.",
-      "whyItMatters": "Rising fuel and living costs affect families in every congregation and create openings for compassionate, grounded ministry.",
-      "url": "https://www.pbs.org/newshour/show/oil-expert-warns-of-nightmare-scenario-iran-war-could-spark"
+      "title": "Video Nurses go on strike in Boston - ABC News - Breaking News, Latest News and Videos",
+      "summary": "ABC’s latest video roundup highlights escalating U.S.-Iran exchanges, wildfires forcing evacuations in southern Europe, and a major nurses’ strike in Boston. The mix points to strain across health systems, communities, and international stability.",
+      "whyItMatters": "Pastors often minister where public anxiety, worker fatigue, and disaster response meet; this helps frame intercession and compassionate leadership.",
+      "url": "https://abcnews.com/video/134577713/"
     },
     {
-      "title": "Cuba plunged into darkness as power grid collapses for third time this year - NBC News",
-      "summary": "Cuba’s electrical grid has failed again, leaving the island without power for the third time this year and deepening an already severe humanitarian strain.",
-      "whyItMatters": "It is a reminder to pray for vulnerable populations and to keep global suffering visible before the church.",
-      "url": "https://www.nbcnews.com/now/video/cuba-s-electrical-grid-leaves-the-island-without-power-for-the-third-time-this-year-266321989602"
+      "title": "Crypto Weekly: Farage steps down, TeraWulf signs Anthropic deal - Reuters",
+      "summary": "Reuters reports Chinese authorities are considering restrictions on overseas access to their most advanced AI models. The move signals a new phase in the global contest over technology, control, and information flows.",
+      "whyItMatters": "AI policy is increasingly a discipleship and leadership issue, affecting truth, access, ethics, and how people imagine the future.",
+      "url": "https://www.reuters.com/video/watch/idRW646309072026RP1/"
     }
   ],
   "canadian": [
     {
-      "title": "Toronto stocks inch up as oil climbs; investors await Fed minutes - KITCO",
-      "summary": "Canada’s main stock index rose modestly as oil prices climbed on renewed fears around shipping near the Strait of Hormuz, with attention also on central bank signals.",
-      "whyItMatters": "Energy volatility can quickly affect household budgets, church benevolence needs, and the economic mood of congregations.",
-      "url": "https://www.kitco.com/news/off-the-wire/2026-07-07/toronto-stocks-inch-oil-climbs-investors-await-fed-minutes"
+      "title": "Canada - 8Th July - Marine News Magazine",
+      "summary": "A Reuters-sourced Canadian roundup says Ottawa may invest up to C$400 million in Teck Resources’ Trail Operations in British Columbia to expand strategic metals production. It also notes a telecom regulator probe into new customer charges from major carriers.",
+      "whyItMatters": "This touches both B.C.’s economy and household pressures, giving useful context for local pastoral awareness and prayer for wise public stewardship.",
+      "url": "https://www.marinelink.com/blogs/blog/canada--8th-july-105034"
     },
     {
-      "title": "Artemis II astronaut Jeremy Hansen is stepping down - NBC News",
-      "summary": "Canadian astronaut Jeremy Hansen is reportedly stepping down from the Artemis II mission, marking a notable change in a high-profile Canadian space role.",
-      "whyItMatters": "This is a significant Canadian public story about leadership transition, disappointment, and resilience under public expectations.",
-      "url": "https://www.nbcnews.com/video/shorts/artemis-ii-astronaut-jeremy-hansen-is-stepping-down-266356293535"
+      "title": "A new report is warning of heavy levels of arsenic in some rice products - CTV News",
+      "summary": "CTV’s consumer report warns that some rice products may contain heavy levels of arsenic. The broader page also reflects a stream of Canadian concerns around health, affordability, and public trust.",
+      "whyItMatters": "Food safety and family well-being are everyday pastoral concerns, especially for households already carrying financial and health stress.",
+      "url": "https://www.ctvnews.ca/toronto/consumer-alert/article/a-new-report-is-warning-of-heavy-levels-of-arsenic-in-some-rice-products/"
+    },
+    {
+      "title": "NATO showcases huge arms deals, but Trump still feels let down - Reuters",
+      "summary": "Within Reuters’ video lineup, a Canada-linked item notes Vancouver’s vulnerable residents fear sweeps and raids during the World Cup. It points to concern that major events can intensify pressure on people already living precariously.",
+      "whyItMatters": "This is worth watching as a justice and mercy issue, especially for churches discerning how to serve vulnerable neighbours during high-profile civic moments.",
+      "url": "https://www.reuters.com/video/watch/idRW608108072026RP1?chan=us-news&location=channel-item"
     }
   ],
-  "local": [],
+  "local": [
+    {
+      "title": "A new report is warning of heavy levels of arsenic in some rice products - CTV News",
+      "summary": "The local B.C. items on this CTV page include a Central Saanich farm marking its 100-year milestone, a young bald eagle being returned to its nest after rescue in Victoria, and a BCFSA case involving falsified mortgage documents. Together they reflect both community resilience and integrity concerns close to home.",
+      "whyItMatters": "These are the kinds of local stories that help a pastor stay rooted in the joys, pressures, and moral realities shaping nearby communities.",
+      "url": "https://www.ctvnews.ca/toronto/consumer-alert/article/a-new-report-is-warning-of-heavy-levels-of-arsenic-in-some-rice-products/"
+    }
+  ],
   "persecutedChurch": [
     {
-      "title": "Pastor freed from Chinese prison after Trump raised his case with Xi Jinping - Fox News",
-      "summary": "Pastor Ezra Jin of Beijing’s Zion Church has been released and reunited with family in the U.S. after international pressure, though the wider crackdown on unregistered churches remains severe.",
-      "whyItMatters": "This is both an answer to prayer and a prompt to keep interceding for believers still detained in China.",
-      "url": "https://www.foxnews.com/media/pastor-freed-chinese-prison-trump-raised-case-xi-jinping"
+      "title": "Christian NGO welcomes release of pastor held in southern China - Reuters",
+      "summary": "ChinaAid welcomed the release of Zion Church Pastor Jin Mingri, who arrived in Los Angeles after months in detention. Reuters notes that eight members of the church are still detained in China.",
+      "whyItMatters": "This is both an answer to prayer and a reminder to keep interceding for believers who remain imprisoned.",
+      "url": "https://www.reuters.com/world/china/christian-ngo-welcomes-release-pastor-held-southern-china-2026-07-05/"
     },
     {
       "title": "As Christians are attacked in Israel, government shows little concern - The Washington Post",
-      "summary": "A Washington Post report says Christians in Israel are facing rising hostility and violence, with many feeling attackers have grown bolder.",
-      "whyItMatters": "It broadens the church’s awareness that Christian vulnerability is not limited to one region and calls for informed prayer.",
+      "summary": "The Washington Post reports that Christians in Israel say hostility and violence against them are increasing, and that attackers feel emboldened by the current political climate.",
+      "whyItMatters": "It invites informed prayer for vulnerable Christian communities in the Holy Land and careful pastoral attention to a complex region many congregants care about deeply.",
       "url": "https://www.washingtonpost.com/world/2026/07/05/jewish-nationalists-are-attacking-christians-israel/"
     }
   ],
   "leadership": {
-    "title": "Escaping The Survival Mode That Sabotages Leadership - Forbes",
-    "summary": "This piece argues that resilient leadership requires intentional pauses, boundaries, and ‘white-space’ time rather than constant urgency and endurance.",
-    "whyItMatters": "A pastor leading through nonstop demands needs permission to pause so he can lead with steadiness instead of depletion.",
-    "url": "https://www.forbes.com/sites/rodgerdeanduncan/2026/07/07/escaping-the-survival-mode-that-sabotages-leadership/"
+    "title": "How The Best Leaders Sustain Team Performance During Constant Change - Forbes",
+    "summary": "Forbes argues that strong leaders sustain teams through constant change by reinforcing trust through empathy, lived values, healthy accountability, addressing toxic behaviour, and intentionally building healthy relationships.",
+    "whyItMatters": "A pastor leading staff and volunteers needs this reminder that trust and culture are not side issues; they are central to faithful, durable ministry.",
+    "url": "https://www.forbes.com/sites/tonygambill/2026/07/07/how-the-best-leaders-sustain-team-performance-during-constant-change/"
   },
   "goodNews": {
-    "title": "Good News: Bride-to-be’s hotel hail mary pays off ahead of her wedding - NBC News",
-    "summary": "An NFL team owner unexpectedly stepped in to help a bride-to-be with a last-minute hotel need before her wedding.",
-    "whyItMatters": "It is a simple story of generosity that can refresh a pastor’s imagination for everyday kindness and providence.",
-    "url": "https://www.nbcnews.com/nightly-news/video/good-news-bride-to-be-s-hotel-hail-mary-pays-off-ahead-of-her-wedding-266335301906"
+    "title": "Zachery Dereniowski: A 'kindness influencer' gave my family free World Cup tickets - BBC",
+    "summary": "A visiting family in Toronto received an unexpected gift when a stranger gave a father and two sons free World Cup tickets. The father said the experience inspired him to be kinder to others.",
+    "whyItMatters": "It is a simple, shareable picture of generosity multiplying hope—exactly the kind of story that can warm a congregation and illustrate everyday grace.",
+    "url": "https://www.bbc.com/news/articles/ckg773ym1ryo"
   }
 }
