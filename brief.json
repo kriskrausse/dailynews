@@ -1,90 +1,72 @@
 {
-  "date": "2026-07-25",
-  "updatedAt": "2026-07-25T11:42:52.718Z",
+  "date": "2026-07-26",
+  "updatedAt": "2026-07-26T11:44:03.481Z",
   "global": [
     {
-      "title": "Top Story with Tom Llamas - July 23 | NBC News NOW - Modern Ghana",
-      "summary": "NBC’s roundup highlights rising oil prices, threats of a new U.S. attack on Iran, severe flooding, and a cyclospora outbreak. The main fresh angle is the widening sense of instability across energy, health, and weather fronts at once.",
-      "whyItMatters": "This helps frame prayers and preaching around fear, uncertainty, and the need for steady Christian presence in anxious times.",
-      "url": "https://www.modernghana.com/amp/videonews/687510"
+      "title": "Trump threatens major escalation in Iran as war nears 5 ...",
+      "summary": "The Iran conflict remains volatile as oil prices surged above $100 before easing, the UN warned the region is nearing catastrophe, and fighting has widened to key shipping corridors including the Red Sea.",
+      "whyItMatters": "This shapes prayer, preaching, and pastoral care as people process fear, instability, and the human cost of war.",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates"
     },
     {
-      "title": "AP Top Stories July 24 - AP News",
-      "summary": "AP’s top stories point to a volatile global moment: new U.S. tariffs on dozens of countries, oil producers trying to bypass the Strait of Hormuz, and growing concern over AI systems acting beyond expected human control.",
-      "whyItMatters": "Pastors are helping people process economic anxiety, technological unease, and geopolitical tension without losing hope or wisdom.",
-      "url": "https://apnews.com/video/ap-top-stories-july-24-65f118f30b93405080e9c3139de8056d"
+      "title": "Conflict in Syria | Global Conflict Tracker",
+      "summary": "Syria’s fragile transition continues with sectarian tensions, ISIS activity, Israeli strikes, and new signs of international re-engagement as the EU restores economic cooperation.",
+      "whyItMatters": "It offers a wider lens on instability in the Middle East and helps frame informed intercession for peace and vulnerable communities.",
+      "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-syria"
     },
     {
-      "title": "ABC World News Tonight with David Muir Full Broadcast - July 24, 2026 - Modern Ghana",
-      "summary": "The broadcast reports that roughly 200,000 people have fled major wildfires in France and Spain, alongside flooding in the southeastern U.S. and fresh Iranian attacks targeting Americans on bases in Jordan and Iraq.",
-      "whyItMatters": "It offers a broad picture of human vulnerability that can inform intercession, pastoral care, and sermons on refuge, mercy, and endurance.",
-      "url": "https://www.modernghana.com/amp/videonews/688142"
+      "title": "Nurses put wedding together in 24 hours for bride undergoing brain surgery",
+      "summary": "Hospital staff rallied in a single day to help a bride marry before brain surgery, offering a rare story of compassion and dignity in the middle of crisis.",
+      "whyItMatters": "This is a vivid pastoral illustration of mercy, community, and love shown under pressure.",
+      "url": "https://www.wabi.tv/2026/07/25/nurses-put-wedding-together-24-hours-bride-undergoing-brain-surgery"
     }
   ],
   "canadian": [
     {
-      "title": "Canadian government urged to block data-sharing deal between Thomson Reuters and US ICE - The Guardian",
-      "summary": "Canada’s federal government is being pressed to review or block a reported Thomson Reuters data-sharing deal with U.S. immigration authorities. The concern centers on whether Canadian corporate tools could aid contested immigration enforcement practices.",
-      "whyItMatters": "This touches justice, human dignity, and how Christians think about borders, truth, and the treatment of vulnerable people.",
-      "url": "https://www.theguardian.com/world/2026/jul/24/canada-government-mark-carney-block-data-sharing-deal-thomson-reuters-us-ice-avi-lewis"
+      "title": "Today’s News Headlines: Donald Trump vows retaliatory tariffs - Sky News Australia",
+      "summary": "A fresh trade warning aimed at Canada signals possible new tariff pressure from the U.S., adding uncertainty for the Canadian economy and cross-border relations.",
+      "whyItMatters": "Economic strain quickly becomes a pastoral issue for families facing anxiety over jobs, prices, and business stability.",
+      "url": "https://www.skynews.com.au/australia-news/todays-news-headlines-donald-trump-vows-retaliatory-tariffs/video/0fbcb2bb819e9d76bc20202434b28afd?amp"
     },
     {
       "title": "LeBron James' 'last' NBA move - Reuters",
-      "summary": "Within this Reuters video feed, Prime Minister Mark Carney says Canada will do “whatever it takes” in the trade war with the U.S. The fresh development is the sharpened tone around Canada’s economic response.",
-      "whyItMatters": "Trade conflict can quickly affect household stress, prices, and public mood—important context for local pastoral leadership.",
+      "summary": "Alongside broader Reuters headlines, Prime Minister Carney is shown saying Canada will do “whatever it takes” in a trade war with the U.S., underscoring the seriousness of the dispute.",
+      "whyItMatters": "National trade tensions can affect congregants’ livelihoods and confidence, especially in export-dependent communities.",
       "url": "https://www.reuters.com/video/watch/idRW067224072026RP1/?chan=us-news"
-    },
-    {
-      "title": "Eggs recalled due to salmonella fears - NBC News",
-      "summary": "NBC reports an egg recall tied to salmonella concerns. While not Canada-specific in the result text, food safety alerts often shape consumer concern and family conversations here as well.",
-      "whyItMatters": "Pastors often serve families navigating everyday anxieties; practical awareness helps shepherd people compassionately in ordinary life.",
-      "url": "https://www.nbcnews.com/video/shorts/eggs-recalled-due-to-salmonella-fears-267211333709"
     }
   ],
   "local": [
     {
-      "title": "Update: Highway 1 clear after fatal crash in Abbotsford | Fraser Valley Today | Everything Fraser Valley",
-      "summary": "A fatal Highway 1 crash in Abbotsford left one passenger dead and another seriously injured. Police say impairment may have been a contributing factor and are asking witnesses or dashcam owners to come forward.",
-      "whyItMatters": "This is immediate pastoral ground: grief, trauma, and a reminder to speak with compassion and clarity about life, choices, and community care.",
-      "url": "https://www.google.com/goto?url=CAEStwEB7keqTc0f1m8f3JpUGiUqQDn7CkUHR4DzvnsCh1n9Vny7-jCC7OJpbD7AGW2F4BeVQWxyjwgbqT_uNFKLPQzKUOxxPtWMai-JCKDmrWLzNCZ5gVjFb7tClMCmMTDtJG-brvuJ0PZ6grA7yIpfX6GWfJ828ms-IQJ9JyYIJI_Df54FqXYYp7QorPkHcQT-FEROiMPTG8LufSgGDyCaXJ9-IUieC6GElUg0dAH9E9kppgFYTa4Ix_g%3D"
-    },
-    {
-      "title": "University, brewery come together to unveil hop research yard in Chilliwack | Abbotsford News",
-      "summary": "KPU and Molson Coors have unveiled a hop research yard in Chilliwack to develop climate-resilient varieties and improve irrigation practices. The project also gives students hands-on agricultural training tied to the Fraser Valley’s farming heritage.",
-      "whyItMatters": "It’s a constructive local story about education, stewardship, and long-term resilience in the face of heat and drought.",
-      "url": "https://www.google.com/goto?url=CAESowEB7keqTdsPoZFiSKGYmNsx4jG6h3-HGd4drRcelaKTa90ZSNYFB84cVu8d4DviJMl0ZuFyihDdoWsTyrUX1XaLFPa-JRWswFymHMr8m0814Etusyjg3BfvpHBFbnuUUbLx8nIH_62AnZkQAf3BmgrmRMcXGA0G_oC6g-Jrr3sRraO32Y_kGz-baN_iW-VGRuP5h8_ro3CGCCn_Z5EJmzNcR6kQ"
-    },
-    {
-      "title": "Records shattered at Fraser Valley Music Awards | Chilliwack Progress",
-      "summary": "The Fraser Valley Music Awards celebrated local artists in Abbotsford, distributed more than $10,000 in prize money, and highlighted a wide range of community talent and representation.",
-      "whyItMatters": "Community arts create belonging and shared joy—valuable reminders that local culture can still gather people together in healthy ways.",
-      "url": "https://www.google.com/goto?url=CAESiwEB7keqTUaBHYly_dK-CltMfJAO6RSiqaD01t2TVOHr4xooHebxfx202_5M1PY20o9ZDKCyMX94CA3ToHFefXVf_9QRilQii6vP15uArZqMTpDRDZ428eIUcYJOqNpUrwzoBtbBAqFS8pTYtNjKc1xisgW8MC6crNtKKw3e1ZMT9dl9rlW0-6Frkf4y"
+      "title": "'We just got a random vehicle in the middle of the runway:' Motorhome crashes through fence at Abbotsford airport - Vancouver Sun",
+      "summary": "A motorhome broke through the perimeter fence and onto an active runway at Abbotsford airport, disrupting operations before the driver, a 53-year-old Abbotsford man, was arrested. No injuries were reported.",
+      "whyItMatters": "It is a significant local public-safety story and a reminder to pray for first responders, travelers, and community calm.",
+      "url": "https://vancouversun.com/news/local-news/we-just-got-a-random-vehicle-in-the-middle-of-the-runway-motorhome-crashes-through-fence-at-abbotsford-airport"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives - Fox News",
-      "summary": "Rev. Ezekiel Dachomo says Fulani militia killed nine of his relatives while looking for him and have now threatened his church directly. He is publicly pleading for the world not to ignore the suffering of Christians in Nigeria.",
-      "whyItMatters": "This is a direct call to prayer, awareness, and solidarity with believers facing lethal persecution for their faith.",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives"
+      "title": "EU urges Pakistan to act after 13-year-old Christian girl forced to convert - The Jerusalem Post",
+      "summary": "European lawmakers are pressing Pakistan to act after a 13-year-old Christian girl was abducted, forcibly converted, and married to her captor, highlighting the ongoing vulnerability of minority girls.",
+      "whyItMatters": "This is a clear call to prayer for justice, protection of the vulnerable, and endurance for Christian minorities under pressure.",
+      "url": "https://www.jpost.com/middle-east/article-903335"
     },
     {
-      "title": "Palestinians report settler arson attack on mosque in Tuwani, in the West Bank - The Times of Israel",
-      "summary": "Reports say a mosque in Tuwani was targeted in an arson attack amid ongoing tensions and violence in the West Bank. The incident points to the vulnerability of worshiping communities in contested areas.",
-      "whyItMatters": "Pastoral concern for religious persecution includes defending the safety of all people seeking to worship without fear.",
-      "url": "https://www.timesofisrael.com/liveblog_entry/palestinians-report-settler-arson-attack-on-mosque-in-tuwani-in-the-west-bank/"
+      "title": "Woman seriously injured in knife attack during church service in Irish town - New York Post",
+      "summary": "A woman in her 50s was seriously injured in a knife attack during a Catholic Mass in Tramore, Ireland, before police arrested a man nearby.",
+      "whyItMatters": "Violence in a worship setting reminds pastors to pray for the safety of congregations and the healing of traumatized communities.",
+      "url": "https://nypost.com/2026/07/21/world-news/woman-seriously-injured-in-knife-attack-during-church-service-in-irish-town/"
     }
   ],
   "leadership": {
-    "title": "Leadership Burnout Prevention: Refill Your Tank with Intentional Getaways | Rob Shauger posted on the topic | LinkedIn",
-    "summary": "This post argues that sustainable leadership requires boundaries, self-care, and attention to root causes rather than constant reaction. Its core insight is simple: leaders cannot keep pouring out from an empty cup.",
-    "whyItMatters": "A lead pastor needs permission and practice to lead from replenishment, not exhaustion.",
-    "url": "https://www.linkedin.com/posts/robshauger59945018_leadershipdevelopment-leadershipmindset-executiveleadership-activity-7484608715137118208-_Naw"
+    "title": "Why Traditional Change Leadership Isn’t Enough When Change Never Stops - Forbes",
+    "summary": "This piece argues that constant change requires more than strategy; leaders need self-awareness, emotional regulation, trust-building, and healthy accountability to guide people well.",
+    "whyItMatters": "It is a useful prompt for pastoral leadership in a season when churches also face ongoing change, fatigue, and uncertainty.",
+    "url": "https://www.forbes.com/sites/tonygambill/2026/07/21/why-traditional-change-leadership-isnt-enough-when-change-never-stops/"
   },
   "goodNews": {
-    "title": "Super rare sea turtle returns to NYC waters after injury in shell yeah moment - New York Post",
-    "summary": "A rare Kemp’s Ridley sea turtle named Pancake was released back into New York waters after months of care following a life-threatening cold-stun injury. Children cheered as the turtle returned to the ocean with a tracking device attached.",
-    "whyItMatters": "It’s a small but vivid story of restoration, patient care, and shared delight—useful for reminding people that healing still happens.",
-    "url": "https://nypost.com/2026/07/23/us-news/super-rare-sea-turtle-returns-to-nyc-waters-after-injury-in-shell-yeah-moment/"
+    "title": "Good News: Meet the airport worker going the extra mile - NBC News",
+    "summary": "An airport luggage worker is being recognized for going above and beyond to reconnect travelers with lost luggage tags, turning an ordinary job into a ministry of care.",
+    "whyItMatters": "It is a simple, encouraging example of everyday faithfulness and service that can resonate deeply in pastoral ministry.",
+    "url": "https://www.nbcnews.com/nightly-news/video/good-news-meet-the-airport-worker-going-the-extra-mile-267274821991"
   }
 }
