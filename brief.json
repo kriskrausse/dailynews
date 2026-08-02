@@ -1,54 +1,60 @@
 {
-  "date": "2026-08-01",
-  "updatedAt": "2026-08-01T11:41:30.638Z",
+  "date": "2026-08-02",
+  "updatedAt": "2026-08-02T11:41:25.873Z",
   "global": [
     {
-      "title": "Early Edition: July 30, 2026",
-      "summary": "A roundup of major global developments highlights an Iranian strike in Kuwait after recent U.S. action against Iran, alongside rising concern over escalating settler violence in the West Bank.",
-      "whyItMatters": "These tensions shape prayer, preaching, and pastoral care around fear, peace, and the human cost of conflict in the Middle East.",
-      "url": "https://www.justsecurity.org/150442/early-edition-july-30-2026-2"
-    },
-    {
-      "title": "5 Big News Stories Overnight - Saturday, August 1, 2026",
-      "summary": "Among the overnight developments, England is on track for its driest July on record, underscoring intensifying climate pressures, while FIFA reversed a major commercialization plan after backlash and boycott threats.",
-      "whyItMatters": "Climate strain and institutional trust both affect how pastors speak about stewardship, public integrity, and community resilience.",
-      "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-saturday-august-1-2026"
+      "title": "Crypto Market Update: Strategy, Coinbase Post Major Q2 ...",
+      "summary": "Markets pulled back as major crypto firms reported losses and debate intensified over U.S. legislation that could loosen oversight of decentralized platforms. The report also highlights warnings from law enforcement about fraud and illicit finance risks.",
+      "whyItMatters": "Financial anxiety, speculation, and consumer losses affect families in the pews; this is a useful window into stewardship, trust, and economic pressure.",
+      "url": "https://investingnews.com/cryptocurrency-market-recap"
     }
   ],
   "canadian": [
     {
-      "title": "Canadian woman grateful after major brain surgery during pregnancy | Watch News Videos Online",
-      "summary": "A Canadian woman is sharing gratitude after undergoing major brain surgery while pregnant, offering a moving story of medical courage, vulnerability, and hope.",
-      "whyItMatters": "This is a pastoral window into suffering, family fear, and thanksgiving that can connect deeply in prayer and congregational care.",
-      "url": "https://globalnews.ca/video/11974964/canadian-woman-grateful-after-major-brain-surgery-during-pregnancy"
+      "title": "Pete Hoekstra says Canada, U.S. aligned on Gordie Howe bridge ahead of opening | Watch News Videos Online",
+      "summary": "Canada and the U.S. are presenting a cooperative front ahead of the Gordie Howe bridge opening, while the broader report also points to economic growth, labour uncertainty, product recalls, and ongoing trade diversification concerns.",
+      "whyItMatters": "Cross-border infrastructure and trade stability shape affordability, jobs, and public confidence—important context for pastoral care and community conversations.",
+      "url": "https://globalnews.ca/video/11971508/pete-hoekstra-says-canada-u-s-aligned-on-gordie-howe-bridge-ahead-of-opening"
+    },
+    {
+      "title": "Vancouver hosts Canada’s last World Cup game | Watch News Videos Online",
+      "summary": "Attention remains on Vancouver’s World Cup role, with the broader coverage also surfacing B.C. energy developments, manufacturing uncertainty, and international tensions affecting Canada’s outlook.",
+      "whyItMatters": "Major events can unify communities and open ministry opportunities around hospitality, civic engagement, and witness in the public square.",
+      "url": "https://globalnews.ca/video/11957585/vancouver-hosts-canadas-last-world-cup-game"
     }
   ],
   "local": [
     {
-      "title": "Abbotsford police kept busy by dangerous drivers | Fraser Valley Today | Everything Fraser Valley",
-      "summary": "Abbotsford police issued 58 violation tickets in 24 hours, impounded vehicles for excessive speeding, removed impaired drivers, and arrested prohibited drivers.",
-      "whyItMatters": "Road safety, impaired driving, and preventable harm are immediate community concerns that matter for local prayer, pastoral presence, and public responsibility.",
-      "url": "https://fraservalleytoday.ca/2026/07/29/abbotsford-police-kept-busy-by-dangerous-drivers"
+      "title": "B.C.’s wildfire situation continues to flare up, with more blazes and evacuations | Fraser Valley Today | Everything Fraser Valley",
+      "summary": "B.C. added nearly 30 new wildfires in 24 hours, with fresh evacuation orders and alerts near Kelowna as wind and thunderstorms worsen conditions. Officials are urging residents across the province to prepare to leave quickly if needed.",
+      "whyItMatters": "This has immediate implications for prayer, preparedness, pastoral care, and possible support for displaced families across B.C.",
+      "url": "https://fraservalleytoday.ca/2026/08/02/b-c-s-wildfire-situation-continues-to-flare-up-with-more-blazes-and-evacuations"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Eighty Percent of Christians in Syria Face Persecution",
-      "summary": "The report says most Christians remaining in Syria continue to face severe persecution, including violence, displacement, and attacks on villages and churches, with church leaders calling for solidarity and prayer.",
-      "whyItMatters": "It helps keep the suffering church visible before your congregation and invites informed prayer, advocacy, and global Christian solidarity.",
-      "url": "https://archons.org/persecution/80-percent-of-christians-syria"
+      "title": "Rising Attacks on Christians in Jerusalem - CNN",
+      "summary": "CNN highlights growing attacks against Christians in Jerusalem, adding fresh visibility to pressures facing historic Christian communities in the Holy Land.",
+      "whyItMatters": "It is a timely prompt to pray for vulnerable believers and to help congregations remember the global church beyond Canada.",
+      "url": "https://edition.cnn.com/2026/07/29/world/video/israel-christian-attacks-jerusalem-vrtc-ldn-digvid"
+    },
+    {
+      "title": "‘Antisemitism is our new reality’: 2025 was deadliest year in more than three decades - Ynetnews",
+      "summary": "A new J7 report says 2025 was the deadliest year for antisemitic violence in more than 30 years across major Jewish communities, even where some annual incident totals declined from the previous year.",
+      "whyItMatters": "Pastors should be alert to rising hatred, teach clearly on human dignity, and model solidarity with neighbours facing fear and violence.",
+      "url": "https://www.ynetnews.com/jewish-world/article/syjptbpbfl"
     }
   ],
   "leadership": {
     "title": "Frontiers | Ethical leadership and sustainable employee wellbeing: the roles of emotional energy, moral signals, and psychological resources",
-    "summary": "This research argues that ethical leadership supports lasting wellbeing not just through values talk, but by shaping healthier systems, reducing chronic emotional strain, and stabilizing team life.",
-    "whyItMatters": "For pastoral leadership, it is a reminder that healthy ministry culture is built through sustainable structures, not simply personal sacrifice.",
+    "summary": "This research argues that ethical leadership supports lasting wellbeing not just through values talk, but by shaping healthier emotional demands and organizational patterns.",
+    "whyItMatters": "A helpful reminder that healthy ministry leadership requires more than good intentions; it also means designing church life in ways that reduce chronic strain.",
     "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1788987/full"
   },
   "goodNews": {
-    "title": "What went right this week: the good news that matters - Positive News",
-    "summary": "One encouraging development is EU approval of a breakthrough eye implant that restored meaningful central vision for many patients in trials, offering new hope for people with age-related macular degeneration.",
-    "whyItMatters": "Stories of healing, innovation, and restored sight offer a hopeful counterweight to heavy news and can encourage gratitude and wonder.",
-    "url": "https://www.positive.news/society/good-news-stories-from-week-31-of-2026"
+    "title": "32 good news stories from 2025 you might have missed...",
+    "summary": "This roundup gathers hopeful stories, including inclusive community care, justice reforms, sustainable innovation, and major philanthropic commitments for health and education.",
+    "whyItMatters": "Good news helps balance a heavy news cycle and offers illustrations of common grace, compassion, and constructive service.",
+    "url": "https://happiful.com/32-good-news-stories-from-2025-you-might-have-missed"
   }
 }
