@@ -1,60 +1,84 @@
 {
-  "date": "2026-08-02",
-  "updatedAt": "2026-08-02T11:41:25.873Z",
+  "date": "2026-08-03",
+  "updatedAt": "2026-08-03T13:24:04.565Z",
   "global": [
     {
-      "title": "Crypto Market Update: Strategy, Coinbase Post Major Q2 ...",
-      "summary": "Markets pulled back as major crypto firms reported losses and debate intensified over U.S. legislation that could loosen oversight of decentralized platforms. The report also highlights warnings from law enforcement about fraud and illicit finance risks.",
-      "whyItMatters": "Financial anxiety, speculation, and consumer losses affect families in the pews; this is a useful window into stewardship, trust, and economic pressure.",
-      "url": "https://investingnews.com/cryptocurrency-market-recap"
+      "title": "Iran conflict widens as strikes hit Kuwait and regional tensions spread",
+      "summary": "Iran said it struck U.S. assets in Kuwait after U.S. strikes inside Iran, signaling a dangerous new phase in the conflict and raising fears of broader regional escalation.",
+      "whyItMatters": "This shapes prayer, preaching, and pastoral care as many in the church feel anxiety over war, peace, and global stability.",
+      "url": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events"
+    },
+    {
+      "title": "Qatari-mediated proposal may reopen Strait of Hormuz",
+      "summary": "A new proposal reportedly received a positive response from Iranian diplomats and could reopen shipping through the Strait of Hormuz under a revised transit arrangement.",
+      "whyItMatters": "Any movement toward de-escalation affects global markets, public anxiety, and opportunities to speak about peacemaking and wise leadership.",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-august-2-2026"
+    },
+    {
+      "title": "Ceuta migrant crisis deepens with mass crossings and rising death toll",
+      "summary": "Spanish authorities are tightening border measures after tens of thousands entered Ceuta, with dozens reported dead and many migrants, including children, left without shelter.",
+      "whyItMatters": "This is a vivid reminder of the human cost of displacement and a call for prayerful attention to refugees, mercy, and justice.",
+      "url": "https://www.justsecurity.org/151348/early-edition-august-3-2026"
     }
   ],
   "canadian": [
     {
-      "title": "Pete Hoekstra says Canada, U.S. aligned on Gordie Howe bridge ahead of opening | Watch News Videos Online",
-      "summary": "Canada and the U.S. are presenting a cooperative front ahead of the Gordie Howe bridge opening, while the broader report also points to economic growth, labour uncertainty, product recalls, and ongoing trade diversification concerns.",
-      "whyItMatters": "Cross-border infrastructure and trade stability shape affordability, jobs, and public confidence—important context for pastoral care and community conversations.",
-      "url": "https://globalnews.ca/video/11971508/pete-hoekstra-says-canada-u-s-aligned-on-gordie-howe-bridge-ahead-of-opening"
+      "title": "Canadian tourism to the U.S. fell sharply amid political tensions",
+      "summary": "New data show Canadians made 7.1 million fewer trips to the U.S. in 2025, while domestic and overseas travel increased instead.",
+      "whyItMatters": "This reflects shifting public mood and economic pressure, offering insight into the concerns and conversations people may be carrying into church life.",
+      "url": "https://www.cbsnews.com/news/canadian-tourism-to-the-us-plunged-25-2025"
     },
     {
-      "title": "Vancouver hosts Canada’s last World Cup game | Watch News Videos Online",
-      "summary": "Attention remains on Vancouver’s World Cup role, with the broader coverage also surfacing B.C. energy developments, manufacturing uncertainty, and international tensions affecting Canada’s outlook.",
-      "whyItMatters": "Major events can unify communities and open ministry opportunities around hospitality, civic engagement, and witness in the public square.",
-      "url": "https://globalnews.ca/video/11957585/vancouver-hosts-canadas-last-world-cup-game"
+      "title": "WestJet strike threat disrupts long-weekend travel plans",
+      "summary": "More than 300 flights have been cancelled as flight attendants and WestJet remain far apart in negotiations over pay and unpaid work time.",
+      "whyItMatters": "Travel disruption affects families, stress levels, and pastoral rhythms, especially during summer when many in the congregation are away or hosting visitors.",
+      "url": "https://www.bbc.com/news/articles/cq568j06zgxo"
     }
   ],
   "local": [
     {
-      "title": "B.C.’s wildfire situation continues to flare up, with more blazes and evacuations | Fraser Valley Today | Everything Fraser Valley",
-      "summary": "B.C. added nearly 30 new wildfires in 24 hours, with fresh evacuation orders and alerts near Kelowna as wind and thunderstorms worsen conditions. Officials are urging residents across the province to prepare to leave quickly if needed.",
-      "whyItMatters": "This has immediate implications for prayer, preparedness, pastoral care, and possible support for displaced families across B.C.",
-      "url": "https://fraservalleytoday.ca/2026/08/02/b-c-s-wildfire-situation-continues-to-flare-up-with-more-blazes-and-evacuations"
+      "title": "HandyDART app rollout coming to Abbotsford, Mission, and Chilliwack",
+      "summary": "BC Transit is introducing a new app for HandyDART riders to book, manage, and track trips, while keeping phone booking available.",
+      "whyItMatters": "Improved accessibility matters pastorally for seniors and people with disabilities, and may help churches think more clearly about inclusion and transportation barriers.",
+      "url": "https://abbynews.com/2026/07/30/new-handydart-app-coming-soon-to-riders-in-abbotsford"
+    },
+    {
+      "title": "Highway 1 remains closed near Boston Bar as wildfire situation continues",
+      "summary": "The Brunswick Complex fires are not growing significantly at present, but both major fires remain out of control and Highway 1 stays closed between Spuzzum Creek Road and Jackass Summit.",
+      "whyItMatters": "This continues to affect travel, safety, and community stress across the Fraser Valley, making it a live pastoral concern for prayer and care.",
+      "url": "https://fvcurrent.com/p/friday-july-31-langley-city-voters-get-a-say-this-fall"
+    },
+    {
+      "title": "Cultus Lake Waterpark reopens after electrical incident review",
+      "summary": "The waterpark has reopened with reduced operations after a six-week closure following the incident that injured schoolchildren, with safety reviews still shaping what areas can operate.",
+      "whyItMatters": "Local families will notice this development, and it speaks to community recovery, public trust, and care for those still affected.",
+      "url": "https://abbynews.com/2026/07/28/cultus-lake-waterpark-announces-reopening-6-weeks-after-electrical-incident"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Rising Attacks on Christians in Jerusalem - CNN",
-      "summary": "CNN highlights growing attacks against Christians in Jerusalem, adding fresh visibility to pressures facing historic Christian communities in the Holy Land.",
-      "whyItMatters": "It is a timely prompt to pray for vulnerable believers and to help congregations remember the global church beyond Canada.",
-      "url": "https://edition.cnn.com/2026/07/29/world/video/israel-christian-attacks-jerusalem-vrtc-ldn-digvid"
+      "title": "U.S. condemns killing of Nigerian pastor’s relatives",
+      "summary": "The U.S. has denounced the killing of nine relatives of Pastor Ezekiel Dachomo and called for stronger protection of Christians in Nigeria’s violence-hit Middle Belt.",
+      "whyItMatters": "This is a clear call to pray for the suffering church and to remember believers facing deadly pressure for their faith.",
+      "url": "https://www.christianitydaily.com/news/us-condemns-killing-of-9-relatives-of-nigerian-pastor.html"
     },
     {
-      "title": "‘Antisemitism is our new reality’: 2025 was deadliest year in more than three decades - Ynetnews",
-      "summary": "A new J7 report says 2025 was the deadliest year for antisemitic violence in more than 30 years across major Jewish communities, even where some annual incident totals declined from the previous year.",
-      "whyItMatters": "Pastors should be alert to rising hatred, teach clearly on human dignity, and model solidarity with neighbours facing fear and violence.",
-      "url": "https://www.ynetnews.com/jewish-world/article/syjptbpbfl"
+      "title": "Thirty-five Christians killed in eastern Congo",
+      "summary": "Barnabas Aid reports that 35 Christians were killed by Islamists in Ituri Province, adding to ongoing trauma for churches already living under severe instability.",
+      "whyItMatters": "It helps keep global intercession grounded in real people, real churches, and urgent need for comfort, justice, and endurance.",
+      "url": "https://www.barnabasaid.org/gb/news/thirty-five-christians-killed-by-islamists-in-ituri-province-d-r-congo"
     }
   ],
   "leadership": {
-    "title": "Frontiers | Ethical leadership and sustainable employee wellbeing: the roles of emotional energy, moral signals, and psychological resources",
-    "summary": "This research argues that ethical leadership supports lasting wellbeing not just through values talk, but by shaping healthier emotional demands and organizational patterns.",
-    "whyItMatters": "A helpful reminder that healthy ministry leadership requires more than good intentions; it also means designing church life in ways that reduce chronic strain.",
-    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1788987/full"
+    "title": "7 leadership actions to strengthen talent sustainability",
+    "summary": "Forbes highlights practical leadership habits such as developing people internally, building continuous learning, and designing for whole-life careers rather than short-term staffing fixes.",
+    "whyItMatters": "For a pastor leading staff and volunteers, this offers a useful framework for building a healthier, more durable ministry culture.",
+    "url": "https://www.forbes.com/sites/sheilacallaham/2026/07/29/7-leadership-actions-to-strengthen-talent-sustainability"
   },
   "goodNews": {
-    "title": "32 good news stories from 2025 you might have missed...",
-    "summary": "This roundup gathers hopeful stories, including inclusive community care, justice reforms, sustainable innovation, and major philanthropic commitments for health and education.",
-    "whyItMatters": "Good news helps balance a heavy news cycle and offers illustrations of common grace, compassion, and constructive service.",
-    "url": "https://happiful.com/32-good-news-stories-from-2025-you-might-have-missed"
+    "title": "Global hunger falls below 8% for the first time since the pandemic",
+    "summary": "A new FAO-referenced report says global hunger has dropped to 7.8%, an encouraging milestone even as conflict remains a major driver of need.",
+    "whyItMatters": "This is a hopeful reminder that progress is possible and can encourage gratitude, prayer, and renewed commitment to mercy ministries.",
+    "url": "https://www.goodnewsnetwork.org/global-hunger-falls-below-8-for-the-first-time-since-the-pandemic"
   }
 }
