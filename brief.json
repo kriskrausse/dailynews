@@ -1,90 +1,84 @@
 {
-  "date": "2026-09-11",
-  "updatedAt": "2026-09-11T14:32:40.865Z",
+  "date": "2026-09-12",
+  "updatedAt": "2026-09-12T13:40:44.715Z",
   "global": [
     {
-      "title": "Germany to send Patriot missiles to Ukraine as winter threats grow",
-      "summary": "Germany says it will send Patriot air defense missiles from its own stocks to Ukraine, warning that Russia is likely to intensify attacks on infrastructure as winter approaches.",
-      "whyItMatters": "This highlights the human cost of a prolonged war and offers a timely prayer and preaching connection around endurance, protection, and care for civilians.",
-      "url": "https://www.justsecurity.org/156735/early-edition-september-9-2026"
+      "title": "Iraq investigates drone attack on Saudi pipeline as regional tensions widen",
+      "summary": "Iraq says a drone attack that shut down Saudi Arabia’s east-west pipeline originated from its territory, prompting an investigation and the dismissal of a military commander. The incident comes as Houthi gains near key shipping lanes raise fears of further disruption.",
+      "whyItMatters": "This is a fresh escalation with direct implications for global stability, energy costs, and congregational anxiety about the future.",
+      "url": "https://www.news4jax.com/news/world/2026/09/12/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline"
     },
     {
-      "title": "Iran conflict drives oil spike and wider economic anxiety",
-      "summary": "Fresh Middle East escalation is pushing oil above $107 a barrel, renewing fears of inflation, slower growth, and higher borrowing costs across major economies.",
-      "whyItMatters": "Rising fuel and living costs often deepen stress for families in the pews, making this useful context for pastoral care and local compassion.",
-      "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-friday-september-11-2026"
+      "title": "Russia launches 160 drones overnight across Ukraine",
+      "summary": "A new wave of Russian drone attacks struck Ukraine overnight, killing at least one person and injuring others. The scale of the barrage signals continued pressure on civilians and infrastructure.",
+      "whyItMatters": "Pastors may want to keep Ukraine in prayer and help people interpret war fatigue through the lens of perseverance, lament, and compassion.",
+      "url": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-morning"
     },
     {
-      "title": "Analysis warns Trump’s Iran campaign risks becoming a ‘forever war’",
-      "summary": "A Reuters analysis says the U.S. conflict with Iran is increasingly being compared to post-9/11 wars, with no clear exit strategy and growing political and economic costs.",
-      "whyItMatters": "Pastors often help people process fear, fatigue, and moral confusion around war; this story gives deeper framing beyond daily headlines.",
-      "url": "https://www.reuters.com/world/trumps-iran-campaign-echoes-post-911-forever-wars-2026-09-10"
+      "title": "Strait of Hormuz partially reopens, but war pressures still weigh on the world economy",
+      "summary": "PBS reports that shipping through the Strait of Hormuz has improved, yet the Iran war remains unresolved, costly, and economically disruptive. Oil and diesel prices remain elevated, with broader inflation concerns still in view.",
+      "whyItMatters": "This helps explain the economic stress many families are feeling and offers context for pastoral care around fear, budgeting, and uncertainty.",
+      "url": "https://www.pbs.org/newshour/world/the-u-s-has-made-progress-in-reopening-the-strait-of-hormuz-but-the-iran-war-is-far-from-over"
     }
   ],
   "canadian": [
     {
-      "title": "Carney signals restraint after latest U.S. trade measures",
-      "summary": "Prime Minister Mark Carney said Canada may hold off on further retaliation, calling Washington’s newest trade steps relatively modest and emphasizing building Canada’s economy at home and diversifying abroad.",
-      "whyItMatters": "This affects economic confidence, jobs, and household stress in Canada, all of which shape the pastoral realities facing congregations.",
-      "url": "https://abcnews.com/International/wireStory/carney-calls-trumps-latest-trade-measures-modest-signals-136342664"
+      "title": "Canada’s retaliatory tariffs take effect as trade talks with the U.S. stall",
+      "summary": "Canada’s counter-tariffs on U.S. goods are now in force after negotiations collapsed, deepening the long-running trade dispute. The measures cover billions in goods and increase uncertainty for businesses and consumers.",
+      "whyItMatters": "This affects household costs, business confidence, and the emotional climate in Canadian communities Kris serves.",
+      "url": "https://www.reuters.com/business/autos-transportation/canadas-retaliatory-tariffs-take-effect-us-trade-talks-stall-2026-09-08"
     },
     {
-      "title": "Ontario’s Ford takes sharper tone as trade tensions continue",
-      "summary": "While Carney struck a measured tone, Ontario Premier Doug Ford publicly urged U.S. voters to hold Trump accountable, revealing growing political strain inside the ongoing trade dispute.",
-      "whyItMatters": "The widening tone gap among leaders shows how prolonged conflict can test unity and public trust—important themes for leadership reflection.",
-      "url": "https://wtop.com/world/2026/09/ontario-premier-hopes-republicans-lose-house-and-senate-as-trump-trade-war-escalates"
+      "title": "Trump administration plans new bans on some Canadian imports",
+      "summary": "The U.S. plans to ban imports of some Canadian motorcycles, dairy products, and alcoholic beverages later this month, adding a new layer to the trade conflict. Additional tariffs on other Canadian goods are also expected.",
+      "whyItMatters": "This is a meaningful new development in the trade war and may shape conversations about national resilience, work, and economic stewardship.",
+      "url": "https://www.cbsnews.com/news/trump-administration-ban-canada-motorcycles-dairy-alcohol-trade-war"
     },
     {
-      "title": "Construction sector launches national suicide prevention campaign",
-      "summary": "Canada’s major general contractors are backing a September campaign called Looking Out For Each Other to reduce stigma and promote practical mental health support in construction workplaces.",
-      "whyItMatters": "This is directly relevant for pastoral care, men’s ministry, and community partnerships around mental health and suicide prevention.",
-      "url": "https://finance.yahoo.com/healthcare/articles/canadas-major-general-contractors-unite-150000294.html"
+      "title": "Report says online harms are now the top threat facing children in Canada",
+      "summary": "A new Raising Canada report highlighted online harms as the leading threat to children, ahead of many traditional concerns. The finding points to growing worries around digital safety and child wellbeing.",
+      "whyItMatters": "This is directly relevant for preaching, parenting ministry, youth discipleship, and equipping families to navigate technology wisely.",
+      "url": "https://globalnews.ca/video/12050890/2026-raising-canada-reports-finds-online-harms-rank-as-top-threat-to-children"
     }
   ],
   "local": [
     {
-      "title": "Fraser Valley launches new regional AI community",
-      "summary": "A new Fraser Valley AI group has launched in Langley, creating a local space for conversation, networking, and learning around artificial intelligence.",
-      "whyItMatters": "AI is increasingly shaping work, education, and ethics; this is a useful local signal for church leaders thinking about discipleship in a changing culture.",
+      "title": "Abbotsford advances planning for future sports and recreation amenities",
+      "summary": "Abbotsford council has directed staff to move ahead with site and design work for future sports and recreation amenities on Lefeuvre Road after an earlier site was rejected. The decision keeps long-term community space planning moving forward.",
+      "whyItMatters": "Community infrastructure shapes family life, youth engagement, and opportunities for churches to serve and partner locally.",
       "url": "https://fvcurrent.com/p/friday-september-11-fraser-valley-gets-its-own-ai-group"
     },
     {
-      "title": "Chilliwack and Abbotsford-Mission add jobs despite wider B.C. strain",
-      "summary": "New Statistics Canada figures show both Chilliwack and Abbotsford-Mission added 1,800 jobs in August, even as B.C.’s unemployment rate rose and tariff pressures hit key sectors.",
-      "whyItMatters": "Employment trends affect family stability, generosity, and anxiety levels in the church; this offers a grounded picture of local resilience and pressure.",
-      "url": "https://fraservalleytoday.ca/2026/09/04/chilliwack-and-abbotsford-mission-add-more-jobs-as-b-c-unemployment-ticks-up-to-6-5-statcan"
-    },
-    {
-      "title": "School zones back in effect across the Fraser Valley",
-      "summary": "With students back in class, police and ICBC are reminding drivers that 30 km/h school zones are active on school days and that crash risks for children rise sharply in September.",
-      "whyItMatters": "A simple but practical community reminder that supports family safety and gives pastors a timely way to encourage neighborly care.",
-      "url": "https://fraservalleytoday.ca/2026/09/08/school-zones-back-in-effect-across-fraser-valley"
+      "title": "Chilliwack to take over management of Heritage Park in 2027",
+      "summary": "The City of Chilliwack will assume management of Heritage Park from Tourism Ch'illiwack effective April 1, 2027, ending a 15-year partnership. The change signals a notable shift in stewardship of a major local gathering place.",
+      "whyItMatters": "Places where communities gather matter to pastors; this may affect future civic events, partnerships, and public presence.",
+      "url": "https://fvcurrent.com/p/friday-september-11-fraser-valley-gets-its-own-ai-group"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "Islamist gunmen kill 12 in raid on Christian village in northeast Nigeria",
-      "summary": "A report from Nigeria says Islamist attackers killed 12 people, abducted a schoolgirl, and left local Christians feeling forgotten amid delayed official response.",
-      "whyItMatters": "This is a clear call to prayer, solidarity, and informed advocacy for suffering believers.",
-      "url": "https://truthnigeria.com/2026/09/islamist-gunmen-kill-12-and-abduct-schoolgirl-in-night-raid-on-christian-village-in-northeast-nigeria"
+      "title": "Indian church leaders alarmed by possible release of Staines’ killer",
+      "summary": "Christian leaders in Odisha are warning that the likely release of the killer of missionary Graham Staines could deepen insecurity among minorities and weaken confidence in justice. Church voices say forgiveness should not replace accountability.",
+      "whyItMatters": "This is a fresh legal and cultural flashpoint that can inform prayer for justice, witness, and protection of vulnerable believers.",
+      "url": "https://www.ucanews.com/news/indian-church-leaders-alarmed-by-likely-release-of-staines-killer/115230"
     },
     {
-      "title": "Report says over 3,000 Christians killed in Nigeria in first eight months of 2026",
-      "summary": "A new report says more than 3,000 Christians have been killed in Nigeria so far this year, with advocates criticizing weak official response and alleged coverups.",
-      "whyItMatters": "The scale of violence makes this important for congregational prayer, missions awareness, and teaching on the global body of Christ.",
-      "url": "https://www.catholicworldreport.com/2026/09/08/new-report-says-over-3000-christians-killed-in-nigeria-in-just-eight-months-in-2026"
+      "title": "Baha’is in Iran face new arrests and prison sentences, rights report says",
+      "summary": "A new August report documents at least 14 Baha’i arrests in Iran, alongside additional prison sentences and ongoing pressure on religious minorities. The pattern points to sustained state-backed repression.",
+      "whyItMatters": "Though not Christian, this is a reminder to pray for all who suffer for conscience and belief, and to teach religious freedom as a biblical concern.",
+      "url": "https://hengaw.net/en/reports-and-statistics-1/2026/09/article-5"
     }
   ],
   "leadership": {
-    "title": "Courage and transparency named essential leadership traits in uncertain times",
-    "summary": "A leadership piece argues that trust grows when leaders act on their values, communicate honestly, and stay focused on long-term faithfulness rather than short-term reactions.",
-    "whyItMatters": "This is a strong pastoral leadership reminder: people trust leaders who are clear, humble, and courageous under pressure.",
-    "url": "https://www.edie.net/why-courage-is-the-most-important-competitive-advantage-for-businesses-in-2026/?amp=true"
+    "title": "Why smart leaders make practical sustainability choices",
+    "summary": "A leadership piece argues that small, measurable operational changes—like reducing energy waste and building resilient habits—can strengthen an organization over time. It frames sustainability as practical stewardship rather than branding.",
+    "whyItMatters": "This offers a useful ministry lens: faithful leadership often means steady, concrete stewardship of people, property, and resources.",
+    "url": "https://practicebusiness.co.uk/practical-sustainability-steps-every-organisation-can-take"
   },
   "goodNews": {
-    "title": "A Filipino artist’s church-based poster project fuels joyful support at the U.S. Open",
-    "summary": "In a small room inside an Episcopal church in Queens, an artist has been printing posters for rising Filipino tennis star Alex Eala as diaspora fans rally around her historic run.",
-    "whyItMatters": "It’s a refreshing picture of creativity, community, and shared joy—helpful for reminding people that beauty and encouragement still flourish.",
-    "url": "https://www.nytimes.com/athletic/7561400/2026/09/05/alex-eala-tennis-fandom-us-open"
+    "title": "Faith leaders in rural communities are being trained to help people through heat waves",
+    "summary": "A Duke University program highlighted in a weekly good-news roundup is equipping rural faith leaders to educate residents, share resources, and even open churches as cooling centres during extreme heat.",
+    "whyItMatters": "It’s a hopeful picture of churches serving their neighbours in practical ways and may spark ideas for local community care.",
+    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-september-12-2026"
   }
 }
