@@ -1,71 +1,90 @@
 {
-  "date": "2026-09-27",
-  "updatedAt": "2026-09-27T15:12:56.041Z",
+  "date": "2026-09-28",
+  "updatedAt": "2026-09-28T18:13:07.637Z",
   "global": [
     {
-      "title": "Trump rejects Iran proposal to reopen Strait of Hormuz",
-      "summary": "The U.S. president has rejected Tehran’s offer to reopen the Strait of Hormuz within seven days, saying Iran proposed it because it is losing the war. The move keeps a major global shipping route under strain.",
-      "whyItMatters": "This affects energy prices, economic anxiety, and prayers for peace—issues that shape the burdens people bring to church.",
-      "url": "https://www.bbc.com/news/world"
+      "title": "Trump says more Iran talks may come this week as tensions remain high",
+      "summary": "Fresh reporting points to possible new U.S.-Iran talks this week even as both sides continue sharp public warnings and the Strait of Hormuz remains a flashpoint.",
+      "whyItMatters": "This keeps the risk of wider war, economic strain, and prayerful concern for peace in front of the church.",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-sept-28-2026/4071113"
     },
     {
-      "title": "Russia launches major overnight drone attacks on Ukraine",
-      "summary": "Ukrainian officials say at least six people were killed and dozens injured after Russia launched 173 drones overnight. Civilian homes were among the reported targets.",
-      "whyItMatters": "Pastors may want to keep Ukraine in public prayer and help congregations resist compassion fatigue as the war grinds on.",
-      "url": "https://www.youtube.com/watch?v=rvFGsGDCfeQ"
+      "title": "Reuters says Trump-Xi summit produced pageantry more than progress",
+      "summary": "Reuters reports that last week’s Trump-Xi summit yielded limited concrete gains, reinforcing a managed stalemate between the U.S. and China despite some tariff adjustments.",
+      "whyItMatters": "Pastors should watch this because U.S.-China strain affects global stability, supply chains, and the anxieties people carry into daily life.",
+      "url": "https://www.reuters.com/world/china/trump-xis-stalemate-summit-was-glitzy-gift-china-2026-09-28"
     },
     {
-      "title": "Pope Leo draws huge crowds in Paris with message to young people",
-      "summary": "Around 700,000 people gathered in central Paris as Pope Leo praised the energy and commitment of young people during a large open-air Mass. The turnout points to a notable public spiritual moment in France.",
-      "whyItMatters": "It offers a fresh preaching and leadership angle on spiritual hunger, public witness, and the importance of investing in younger generations.",
-      "url": "https://www.bbc.com/news/world"
+      "title": "Five men arrested near RAF Fairford released on bail as Iran link is investigated",
+      "summary": "British counterterror police released five young men on bail while continuing to investigate whether the incident near the U.S.-used air base has links to Iran.",
+      "whyItMatters": "It is a reminder that global conflict can spill into allied countries and deepen fear, making wise, non-anxious pastoral leadership important.",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/28/british-police-investigate-whether-arrests-near-us-run-air-base-foiled-an-iran-linked-attack"
     }
   ],
-  "canadian": [],
+  "canadian": [
+    {
+      "title": "Canada looks to deepen ties with Europe amid trade strain with the U.S.",
+      "summary": "Reporting highlights Prime Minister Mark Carney’s push for a stronger Canada-EU partnership after failed U.S. trade talks and new American import restrictions.",
+      "whyItMatters": "Trade tension can shape household costs, jobs, and national mood, all of which affect the people pastors serve each week.",
+      "url": "https://relevantradio.com/2026/09/drew-canada-courts-the-european-union"
+    },
+    {
+      "title": "Covalon reports strong growth ahead of investor conference",
+      "summary": "Toronto-based medical technology company Covalon says revenue grew 20% with a 67% gross margin ahead of a small-cap conference presentation.",
+      "whyItMatters": "It is a modest but encouraging sign of Canadian business strength in healthcare innovation, useful for noticing local signs of resilience.",
+      "url": "https://www.businesswire.com/news/home/20260922240051/en/Covalon-to-Present-at-the-2026-Annual-Smallcap-Discoveries-Conference-After-Reporting-Revenue-Growth-of-20-and-Gross-Margin-of-67"
+    },
+    {
+      "title": "Network outage report notes Vancouver-based ISP disruption affected Canada and U.S.",
+      "summary": "A new internet health report says an August outage centered on a Vancouver regional ISP disrupted downstream providers and customers across Canada and the United States.",
+      "whyItMatters": "Digital fragility matters for churches that depend on online communication, livestreaming, and cloud-based ministry systems.",
+      "url": "https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html"
+    }
+  ],
   "local": [
     {
-      "title": "Fraser Valley communities mark Truth and Reconciliation with local events",
-      "summary": "Across the Valley, communities are hosting gatherings tied to the National Day for Truth and Reconciliation, including cultural sharing, workshops, free meals, and teaching on residential school history.",
-      "whyItMatters": "This is a timely opportunity for pastoral presence, listening, and helping congregations engage reconciliation with humility and action.",
-      "url": "https://fvcurrent.com/p/friday-september-25-chilliwack-s-queer-arts-festival-is-back"
+      "title": "Chilliwack RCMP execute search warrants in drug trafficking investigation",
+      "summary": "Fraser Valley Current reports new drug trafficking raids in Chilliwack, adding to concerns about addiction, crime, and community safety.",
+      "whyItMatters": "This is directly relevant for pastoral care, prayer, and local ministry among families affected by substance use and instability.",
+      "url": "https://fvcurrent.com/p/monday-september-28-drug-trafficking-raids-in-chilliwack"
     },
     {
-      "title": "Queer Arts Festival returns to Chilliwack for a second year",
-      "summary": "Chilliwack’s Queer Arts Festival is expanding with social events, exhibitions, a night market, writing sessions, and performances through late October. The festival reflects growing visibility and community-building in the city.",
-      "whyItMatters": "It helps Kris stay aware of the people, conversations, and cultural spaces shaping the community he serves.",
-      "url": "https://fvcurrent.com/p/queer-arts-festival-returns-to-chilliwack-for-second-year"
+      "title": "Boston Bar residents seek provincial investigation after multiple fires",
+      "summary": "After several structure fires and a brush fire in Boston Bar, local officials are asking the province for a formal investigation as residents remain unsettled.",
+      "whyItMatters": "It highlights community vulnerability and the need for churches to be attentive to fear, trauma, and practical support in nearby regions.",
+      "url": "https://fraservalleytoday.ca/2026/09/24/province-asked-to-investigate-multiple-fires-in-boston-bar"
     },
     {
-      "title": "Old Yale Brewing reopens redesigned Chilliwack flagship",
-      "summary": "After nearly a year of construction, Old Yale Brewing is reopening its Chilliwack location with a redesigned interior, indoor kitchen, and renewed investment in the city where it began.",
-      "whyItMatters": "Local gathering places matter for community life; this is a small but useful sign of civic renewal and where informal pastoral conversations may happen.",
-      "url": "https://fraservalleytoday.ca/2026/09/21/chilliwack-brewery-set-to-welcome-back-guests-to-its-freshly-redesigned-space"
+      "title": "Debate continues over Fraser Valley passenger rail and a Surrey-Newton hub",
+      "summary": "A new opinion piece argues that any future Fraser Valley passenger rail plan should include Surrey, especially Newton, while provincial rail commitments remain unresolved.",
+      "whyItMatters": "Transportation decisions shape regional growth, commuting pressure, and how connected Fraser Valley communities become over time.",
+      "url": "https://dailyhive.com/vancouver/imagine-surrey-bc-passenger-rail-newton"
     }
   ],
   "persecutedChurch": [
     {
-      "title": "West Bengal Christians report coordinated attacks and intimidation",
-      "summary": "Two evangelical house churches in West Bengal were attacked within 24 hours, and local Christian leaders say they have documented 26 persecution cases in three months with little police follow-up.",
-      "whyItMatters": "This is a clear call to prayer, awareness, and solidarity with believers facing pressure simply for gathering and worshipping.",
-      "url": "https://www.asianews.it/en/south-asia/india/west-bengal-more-attacks-on-christians-systematic-intimidation"
+      "title": "Early Rain pastor says Chinese Christians face intensifying pressure",
+      "summary": "Pastor Ding Shuqi of Early Rain Covenant Church gave fresh firsthand testimony that house-church believers across China are living under severe surveillance, detention, and intimidation.",
+      "whyItMatters": "This offers concrete prayer fuel and helps congregations remember that religious freedom is fragile and costly for many believers.",
+      "url": "https://www.christianitydaily.com/news/ding-shuqi-warns-ccp-is-trying-to-crush-christianity-in-china.html"
     },
     {
-      "title": "Early Rain pastor warns of intensifying pressure on Christians in China",
-      "summary": "Pastor Ding Shuqi of Early Rain Covenant Church says the Chinese Communist Party is trying to crush Christianity, describing detentions, isolation, and the ongoing imprisonment of fellow believers.",
-      "whyItMatters": "It gives the church a concrete, current story to inform prayer for China and remind believers of the cost many pay for faithfulness.",
-      "url": "https://www.christianitydaily.com/news/ding-shuqi-warns-ccp-is-trying-to-crush-christianity-in-china.html"
+      "title": "Nigerian pastor and church member killed on their way to worship",
+      "summary": "International Christian Concern reports that a pastor and another believer were killed while traveling to church, amid a broader surge of violence and kidnappings in Nigeria.",
+      "whyItMatters": "It calls the church to intercession, solidarity, and gratitude for freedoms that many believers do not share.",
+      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church"
     }
   ],
   "leadership": {
-    "title": "Leadership gaps are often a systems problem, not just a skills problem",
-    "summary": "A leadership reflection argues that trust, alignment, accountability, and psychological safety must be developed together. Isolated fixes may improve little, but integrated leadership habits create lasting health.",
-    "whyItMatters": "Useful for staff and elder leadership: healthy ministry culture is built systemically, not just through stronger individual effort.",
-    "url": "https://www.linkedin.com/posts/jeremy-erard-2714179_most-leadership-gaps-are-not-a-hiring-problem-activity-7508861211095224323--i3b"
+    "title": "HEC Montréal and UN University launch sustainable leadership program",
+    "summary": "HEC Montréal and the United Nations University announced a new executive certificate focused on decision-making under uncertainty, polarization, and major social and environmental transitions.",
+    "whyItMatters": "It is a useful reminder that leadership today requires discernment, foresight, and the ability to guide people calmly through complexity.",
+    "url": "https://educationnewscanada.com/article/education/level/university/1/1219539/hec-montreal-and-the-united-nations-university-establish-a-first-of-its-kind-executive-education-partnership-in-canada.html"
   },
   "goodNews": {
-    "title": "Tulsa students encouraged to pursue Seal of Biliteracy",
-    "summary": "Tulsa Public Schools is urging students to apply for its Seal of Biliteracy, recognizing young people who demonstrate proficiency in more than one language and honoring their cultural heritage.",
-    "whyItMatters": "It is a hopeful reminder that schools can celebrate multilingual gifts, bridge cultures, and affirm the dignity of diverse communities.",
-    "url": "https://fox23.com/news/local/deadline-approaching-for-students-to-apply-for-tps-seal-of-biliteracy"
+    "title": "Singer’s journey from foster care to The Voice offers an uplifting story",
+    "summary": "BBC highlights a singer whose path from foster care to The Voice UK moved all four judges to turn their chairs.",
+    "whyItMatters": "Stories of perseverance and dignity can help pastors point people to grace, hope, and the possibility of redemption.",
+    "url": "https://www.bbc.com/news/topics/cx2pk70323et"
   }
 }
